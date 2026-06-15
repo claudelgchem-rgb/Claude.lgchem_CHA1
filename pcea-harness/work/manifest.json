@@ -1,9 +1,11 @@
 {
-  "pipeline_status": "not_started",
-  "mode": null,
+  "pipeline_status": "running",
+  "mode": "discovery",
+  "run_subject": "J&J ICOTYDE / icotrokinra / JNJ-2113 / PN-235 (oral IL-23R antagonist peptide)",
   "input_file": "input/patents.yaml",
-  "started_at": null,
-  "updated_at": null,
+  "started_at": "2026-06-15T01:46:00Z",
+  "updated_at": "2026-06-15T01:46:00Z",
+  "current_stage": "discovery",
   "gate1_passed": false,
   "gate2_passed": false,
   "config": {

@@ -12,25 +12,24 @@
 # -----------------------------------------------------------------------------
 # 모드 A: 명시적 특허번호 (이 경우 discovery 단계 건너뜀)
 # -----------------------------------------------------------------------------
-mode: explicit
-patents:
-  - US10550140B2
-  - WO2019/...
-  - KR10-2021-...
+# mode: explicit
+# patents:
+#   - US10550140B2
+#   - WO2019/...
+#   - KR10-2021-...
 
 # -----------------------------------------------------------------------------
 # 모드 B: 주제 검색 (discovery 에이전트가 후보 특허를 찾음)
 # -----------------------------------------------------------------------------
-# 아래 블록을 쓰려면 위의 `mode: explicit`/`patents:` 를 주석 처리하고
-# 다음을 활성화하라.
-#
-# mode: discovery
-# query: "macrocyclic peptide PD-L1 inhibitor"
-# filters:
-#   assignee: [ "Bristol-Myers Squibb", "PeptiDream" ]
-#   date_from: "2015-01-01"
-#   jurisdictions: [ US, EP, WO, KR, JP ]
-#   max_candidates: 30
+# ACTIVE RUN: J&J ICOTRODE / JNJ-2113 (icotrokinra) — oral IL-23 receptor
+# antagonist peptide. 원개발: Protagonist Therapeutics (PN-235/PTG-200 계열).
+mode: discovery
+query: "JNJ-2113 icotrokinra oral IL-23 receptor antagonist peptide"
+filters:
+  assignee: [ "Janssen", "Johnson & Johnson", "Protagonist Therapeutics" ]
+  date_from: "2015-01-01"
+  jurisdictions: [ US, EP, WO, KR, JP ]
+  max_candidates: 40
 
 # -----------------------------------------------------------------------------
 # 공통 설정 (두 모드 모두 적용)
