@@ -1,0 +1,125 @@
+{
+  "patent_id": "US9605027B2",
+  "source_url": "https://www.freepatentsonline.com/9605027.html",
+  "source_type": "freepatentsonline",
+  "retrieved_at": "2026-06-15",
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "An isolated cyclic polypeptide consisting of an amino acid sequence selected from the group consisting of SEQ ID NO: 177, SEQ ID NO: 178 and SEQ ID NO: 179, wherein said isolated cyclic polypeptide inhibits binding of IL-23 to IL-23 receptor and inhibits IL-23-mediated cell signaling.",
+      "claim_type": "independent",
+      "depends_on": [],
+      "char_count": 285
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 177.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 114
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 178.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 114
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 179.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 114
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "A method of inhibiting production of IL-17F in a Th17 cell in a human, comprising the steps of: a) providing a human Th17 cell in need of inhibiting production of IL-17F; and b) exposing said Th17 cell to said isolated cyclic polypeptide of claim 1.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 249
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "The method of claim 5, wherein said IL-17F is IL-17F protein.",
+      "claim_type": "dependent",
+      "depends_on": [
+        5
+      ],
+      "char_count": 61
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "The method of claim 5, wherein said production of IL-17F is assayed by an ELISA.",
+      "claim_type": "dependent",
+      "depends_on": [
+        5
+      ],
+      "char_count": 80
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "A method of inhibiting production of IL-17F in a splenocyte in a human, comprising the steps of: a) providing a human splenocyte in need of inhibiting production of IL-17F from said splenocyte; and b) exposing said splenocyte to said isolated cyclic polypeptide of claim 1.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 273
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "The method of claim 8, wherein said IL-17F is IL-17F mRNA.",
+      "claim_type": "dependent",
+      "depends_on": [
+        8
+      ],
+      "char_count": 58
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "The method of claim 8, wherein said production of IL-17F is assayed by RT-PCR.",
+      "claim_type": "dependent",
+      "depends_on": [
+        8
+      ],
+      "char_count": 78
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "A method of inhibiting production of IL-22 from a mononuclear cell in a human, comprising the steps of: a) providing a human mononuclear cell in need of inhibiting production of IL-22 from said mononuclear cell; and b) exposing said mononuclear cell to said isolated cyclic polypeptide of claim 1.",
+      "claim_type": "dependent",
+      "depends_on": [
+        1
+      ],
+      "char_count": 297
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "The method of claim 11, wherein said IL-22 is IL-22 protein.",
+      "claim_type": "dependent",
+      "depends_on": [
+        11
+      ],
+      "char_count": 60
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "The method of claim 11, wherein said production of IL-22 is assayed by an ELISA.",
+      "claim_type": "dependent",
+      "depends_on": [
+        11
+      ],
+      "char_count": 80
+    }
+  ],
+  "extraction_status": "done",
+  "notes": "All 13 claims extracted verbatim from FPO. First fetch summarized claims 2-13; re-fetched with strict prompt to obtain verbatim text. Claims 2-4 use grammatically odd 'consisting of' phrasing - preserved verbatim."
+}
