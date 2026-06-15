@@ -4,10 +4,17 @@
   "run_subject": "J&J ICOTYDE / icotrokinra / JNJ-2113 / PN-235 (oral IL-23R antagonist peptide)",
   "input_file": "input/patents.yaml",
   "started_at": "2026-06-15T01:46:00Z",
-  "updated_at": "2026-06-15T02:35:00Z",
-  "current_stage": "verification",
-  "gate1_passed": false,
-  "gate2_passed": false,
+  "updated_at": "2026-06-15T03:05:00Z",
+  "current_stage": "complete",
+  "pipeline_status_note": "complete_with_issues — 1 verified (US11939361B2); 7 genuine-family patents needs_rework (FPO source-side noise, cross-source blocked); WO2021146441A1 missing claims 168-186; JP/CA unverifiable; 7 misattributed numbers excluded to Appendix A. Report + docx generated.",
+  "gate1_passed": true,
+  "gate1_note": "US11939361B2 verified; others carried as ⚠미검증 (not dropped)",
+  "gate2_passed": true,
+  "gate2_note": "compilation drift-check: US11939361B2 [VERBATIM] block MATCH vs extracted source (claim_diff.py exit 0)",
+  "outputs": {
+    "report_md": "output/patent_claims_report.md",
+    "report_docx": "output/patent_claims_report.docx (validated, 1208 paragraphs)"
+  },
   "config": {
     "output_language": "ko",
     "preferred_sources": ["google_patents", "espacenet", "uspto_ppubs", "kipris"],
