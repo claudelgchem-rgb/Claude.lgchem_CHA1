@@ -1,0 +1,9 @@
+{
+  "patent_id": "WO2023212432A1",
+  "source_url": "https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023212432",
+  "source_type": "none_verifiable",
+  "retrieved_at": "2026-06-15T00:00:00Z",
+  "claims": [],
+  "extraction_status": "failed",
+  "notes": "Verbatim claims could NOT be extracted from any authoritative source. WIPO Patentscope returned HTTP 403; Google Patents blocked (503). The FreePatentsOnline fallback (https://www.freepatentsonline.com/WO2023212432A1.html) returned content for a 'Multi-Blade Knife Assembly with Protective Cover' which is inconsistent with the stated run subject (oral IL-23R antagonist peptide / icotrokinra formulation) and is almost certainly a mismatched or hallucinated document. FPO content is also routed through a summarizing model and cannot be certified character-for-character. Per verbatim-integrity rules, no claim text was transcribed. Flagged for human review; see _review_queue/WO2023212432A1__extraction.md."
+}

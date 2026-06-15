@@ -1,0 +1,9 @@
+{
+  "patent_id": "WO2024026471A1",
+  "source_url": "https://patents.google.com/patent/WO2024026471A1/en",
+  "source_type": "none_verifiable",
+  "retrieved_at": "2026-06-15T00:00:00Z",
+  "claims": [],
+  "extraction_status": "failed",
+  "notes": "Verbatim claims could NOT be extracted. WIPO Patentscope returned HTTP 403; Google Patents blocked (503). An independent web search confirms WO2024026471A1 is titled 'Cd98hc antigen-binding domains and uses therefor' (applicant: Alector LLC) -- an antibody/biologics document UNRELATED to the stated run subject (oral IL-23R antagonist peptide / icotrokinra formulation). This indicates the provided patent ID does not correspond to an icotrokinra oral-formulation PCT. The FreePatentsOnline fallback returned only a truncated summary (claims 1-112, not full verbatim text) and is routed through a summarizing model; it cannot be certified character-for-character. Per verbatim-integrity rules, no claim text was transcribed. Flagged for human review; see _review_queue/WO2024026471A1__extraction.md."
+}
