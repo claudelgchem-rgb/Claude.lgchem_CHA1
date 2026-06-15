@@ -1,0 +1,111 @@
+{
+  "patent_id": "US11939361B2",
+  "verification_source_url": "https://www.freepatentsonline.com/11939361.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 2,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 3,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 4,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 5,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 6,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 7,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 8,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 9,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 10,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 11,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 12,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 13,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 14,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 15,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 16,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-16",
+    "missing_numbers": []
+  },
+  "verdict": "verified",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=16 MISMATCH=0 (substantive=0, whitespace=0, FPO-OCR-noise=0, image-annotation=0) FABRICATED=0 MISSING=0 (extracted 16 claims; FPO shows 16)."
+}

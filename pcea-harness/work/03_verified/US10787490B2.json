@@ -1,0 +1,123 @@
+{
+  "patent_id": "US10787490B2",
+  "verification_source_url": "https://www.freepatentsonline.com/10787490.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-A peptide inhibitor of an interleukin-23 receptor, or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is: (SEQ ID NO: 1115) [Palm]-[isoGlu]-[PEG4]-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1116) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(PEG4-isoGlu-Palm)]-NN-NH2; (SEQ ID NO: 1117) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(Ac)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1118) [Octanyl]-[IsoGlu]-[PEG4]-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1119) [Octanyl]-[PEG4]-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1120) [Palm]-[PEG4]-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1121) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(PEG4-Octanyl)]-NN-NH2; (SEQ ID NO: 1122) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(PEG4-Palm)]-NN-NH2; (SEQ ID NO: 1123) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)-(PEG4-Palm)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1124) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)-(PEG4-Lauryl)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1125) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(PEG4-Palm)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1126) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(PEG4-Lauryl)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1127) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)-(PEG4-IsoGlu-Palm)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1128) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)-(PEG4-IsoGLu-Lauryl)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1129) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(PEG4-IsoGlu-Palm)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1130) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(PEG4-IsoGlu-Lauryl)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1131) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(IVA)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1132) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(Biotin)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1133) Ac-[Pen]-QTWQ-[Pen]-Phe(4-CONH2)-[2-Nal]-[α-MeLys(Octanyl)]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1134) Ac-[Pen]-[Lys(IVA)]-TWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1135) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[Lys(IVA)]-N-NH2; (SEQ ID NO: 1136) Ac-[Pen]-[Lys(Biotin)]-TWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1137) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[Lys(Biotin)]-N-NH2; (SEQ ID NO: 1138) Ac-[Pen]-[Lys(Octanyl)]-TWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1139) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[Lys(octanyl)]-N-NH2; (SEQ ID NO: 1140) Ac-[Pen]-[Lys(Palm)]-TWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1141) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 2,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla]-NH2; (SEQ ID NO: 1187) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[βAla]-NH2; (SEQ ID NO: 1188) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-[Lys(Ac)]-N-[βAla]-NH2; (SEQ ID NO: 1191) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-SN-NH2; (SEQ ID NO: 1193) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-FN-NH2; (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2; (SEQ ID NO: 1197) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-G-[βAla]-NH2; (SEQ ID NO: 1198) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-R-[βAla]-NH2; (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-S-[βAla]-NH2; (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH2; or (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 ; (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH 2 ; (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla+-NH 2 ; (SEQ ID NO: 1187) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[βAla]-NH 2 ; (SEQ ID NO: 1188) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]- [Lys(Ac)]-N-[βAla]-NH 2 ; (SEQ ID NO: 1191) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-SN-NH 2 ; (SEQ ID NO: 1193) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-FN-NH 2 ; (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 ; (SEQ ID NO: 1197) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-G-[βAla]-NH 2 ; (SEQ ID NO: 1198) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-R-[βAla]-NH 2 ; (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-S-[βAla]-NH 2 ; (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH 2 ; or (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH 2 .",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 3,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2- aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 4,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 5,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]- [2-Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 6,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]- [2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 7,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-S-[βAla]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]- [2-Nal]--[Aib]-[Lys(Ac)]-S-[βAla]-NH 2 .",
+      "note": "FPO OCR/layout noise (stray double-hyphen, superscript-digit spacing, or bracket placement on FPO side); cannot adjudicate without a clean second source (Google/WIPO blocked)"
+    },
+    {
+      "claim_number": 8,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 9,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof according to claim 1, wherein the peptide inhibitor is: (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe]4-(2-aminoethoxy)]-[2- Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH 2 .",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 10,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 11,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 12,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1178) Ac-[Pen]-QTW-[Lys(Ac)]-[Pen]-[Phe[4-(2- aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 13,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1183) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[α-MeLeu]-[Lys(Ac)]-NN-NH2.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 14,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla]-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1186) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[α-MeLeu]-[Lys(Ac)]-N-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 15,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-NN-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1194) Ac-[Pen]-NTW-[Cit]-[Pen]-[Phe[4-(2-aminoethoxy)]- [2-Nal]-[Aib]-[Lys(Ac)]-NN-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 16,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-S-[βAla]-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1200) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[Aib]-[Lys(Ac)]-S-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 17,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1204) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[Aib]-[Lys(Ac)]-[2-Nap]-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 18,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH2.+The method of claim 10, wherein the peptide inhibitor is: (SEQ ID NO: 1205) Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2- Nal]-[Aib]-[Lys(Ac)]-F-[βAla]-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-18",
+    "missing_numbers": []
+  },
+  "verdict": "needs_rework",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=2 MISMATCH=16 (substantive=3, whitespace=12, FPO-OCR-noise=1, image-annotation=0) FABRICATED=0 MISSING=0 (extracted 18 claims; FPO shows 18)."
+}

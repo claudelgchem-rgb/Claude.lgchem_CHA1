@@ -1,0 +1,75 @@
+{
+  "patent_id": "US12018057B2",
+  "verification_source_url": "https://www.freepatentsonline.com/12018057.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-A peptide that is: (SEQ ID NO: 3) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[alpha-MePhe]-NH2; (SEQ ID NO: 4) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-[Phe(4-OMe)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 5) [3,3,3-Trifluoropropionic acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; SEQ ID NO: 6) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COCF3)]-N-[THP]-NH2; (SEQ ID NO: 7) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COtBu)]-N-[THP]-NH2; (SEQ ID NO: 8) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[N-Me-beta-Ala]-NH2; (SEQ ID NO: 9) [Pentanoic acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 10) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 13) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 14) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[N-Me-beta-Ala]-NH2; (SEQ ID NO: 15) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-Q-N-[THP]-NH2; (SEQ ID NO: 18) [(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-[Phe(4-OMe)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 26) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COtBu)]-N-F-NH2; (SEQ ID NO: 33) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(CO2Allyl)]-N-F-NH2; (SEQ ID NO: 51) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COcPr)]-N-[THP]-NH2; (SEQ ID NO: 52) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPr)]-N-[THP]-NH2; (SEQ ID NO: 53) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N-F-NH2; (SEQ ID NO: 54) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COEt)]-N-F-NH2; (SEQ ID NO: 55) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COcPr)]-N-F-NH2; (SEQ ID NO: 56) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N-[THP]-NH2; (SEQ ID NO: 57) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COEt)]-N-[THP]-NH2; (SEQ ID NO: 58) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPr)]-N-F-NH2; (SEQ ID NO 59) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPent)]-N-F-NH2; (SEQ ID NO: 60) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COCF3)-N-F-NH2; (SEQ ID NO: 61) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(COiPr)]-N-F-NH2; (SEQ ID NO: 105) Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 106) Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-ami",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 2,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide of claim 1, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.+The peptide of claim 1, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH 2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 3,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 4,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The pharmaceutical composition of claim 3, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.+The pharmaceutical composition of claim 3, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH 2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 5,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 6,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 7,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 8,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 9,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 10,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-10",
+    "missing_numbers": []
+  },
+  "verdict": "needs_rework",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=7 MISMATCH=3 (substantive=0, whitespace=3, FPO-OCR-noise=0, image-annotation=0) FABRICATED=0 MISSING=0 (extracted 10 claims; FPO shows 10)."
+}

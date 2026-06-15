@@ -1,0 +1,141 @@
+{
+  "patent_id": "US12552836B2",
+  "verification_source_url": "https://www.freepatentsonline.com/12552836.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 2,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 3,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 4,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 5,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 6,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 7,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 8,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein the peptide inhibitor comprises the structure of Formula (Z): R1—X—R2 (Z) or a pharmaceutically acceptable salt or solvate thereof, wherein R1 is a bond, hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence of Formula (II) and R2 is OH or NH2.+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein the peptide inhibitor comprises the structure of Formula (Z): R 1 —X—R 2 (Z) or a pharmaceutically acceptable salt or solvate thereof, wherein R 1 is a bond, hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence of Formula (II) and R 2 is OH or NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 9,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 10,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 9, wherein the conjugated chemical substituent is Ac, Palm, gamaGlu-Palm, isoGlu-Palm, PEG with a molecular weight of 400 Da to 40,000 Da, PEG2-Ac, PEG4-isoGlu-Palm, (PEG)5-Palm, succinic acid, glutaric acid, pyroglutaric acid, benzoic acid, IVA, octanoic acid, 1,4 diaminobutane, isobutyl, or biotin.+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 9, wherein the conjugated chemical substituent is Ac, Palm, gamaGlu-Palm, isoGlu-Palm, PEG with a molecular weight of 400 Da to 40,000 Da, PEG2-Ac, PEG4-isoGlu-Palm, (PEG) 5 -Palm, succinic acid, glutaric acid, pyroglutaric acid, benzoic acid, IVA, octanoic acid, 1,4 diaminobutane, isobutyl, or biotin.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 11,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 1, wherein the peptide inhibitor is selected from the group consisting of: (SEQ ID NO: 242) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[BA]-NH2; (SEQ ID NO: 245) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[(D)Leu]-NH2; (SEQ ID NO: 248) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-H-NH2; (SEQ ID NO: 249) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[Cit]-NH2; (SEQ ID NO: 251) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[(D)Val]-NH2; (SEQ ID NO: 252) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[(D)Lys]-NH2; (SEQ ID NO: 258) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[(D)Phe]-NH2; (SEQ ID NO: 284) Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-[(D)Leu]-NH2; and (SEQ ID NO: 285) Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[[α-MeLys]-[Lys(Ac)]-N-[(D)Leu]-NH2; or a pharmaceutically acceptable salt or solvate thereof; wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor of claim 1, wherein the peptide inhibitor is selected from the group consisting of: (SEQ ID NO: 242) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [BA]-NH 2 ; (SEQ ID NO: 245) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH 2 ; (SEQ ID NO: 248) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-H- NH 2 ; (SEQ ID NO: 249) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [Cit]-NH 2 ; (SEQ ID NO: 251) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Val]-NH 2 ; (SEQ ID NO: 252) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Lys]-NH 2 ; (SEQ ID NO: 258) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Phe]-NH 2 ; (SEQ ID NO: 284) Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH 2 ; and (SEQ ID NO: 285) Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4- (2-aminoethoxy)]-[2-Nal]-[[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH 2 ; or a pharmaceutically acceptable salt or solvate thereof; wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 12,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 13,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 14,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 15,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 16,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 15, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH2 (SEQ ID NO: 6); Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 284); or Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 285); wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor of claim 15, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH 2 (SEQ ID NO: 6); Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH 2 (SEQ ID NO: 284); or Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH 2 (SEQ ID NO: 285); wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 17,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH2 (SEQ ID NO: 6), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH 2 (SEQ ID NO: 6), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 18,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 284), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH 2 (SEQ ID NO: 284), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 19,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 285), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH 2 (SEQ ID NO: 285), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 20,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 21,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-21",
+    "missing_numbers": []
+  },
+  "verdict": "needs_rework",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=14 MISMATCH=7 (substantive=0, whitespace=7, FPO-OCR-noise=0, image-annotation=0) FABRICATED=0 MISSING=0 (extracted 21 claims; FPO shows 21)."
+}

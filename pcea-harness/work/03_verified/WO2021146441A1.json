@@ -1,0 +1,1037 @@
+{
+  "patent_id": "WO2021146441A1",
+  "verification_source_url": "https://www.freepatentsonline.com/WO2021146441.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-A monocyclic peptide inhibitor of an interleukin-23 receptor, or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor comprises an amino acid sequence of Formula (I): X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-X16 (I) wherein X3 is absent or any amino acid; X4 is Abu, Cys, (D)Cys, alpha-MeCys, (D)Pen, Pen, or Pen(sulfoxide); X5 is Cit, Glu, Gly, substituted Gly, Leu, lie, beta-Ala, Ala, Lys, Asn, Pro, Ser, alpha-MeGln, alpha-MeLys, alpha-MeLeu, alpha-MeAsn, Lys(Ac), alpha-MeLys(Ac), Dab(Ac), Dap(Ac), homo-Lys(Ac), Gin, or Asp; X6 is Thr, Aib, Asp, Dab, Gly, Pro, Ser, alpha-MeGln, alpha-MeLys, alpha-MeLeu, alpha-MeAsn, alpha-MeThr, alpha-MeSer, or Val; X7 is unsubstituted Trp, or Trp substituted with cyano, halo, alkyl, haloalkyl, hydroxy, alkoxy, substituted or unsubstituted aryl, or substituted or unsubstituted heteroaryl; X8 is Gin, alpha-MeLys, alpha-MeLeu, alpha-MeLys(Ac), beta-homoGln, Cit, Glu, Phe, substituted Phe, Tyr, Asn, Thr, Val, Aib, alpha-MeGln, alpha-MeAsn, Lys(Ac), Dab(Ac), Dap(Ac), homo-Lys(Ac), 1-Nal, 2-Nal, Lys(b-Ala), Lys(Gly), Lys(Benzyl, Ac), Lys(butyl, Ac), Lys(isobutyl,Ac), Lys(propyl,Ac), or Trp; X9 is Abu, Cys, (D)Cys, alpha-MeCys, (D)Pen, Pen, or Pen(sulfoxide); X10 is Tyr, or substituted Tyr, unsubstituted Phe, or Phe substituted with halo, alkyl, haloalkyl, hydroxy, alkoxy, cyano, cycloalkyl, carboxy, carboxamido, 2-aminoethoxy, or 2-acetylaminoethoxy; and X11 is 2-Nal, Phe(2-Me), Phe(3-Me), Phe(4-Me), Phe(3,4-dimethoxy), 2Quin, 3Quin, 1-Nal, unsubstituted Trp, or Trp substituted with cyano, halo, alkyl, haloalkyl, hydroxy, or alkoxy; X12 is 4-amino-4-carboxy-tetrahydropyran (THP), Acvc, alpha-MeLys, alpha-MeLeu, alpha-MeArg, alpha-MePhe, alpha-MeLeu, alpha-MeLys, alpha-MeAsn, alpha-MeTyr, Ala, cyclohexylAla, Lys, or Aib; X13 is any amino acid; X14 is any amino acid; and i) X15 is any amino acid other than His, (D)His, substituted or unsubstituted His, 2Pal, 3Pal, or 4Pal; X16 is Sarc, aMeLeu, (D)NMeTyr, His, (D)Thr, bAla, Pro, or (D)Pro; and the peptide inhibitor is other than Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-NNPG-NH2; Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2; or Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[Aib]-[bA]-NH2; or ii) X15 is His, (D)His, substituted or unsubstituted His, 2Pal, 3Pal, 4Pal, 4TriazolAla, or 5Pyal; and X16 is absent, (D)aMeTyr, (D)NMeTyr or any amino acid other than THP, substituted or unsubstituted Phe, substituted or unsubstituted (D)Phe, substituted or unsubstituted His, substituted or unsubstituted (D)His, substituted or unsubstituted Trp, substituted or unsubstituted 2-Nal, or N-substituted Asp; and the compound is other than Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 2,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid other than His, (D)His, or substituted or unsubstituted His, 2Pal, 3Pal, or 4Pal; X16 is Sarc, aMeLeu, (D)NMeTyr, His, (D)Thr, bAla, Pro, or (D)Pro; and the compound is other than Ac-[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-NNPG-NH2; Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2; or Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[Aib]-[bA]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid other than His, (D)His, or substituted or unsubstituted His, 2Pal, 3Pal, or 4Pal; X16 is Sarc, aMeLeu, (D)NMeTyr, His, (D)Thr, bAla, Pro, or (D)Pro; and the compound is other than Ac- [Abu] -QTWQC] - [Phe[4-(2-aminoethoxy)] - [2-Nal] - [THP] - [Lys(Ac)] -NNPG-NH 2 ; Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 ; or Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]- [Lys(Ac)] -N- [Aib] - [bA] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 3,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (la): X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-Sarc (la) wherein X4 and X9 form a disulfide bond or a thioether bond; X15 is any amino acid; and ; and the compound is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (la): X3-X4-X5 -X6-X7-X8-X9-X10-X11-X12-X13-X14-X15 -Sarc (la) wherein X4 and X9 form a disulfide bond or a thioether bond; X15 is any amino acid; and ; and the compound is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 4,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (lb): X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-(D)NMeTyr (lb) wherein X4 and X9 form a disulfide bond or a thioether bond; X15 is any amino acid.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (lb): X3 -X4-X5 -X6-X7-X8-X9-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (lb) wherein X4 and X9 form a disulfide bond or a thioether bond; X15 is any amino acid.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 5,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ic): X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-[Pal]-X16 (Ic) wherein Pal is 2Pal, 3Pal, or 4Pal; X16 is absent; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and X4 and X9 form a disulfide bond or a thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ic): X3-X4-X5 -X6-X7-X8-X9-X10-X11-X12-X13-X14- [Pal] -X16 (Ic) wherein Pal is 2Pal, 3Pal, or 4Pal; X16 is absent; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and X4 and X9 form a disulfide bond or a thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 6,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Id): X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-[His']-X16 (Id) wherein His' is His or 3-MeHis; X16 is absent; and X4 and X9 form a disulfide bond or a thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Id): X3 -X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14- [His ' ] -X16 (Id) wherein His' is His or 3-MeHis; X16 is absent; and X4 and X9 form a disulfide bond or a thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 7,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid; X16 is bA, aMe(D)Tyr, (D)NMeTyr, Sarc, Pro, or (D)Pro; and the peptide inhibitor is other than Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-NNPG-NH2; Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2; or Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[Aib]-[bA]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid; X16 is bA, aMe(D)Tyr, (D)NMeTyr, Sarc, Pro, or (D)Pro; and the peptide inhibitor is other than Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-NNPG-NH 2 ; Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 ; or Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]- [Lys(Ac)] -N- [Aib] - [bA] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 8,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid; X16 is bA, aMe(D)Tyr, (D)NMeTyr, Sarc, Pro, or (D)Pro, and the compound is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is any amino acid; X16 is bA, aMe(D)Tyr, (D)NMeTyr, Sarc, Pro, or (D)Pro, and the compound is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 9,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is any amino acid; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is any amino acid; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 10,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 3 Quin, Asn, His, (D)His, (D)Leu, (D)Lys, 3-Pal, 4-Pal, Phe, substituted Phe, (D)Thr, substituted Trp or (D)Val; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 3 Quin, Asn, His, (D)His, (D)Leu, (D)Lys, 3 -Pal, 4-Pal, Phe, substituted Phe, (D)Thr, substituted Trp or (D)Val; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 11,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X16 is (D)NMeTyr.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X16 is (D)NMeTyr.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 12,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X16 is Sarc; and the peptide inhibitor is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X16 is Sarc; and the peptide inhibitor is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 13,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is His, (D)Lys, 3-Pal, or 4-Pal; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is His, (D)Lys, 3-Pal, or 4-Pal; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 14,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is Asn, His, (D), His, (D)Leu, (D)Lys, 3-Pal, substituted or unsubstituted Phe, (D)Thr, or (D)Val; X16 is (D)NMeTyr.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is Asn, His, (D), His, (D)Leu, (D)Lys, 3-Pal, substituted or unsubstituted Phe, (D)Thr, or (D)Val; X16 is (D)NMeTyr.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 15,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 3Quin, Asn, His, (D)His, (D)Leu, (D)Lys, 3-Pal, 4-Pal, or substituted Trp; X16 is Sarc; and the peptide inhibitor is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 3Quin, Asn, His, (D)His, (D)Leu, (D)Lys, 3-Pal, 4-Pal, or substituted Trp; X16 is Sarc; and the peptide inhibitor is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; or Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 16,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 17,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 18,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 3-Pal; and X16 is Sarc.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 3-Pal; and X16 is Sarc.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 19,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is Asn, His, (D)Lys, or 3-Pal; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-NN-[Sarc]-NH2; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[Sarc]-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is Asn, His, (D)Lys, or 3-Pal; X16 is (D)NMeTyr, or Sarc; and the peptide inhibitor is other than Ac- [Pen] -N-T - W - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)]-NN-[Sarc]-NH 2 ; Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Me)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 20,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 5-Pyal, (D)His, (l-Me)His, (3-Me)His, 2-Pal or 3-Pal; and X16 is absent; and the peptide inhibitor is other than Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-H-NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 5-Pyal, (D)His, (l-Me)His, (3-Me)His, 2-Pal or 3-Pal; and X16 is absent; and the peptide inhibitor is other than Ac- [Pen] -N-T - [ W(7 -Me)] - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)]-N-H-NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 21,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 5-Pyal, (l-Me)His, or (3-Me)His; and X16 is absent.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 5-Pyal, (l-Me)His, or (3-Me)His; and X16 is absent.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 22,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X15 is 5-Pyal or (3-Me)His; and X16 is absent.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1 , wherein X15 is 5-Pyal or (3-Me)His; and X16 is absent.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 23,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 24,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 25,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 26,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 27,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 28,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 29,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 30,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 31,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 32,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 33,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 34,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 35,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 36,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 37,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 38,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 39,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ila), (lib), or (IIc): Pen-X5-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-X16 (Ila), Abu-X5-X6-X7-X8-Cys-X10-X11-X12-X13-X14-X15-X16 (lib), or Abu-X5-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-X16 (He), wherein X5-X8 and X10-X14 are as described in claim 1; X15 is His, (D)His, or substituted or unsubstituted His, 2Pal, 3Pal, or 4Pal, and X16 is any amino acid; or X15 is any amino acid and X16 is Sarc; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or the peptide inhibitor is cyclized via a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ila), (lib), or (IIc): Pen-X5 -X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -X16 (Ila), Abu-X5 -X6-X7-X8-Cys-X10-X11-X12-X13-X14-X15 -X16 (lib), or Abu-X5 -X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -X16 (He), wherein X5-X8 and X10-X 14 are as described in claim 1; X15 is His, (D)His, or substituted or unsubstituted His, 2Pal, 3Pal, or 4Pal, and X16 is any amino acid; or X15 is any amino acid and X16 is Sarc; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or the peptide inhibitor is cyclized via a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 40,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 41,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 42,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 43,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 44,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 45,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 46,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 47,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ilia), (Illb), (IIIc), or (IIId): Pen-Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Ilia), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Illb), Abu-Asn-X6-X7-X8-Cys-X10-X11-X12-X13-X14-[Pal]-X16 (IIIc), or Abu-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (IIId), wherein X6-X8 and X10-X14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Ilia), (Illb), (IIIc), or (IIId): Pen- Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Ilia), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Illb), Abu- Asn-X6-X7-X8-Cys-X10-X11-X12-X13-X14-[Pal]-X16 (IIIc), or Abu-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (IIId), wherein X6-X8 and X10-X 14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 48,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (IVa), (IVb), (IVc), or (IV d), (IVe), (IVf), (IVg), or (IVh): Pen-Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-Sarc (IVa), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-Sarc (IVb), Abu-Asn-X6-X7-X8-Cys-X10-X11-X12-X13-X14-X15-Sarc (IVc), Abu-Gln-X6-X7-X8-Pen-X10-Xl1-X12-X13-X14-X15-Sarc (IVd), Pen-Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVe), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVf), Abu-Asn-X6-X7-X8-Cys-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVg), or Abu-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVh), wherein X6-X8 and X10-X14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (IVa), (IVb), (IVc), or (IV d), (IVe), (IVf), (IVg), or (IVh): Pen- Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -Sarc (IVa), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -Sarc (IVb), Abu- Asn-X6-X7-X8-Cys-X 10-X 11-X12-X13-X14-X15-Sarc (IVc), Abu-Gln-X6-X7-X8-Pen-X10-Xl 1-X12-X13-X14-X15-Sarc (IVd), Pen- Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (IVe), Pen-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVf), Abu- Asn-X6-X7-X8-Cys-X10-X11-X12-X13-X14-X15-(D)NMeTyr (IVg), or Abu-Gln-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (IVh), wherein X6-X8 and X10-X 14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 49,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 50,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Va), (Vb), (Vc), or (Vd): Pen-Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Va), Pen-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Vb), Abu-Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14-[Pal]-X16 (Vc), or Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Vd), wherein X7-X8 and X10-X14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Va), (Vb), (Vc), or (Vd): Pen- Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Va), Pen-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Vb), Abu- Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14- [Pal] -X16 (Vc), or Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Vd), wherein X7-X8 and X10-X 14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 51,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Via), (VIb), (Vic), or (VId), (Vie), (Vlf), (VIg), or (VIh): Pen-Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-Sarc (Via), Pen-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-Sarc (VIb), Abu-Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14-X15-Sarc (Vic), Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-Sarc (VId), Pen-Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (Vie), Pen-Gin-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (Vlf), Abu-Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VIg) (SEQ ID NO:536), or Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VIh), wherein X7-X8 and X10-X14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Via), (VIb), (Vic), or (VId), (Vie), (Vlf), (VIg), or (VIh): Pen- Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 - Sarc (Via), Pen-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -Sarc (VIb), Abu- Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14-X15 -Sarc (Vic), Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -Sarc (VId), Pen- Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (Vie), Pen-Gin- Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (Vlf), Abu- Asn-Thr-X7-X8-Cys-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VIg) (SEQ ID NO:536), or Abu-Gln-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VIh), wherein X7-X8 and X10-X 14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 52,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-51, wherein X8 is Gin, alpha-Me-Lys, alpha-MeLys(Ac), Lys(Ac), or Glu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-51, wherein X8 is Gin, alpha- Me-Lys, alpha- MeLys(Ac), Lys(Ac), or Glu.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 53,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 54,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 55,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Vila), (Vllb), (Vile), or (Vlld): Pen-Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Vila), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-[Pal]-X16 (Vllb), Abu-Asn-Thr-X7-Gln-Cys-X10-X11-X12-X13-X14-[Pal]-X16 (Vile) (SEQ ID NO: 448), or Abu-Gln-Thr-X7-Gln-Pen-X10-Xl1-X12-X13-X14-[Pal]-X16 (Vlld), wherein X7 and X10-X14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Vila), (Vllb), (Vile), or (Vlld): Pen- Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Vila), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Vllb), Abu- Asn-Thr-X7-Gln-Cys-X10-X11-X12-X13-X14- [Pal] -X16 (Vile) (SEQ ID NO: 448), or Abu-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14- [Pal] -X16 (Vlld), wherein X7 and X10-X 14 are as described in claim 1; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "FPO OCR/layout noise (stray double-hyphen, superscript-digit spacing, or bracket placement on FPO side); cannot adjudicate without a clean second source (Google/WIPO blocked)"
+    },
+    {
+      "claim_number": 56,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Villa), (VllIb), (VIIIc), (VllId), (Vine), (Vlllf), (VllIg), or (VllIh): Pen-Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-Sarc (Villa), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-Sarc (VllIb), Abu-Asn-Thr-X7-Gln-Cys-X10-X11-X12-X13-X14-X15-Sarc (VIIIc), Abu-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-Sarc (VllId), Pen-Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VllIe) (SEQ ID NO: 450), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VllIf) (SEQ ID NO: 451), Abu-Asn-Thr-X7-Gln-Cys-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VllIg) (SEQ ID NO: 452), or Abu-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15-(D)NMeTyr (VllIh) (SEQ ID NO: 453), wherein X7 and X10-X14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Villa), (VllIb), (VIIIc), (VllId), (Vine), (Vlllf), (VllIg), or (VllIh): Pen- Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -Sarc (Villa), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -Sarc (VllIb), Abu- Asn-Thr-X7-Gln-Cys-X 10-X 11-X12-X13-X14-X15-Sarc (VIIIc), Abu-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -Sarc (VllId), Pen- Asn-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VllIe) (SEQ ID NO: 450), Pen-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VllIf) (SEQ ID NO: 451), Abu- Asn-Thr-X7-Gln-Cys-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VllIg) (SEQ ID NO: 452), or Abu-Gln-Thr-X7-Gln-Pen-X10-X11-X12-X13-X14-X15 -(D)NMeTyr (VllIh) (SEQ ID NO: 453), wherein X7 and X10-X 14 are as described in claim 1; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 57,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-56, wherein X10 is Phe, Phe[4-(2-aminoethoxy)], Phe[4-(2-acetylaminoethoxy)], or Phe(4-CONH2).+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-56, wherein X10 is Phe, Phe[4-(2-aminoethoxy)], Phe[4-(2-acetylaminoethoxy)], or Phe(4-CONH 2 ).",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 58,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 59,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 60,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (IXa), (IXb), (IXc), or (IXd): Pen-Asn-Thr-X7-Gin-Pen-[F(4-2ae)]-X11-X12-X13-X14-[Pal]-X16 (IXa) (SEQ ID NO:454), Pen-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-[Pal]-X16 (IXb) (SEQ ID NO:455), Abu-Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-X12-X13-X14-[Pal]-X16 (IXc) (SEQ ID NO:456), or Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-[Pal]-X16 (IXd) (SEQ ID NO:457), wherein X7, and X11-X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (IXa), (IXb), (IXc), or (IXd): Pen- Asn-Thr-X7- Gin-Pen- [F (4-2ae)] -X11-X12-X13-X14- [Pal] -X16 (IXa) (SEQ ID NO:454), Pen-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14- [Pal] -X16 (IXb) (SEQ ID NO:455), Abu- Asn-Thr-X7-Gln-Cys- [F (4-2ae)] -X11-X12-X13-X14- [Pal] -X16 (IXc) (SEQ ID NO:456), or Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14- [Pal] -X16 (IXd) (SEQ ID NO:457), wherein X7, and X11-X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 61,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Xa), (Xb), (Xc), (Xd), (Xe), (Xf), (Xg), or (Xh): Pen Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-Sarc (Xa) (SEQ ID NO: 458), Pen-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-Sarc (Xb) (SEQ ID NO: 459), Abu-Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-X12-X13-X14-X15-Sarc (Xc) (SEQ ID NO: 460), Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-Sarc (Xd) (SEQ ID NO:461, Pen-Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-(D)NMeTyr (Xe) (SEQ ID NO:462), Pen-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-(D)NMeTyr (Xf) (SEQ ID NO:463), Abu-Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-X12-X13-X14-X15-(D)NMeTyr (Xg) (SEQ ID NO:464), or Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-(D)NMeTyr (Xh) (SEQ ID NO:465), wherein X7, and X11-X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Xa), (Xb), (Xc), (Xd), (Xe), (Xf), (Xg), or (Xh): Pen Asn-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14-X15- Sarc (Xa) (SEQ ID NO: 458), Pen-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14-X15-Sarc (Xb) (SEQ ID NO: 459), Abu-Asn-Thr-X7-Gln-Cys- [F (4-2ae)] -X11-X12-X13-X14-X15-Sarc (Xc) (SEQ ID NO: 460), Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14-X15-Sarc (Xd) (SEQ ID NO:461, Pen-Asn-Thr-X7-Gln-Pen- [F (4-2ae)] -X 1 l-X12-X13-X14-X15-(D)NMeTyr (Xe) (SEQ ID NO:462), Pen-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14-X15-(D)NMeTyr (Xf) (SEQ ID NO:463), Abu-Asn-Thr-X7-Gln-Cys- [F (4-2ae)] -X11-X12-X13-X14-X15-(D)NMeTyr (Xg) (SEQ ID NO:464), or Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X11-X12-X13-X14-X15-(D)NMeTyr (Xh) (SEQ ID NO:465), wherein X7, and X11-X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu- Cys or Abu-Pen thioether bond.",
+      "note": "FPO OCR/layout noise (stray double-hyphen, superscript-digit spacing, or bracket placement on FPO side); cannot adjudicate without a clean second source (Google/WIPO blocked)"
+    },
+    {
+      "claim_number": 62,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-61, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha-MeLys, alpha-MeLeu, Ala, cyclohexylAla, Lys, or Aib.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-61, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha- MeLys, alpha-MeLeu, Ala, cyclohexylAla, Lys, or Aib.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 63,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-61, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha-MeLys, or alpha-MeLeu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-61, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha- MeLys, or alpha-MeLeu.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 64,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 65,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 66,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-65, wherein X13 is Aib, Glu, Cit, Gin, Lys(Ac), alpha-MeArg, alpha-MeGlu, alpha-MeLeu, alpha-MeLys, alpha-Me-Asn, alpha-MeLys(Ac), Dab(Ac), Dap(Ac), homo-Lys(Ac), Lys, pegylated Lys, b-homoGlu, or Lys(Y2-Ac); wherein Y2 is an amino acid.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-65, wherein X13 is Aib, Glu, Cit, Gin, Lys(Ac), alpha-MeArg, alpha-MeGlu, alpha-MeLeu, alpha-MeLys, alpha-Me-Asn, alpha-MeLys(Ac), Dab(Ac), Dap(Ac), homo- Lys(Ac), Lys, pegylated Lys, b-homoGlu, or Lys(Y2-Ac); wherein Y2 is an amino acid.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 67,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 68,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 69,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 70,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 71,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVIIa), (XVIIb), (XVIIc), or (XVIId): Pen-Asn-Thr-[W(7-Me)]-Gin-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XVIIa) (SEQ ID NO:502), Pen-Gin-Thr-[W(7-Me)]-Gin-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XVIIb) (SEQ ID NO:503), Abu-Asn-Thr-[W(7-Me)]-Gln-Cys-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XVIIc) (SEQ ID NO:504), or Abu-Gln-Thr-[W(7-Me)]-Gin-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XVIId) (SEQ ID NO:505), wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XIa), (Xlb), (XIc), or (X1 d): Pen-Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-[Pal]-X16 (XIa) (SEQ ID NO:466), Pen-Gin- Thr-X7-Gln-Pen-[F(4-2ae)] -X1 l-[α-MeLeu]-Lys(Ac)-X14-[Pal]-X16 (Xlb) (SEQ ID NO:467), Abu-Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-[Pal]-X16 (XIc) (SEQ ID NO:468), or Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-[Pal]-X16 (Xld) (SEQ ID NO:469), wherein X7, X11, and X14, and X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2- aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 72,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVIIIa), (XVIIIb), (XVIIIc), (XVIIId), (XVIIIe), (XVIIIf), (XVIIIg), or (XVIIIh): Pen-Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIIa) (SEQ ID NO:506), Pen-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIIb), (SEQ ID NO: 507) Abu-Asn-Thr-[W(7-Me)]-Gln-Cys-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIIc) (SEQ ID NO:508), Abu-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIId) (SEQ ID NO:509), Pen-Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIIIe) (SEQ ID NO:510), Pen-Gln-Thr-[W(7-Me)]-Gin-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIIIf) (SEQ ID NO:511), Abu-Asn-Thr-[W(7-Me)]-Gln-Cys-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIIIg) (SEQ ID NO:512), or Abu-Gln-Thr-[W(7-Me)]-Gin-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIIIh) (SEQ ID NO:513), wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Xlla), (Xllb), (XIIc), or (Xlld), (Xlle), (Xllf), (Xllg), or (Xllh): Pen- Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-X15-(D)NMeTyr (Xlla) (SEQ ID NO:470), Pen-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X 11 - [α-MeLeu] -Lys(Ac)-X 14-X15-(D)NMeTyr (Xllb) (SEQ ID NO:471), Abu- Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-X15-(D)NMeTyr (XIIc) (SEQ ID NO:472), Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-X 14-X15-(D)NMeTyr (Xlld) (SEQ ID NO:473), Pen- Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-X15-(D)NMeTyr (Xlle) (SEQ ID NO:474), Pen-Gln-Thr-X7-Gln-Pen- [F(4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-X 14-X15-(D)NMeTyr (Xllf) (SEQ ID NO:475), Abu- Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-X14-X15-(D)NMeTyr (XHg) (SEQ ID NO:476), or Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-X 14-X15-(D)NMeTyr (Xllh) (SEQ ID NO:477), wherein X7, X11, and X14 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 73,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 2Pal, 3Pal, 4Pal, His, (D)His, Lys, (D)Lys, Leu, (D)Leu, 2Quin, or 3 Quin.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-72, wherein X14 is Asn, 2-Nap, Aib, Arg, Cit, Asp, Phe, Gly, Lys, Leu, Ala, (D)Ala, beta-Ala, His, Thr, n-Leu, Gin, Ser, (D)Ser, Tic, Trp, alpha-MeGln, alpha-MeAsn, alpha-MeLys(Ac), Dab(Ac), Dap(Ac), homo-Lys(Ac), or Lys(Ac).",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 74,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal, 4Pal, His, (D)His, (D)Lys or (D)Leu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-72, wherein X14 is Asn.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 75,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal, His, (D)Lys or (D)Leu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XllIa), (XllIb), (XIIIc), or (XIII d): Pen- Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XllIa) (SEQ ID NO:478), Pen-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XllIb) (SEQ ID NO:479), Abu- Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XIIIc) (SEQ ID NO:480), Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XllId) (SEQ ID NO:481), wherein X7 and X11 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; wherein 2Pal is 2-pyridyl substituted alanine, and 3Pal is 3-pyridyl substituted alanine, and 4Pal is 4-pyridyl substituted alanine and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 76,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is His.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XlVa), (XlVb), (XIVc), (XlVd), (XlVe), (XlVf), (XlVg), or (XlVh): Pen- Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XlVa) (SEQ ID NO:482), Pen-Gin- Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XlVb) (SEQ ID NO:483), Abu- Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XIVc) (SEQ ID NO:484), or Abu-Gln-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XlVd) (SEQ ID NO:485), Pen- Asn-Thr-X7-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XlVe) (SEQ ID NO:486), Pen-Gin- Thr-X7-Gln-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-Asn-X15-(D)NMeTyr (XIV f) (SEQ ID NO:487), Abu- Asn-Thr-X7-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XlVg) (SEQ ID NO:488), or Abu-Gln-Thr-X7-Gln-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-Asn-X15-(D)NMeTyr (XlVh) (SEQ ID NO:489), wherein X7 and X11 are as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 77,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp unsubstiuted or substituted with cyano, halo, alkyl, haloalkyl, hydroxy, alkoxy, phenyl, substituted phenyl, or thienyl; and X11 is as described in claim 1.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 78,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-101, wherein X16 is absent.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with cyano, halo, alkyl, haloalkyl, hydroxy, alkoxy, phenyl, substituted phenyl, or thienyl; and the substitution is at 4-, 5-, 6- or 7- position.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 79,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 90-102, wherein W(7-Me) is replaced with W(7-Ph).+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with cyano, F, Cl, Br, I, Me, Et, i-Pr, n-Pr, n- Bu, t-Bu, CPs, hydroxy, OMe, OEt; and the substitution is at 4-, 5-, 6- or 7- position.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 80,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-103, wherein the peptide inhibitor comprises the structure of Formula (Z): R1-X-R2 (Z) wherein R1 is a hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence of Formula (I), (la), (lb), (Ic), (Id), or any of Formula (Il)-(XVIIId); and R2 is OH, NH2 or N(H)Me.+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of any one of claims 1-76, wherein X7 is Trp substituted with i) phenyl, unsubstituted or substituted with cyano, halo, alkyl, haloalkyl, aryl hydroxy, alkoxy, or haloalkoxy; or ii) thienyl.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 81,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 104, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-X16-R2 (Z') wherein R1 is a hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; and R2 is OH, NH2 or N(H)Me.+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of any one of claims 1-76, wherein X7 is Trp substituted with phenyl, unsubstituted or substituted with Me, Et, n-Pr, i-Pr, t-Bu, OMe, OEt, Cl, F, CF3, OCF3, phenyl, substituted phenyl, or amido.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 82,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof claim 105, wherein X4 is (D)Pen, Pen, or Pen(sulfoxide).+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of any one of claims 1-76, wherein X7 is Trp substituted with unsubstituted phenyl; or unsubstitued thienyl.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 83,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 106, wherein X4 is Pen.+The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Ph",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 84,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 107, wherein X9 is Pen or (D)Pen.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 5-F, 6-F, 7-F, 5- Cl, 6-Cl, 7-Cl, 5-Me, 6- Me, 7-Me, 5-OH, 6-OH, 7-OH, 5-OMe, 6-OMe, or 7-OMe.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 85,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 108, wherein X9 is Pen.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Me, 5-F, 7-F, 6-Cl, 6-Me, 4-OMe, 5- OMe, or 5-Br.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 86,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 109, wherein X4 is Pen and X9 is Pen, and the bond is a disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Me, 6-Me, 4-OMe, or 6-Cl.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 87,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 110, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-X5-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-X16-R2 (Z'-A) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Me or 7-Ph.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 88,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 111, wherein X5 is Asn, Ser, Gin, or Glu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Me.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 89,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 112, wherein X5 is Asn, or Gin.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-76, wherein X7 is Trp substituted with 7-Ph.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 90,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 113, wherein X5 is Asn.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVa), (XVb), (XVc), or (XVd): Pen- Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-[Pal]-X16 (XVa) (SEQ ID NO:490), Pen-Gln-Thr- [ W(7 -Me)] -Gin-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)- Asn- [Pal] -X16 (XVb) (SEQ ID NO:491), Abu- Asn-Thr-[W(7-Me)]-Gln-Cys-[F(4-2ae)]-Xl 1 - [α-MeLeu] -Lys(Ac)-Asn- [Pal] -X16 (XVc) (SEQ ID NO:492), or Abu-Gln-Thr- [ W(7 -Me)] -Gin-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-Asn- [Pal] -X16 (XV d) (SEQ ID NO:493), wherein X11 is as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 91,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 113, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15-X16-R2 (Z'-B) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVIa), (XVIb), (XVIc), (XVId), (XVIe), (XVIf), (XVIg), or (XVIh): Pen- Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIa) (SEQ ID NO:494), Pen-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIb) (SEQ ID NO:495), Abu- Asn-Thr-[W(7-Me)]-Gln-Cys-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIc) (SEQ ID NO:496), or Abu-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVId) (SEQ ID NO:497), Pen- Asn-Thr- [W(7 -Me)] -Gin-Pen- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-Asn-X15-(D)NMeTyr (XVIe) (SEQ ID NO:498), Pen-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIf) (SEQ ID NO:499), Abu- Asn-Thr- [W(7 -Me)] -Gln-Cys- [F (4-2ae)] -X 11 - [α-MeLeu] -Lys(Ac)-Asn-X15-(D)NMeTyr (XVIg) (SEQ ID NO:500), or Abu-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-X11-[α-MeLeu]-Lys(Ac)-Asn-X15-(D)NMeTyr (XVIh) (SEQ ID NO:501), wherein X11 is as described in claim 1; F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu- Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 92,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 114, wherein X6 is Thr.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-91, wherein X11 is 2-Nal, Phe(2-Me), Phe(3-Me), Phe(4-Me), Phe(3,4- dimethoxy), or 1-Nal.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 93,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 115, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15-X16-R2 (Z'-C) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-91, wherein X11 is 2-Nal, or 1-Nal.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 94,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 116, wherein X8 is Gin, alpha-Me-Lys, alpha-MeLys(Ac), Lys(Ac), or Glu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-91, wherein X11 is 2-Nal.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 95,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 117, wherein X8 is Gin.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVIIa), (XVIIb), (XVIIc), or (XVIId): Pen- Asn-Thr- [W(7-Me)] -Gin-Pen- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)-Asn- [Pal] -X16 (XVIIa) (SEQ ID NO:502), Pen-Gin- Thr- [W(7 -Me)] -Gin-Pen- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)-Asn- [Pal] -X16 (XVIIb) (SEQ ID NO:503), Abu- Asn-Thr- [W(7-Me)] -Gln-Cys- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)- Asn- [Pal] -X16 (XVIIc) (SEQ ID NO:504), or Abu-Gln-Thr- [W (7 -Me)] -Gin-Pen- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)-Asn- [Pal] -X16 (XVIId) (SEQ ID NO:505), wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)]; Pal is 2Pal, 3Pal, or 4Pal; and X16 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu- Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 96,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 117, wherein X8 is Lys(Ac).+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein the peptide inhibitor comprises an amino acid sequence of Formula (XVIIIa), (XVIIIb), (XVIIIc), (XVIIId), (XVIIIe), (XVIIIf), (XVIIIg), or (XVIIIh): Pen- Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIIa) (SEQ ID NO:506), Pen-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIIb), (SEQ ID NO: 507) Abu- Asn-Thr- [W(7-Me)] -Gln-Cys- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)- Asn-X15-Sarc (XVIIIc) (SEQ ID NO:508), Abu-Gln-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15-Sarc (XVIIId) (SEQ ID NO:509), Pen- Asn-Thr-[W(7-Me)]-Gln-Pen-[F(4-2ae)]-[2-Nal]-[α-MeLeu]-Lys(Ac)-Asn-X15- (D)NMeTyr (XVIIIe) (SEQ ID NO:510), Pen-Gln-Thr- [ W(7 -Me)] -Gin-Pen- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Ly s(Ac)-Asn-X15- (D)NMeTyr (XVIIIf) (SEQ ID NO:511), Abu- Asn-Thr- [W (7 -Me)] -Gln-Cys- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)-Asn-X15- (D)NMeTyr (XVIIIg) (SEQ ID NO:512), or Abu-Gln-Thr- [W(7 -Me)] -Gin-Pen- [F (4-2ae)] - [2-Nal] - [α-MeLeu] -Lys(Ac)- Asn-X15- (D)NMeTyr (XVIIIh) (SEQ ID NO:513), wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)]; X15 is any amino acid; and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or a Abu-Cys or Abu-Pen thioether bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 97,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 118, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-X10-X11-X12-X13-X14-X15-X16-R2 (Z'-D) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 2Pal, 3Pal, 4Pal, His, (D)His, Lys, (D)Lys, Leu, (D)Leu, 2Quin, or 3 Quin.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 98,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 119, wherein X10 is Phe, Phe[4-(2-aminoethoxy)], Phe[4-(2-acetylaminoethoxy)], or Phe(4-CONFl2).+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal, 4Pal, His, (D)His, (D)Lys or (D)Leu.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 99,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 120, wherein X10 is Phe[4-(2-aminoethoxy)], or Phe[4-(2-acetylaminoethoxy)].+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal, His, (D)Lys or (D)Leu.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 100,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 121, wherein X10 is Phe[4-(2-aminoethoxy)].+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is His.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 101,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 122, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-X16-R2 (Z'-E) (SEQ ID NO:514) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-96, wherein X15 is 3Pal.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 102,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 123, wherein X11 is 2-Nal, Phe(2-Me), Phe(3-Me), Phe(4-Me), Phe(3,4-dimethoxy), or 1-Nal.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-101, wherein X16 is absent.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 103,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 124, wherein X11 is 2-Nal, or 1-Nal.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 90-102, wherein W(7-Me) is replaced with W(7-Ph).",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 104,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 125, wherein X11 is 2-Nal.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 1-103, wherein the peptide inhibitor comprises the structure of Formula (Z): R 1 -X-R 2 (Z) wherein R 1 is a hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence of Formula (I), (la), (lb), (Ic), (Id), or any of Formula (Il)-(XVIIId); and R 2 is OH, NH 2 or N(H)Me.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 105,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 126, wherein the peptide inhibitor comprises the structure of Formula (Z'): R7-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-X12-X13-X14-X15-X16-R2 (Z'-F) (SEQ ID NO:515) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 104, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -X4-X5 -X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-X16-R 2 (Z') wherein R 1 is a hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; and R 2 is OH, NH 2 or N(H)Me.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 106,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 127, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha-MeLys, alpha-MeLeu, Ala, cyclohexylAla, Lys, or Aib.+The peptide inhibitor or pharmaceutically acceptable salt thereof claim 105, wherein X4 is (D)Pen, Pen, or Pen(sulfoxide).",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 107,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 128, wherein X12 is THP.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 106, wherein X4 is Pen.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 108,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 129, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-X13-X14-X15-X16-R2 (Z'-G) (SEQ ID NO:516) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 107, wherein X9 is Pen or (D)Pen.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 109,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 130, wherein X13 is Glu, Gin, Lys(Ac), or Lys.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 108, wherein X9 is Pen.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 110,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 131, wherein X13 is Glu.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 109, wherein X4 is Pen and X9 is Pen, and the bond is a disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 111,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 132, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-X14-X15-X16-R2 (Z'-H) (SEQ ID NO:517) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 110, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen-X5 -X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -X16-R 2 (Z' -A) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 112,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 133, wherein X14 is Asn.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 111, wherein X5 is Asn, Ser, Gin, or Glu.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 113,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 134, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-Asn-X15-X16-R2 (Z'-l) (SEQ ID NO:518) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 112, wherein X5 is Asn.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 114,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 135, wherein X7 is Trp or Trp substituted with alkyl, or phenyl; and the substitution is at the 4-, 5-, 6- or 7- position.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 113, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3-Pen-Asn-X6-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -X16-R 2 (Z' -B) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 115,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 136, wherein X7 is Trp or Trp substituted with Me, Et, i-Pr, n-Pr, n-Bu, t-Bu, or phenyl; and the substitution is at the 4-, 5-, 6- or 7- position.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 114, wherein X6 is Thr.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 116,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 137, wherein X7 is Trp or Trp substituted with 5-Me, 6-Me, 7-Me, 5-phenyl, 6-phenyl or 7-Ph.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 115, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3-Pen-Asn-Thr-X7-X8-Pen-X10-X11-X12-X13-X14-X15 -X16-R 2 (Z' -C) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 117,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 138, wherein X7 is Trp or Trp substituted with 7-Me, 6-Me, or 7-Ph.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 116, wherein X8 is Gin, alpha-Me-Lys, alpha-MeLys(Ac), Lys(Ac), or Glu.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 118,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 139, wherein X7 is Trp or Trp substituted with 7-Me or 7-Ph.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 117, wherein X8 is Lys(Ac).",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 119,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 140, wherein X7 is Trp substituted with 7-Me.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 118, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen-Asn-Thr-X7 -Lys(Ac)-Pen-X10-X11-X12-X13-X14-X15 -X16-R 2 (Z' -D) wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 120,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 141, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-[W(7-Me)]-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-Asn-X15-X16-R2 (Z'-J) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 119, wherein X10 is Phe, Phe[4-(2-aminoethoxy)], Phe[4-(2- acetylaminoethoxy)], or Phe(4-CONFl2).",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 121,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 120, wherein X10 is Phe[4-(2-aminoethoxy)], or Phe[4-(2-acetylaminoethoxy)].+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 120, wherein X10 is Phe[4-(2-aminoethoxy)], or Phe[4-(2- acetylaminoethoxy)] .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 122,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 123,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 122, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-X11-X12-X13-X14-X15-X16-R2 (Z'-E) (SEQ ID NO:514) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 122, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen-Asn-Thr-X7-Lys(Ac)-Pen- [F(4-2ae)] -X11-X12-X13-X14-X15-X16-R 2 (Z'-E) (SEQ ID NO:514) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 124,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 123, wherein X11 is 2-Nal, Phe(2-Me), Phe(3-Me), Phe(4-Me), Phe(3,4-dimethoxy), or 1-Nal.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 123, wherein X11 is 2-Nal, Phe(2-Me), Phe(3-Me), Phe(4-Me), Phe(3,4- dimethoxy), or 1-Nal.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 125,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 126,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 127,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 126, wherein the peptide inhibitor comprises the structure of Formula (Z'): R7-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-X12-X13-X14-X15-X16-R2 (Z'-F) (SEQ ID NO:515) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 126, wherein the peptide inhibitor comprises the structure of Formula (Z'): R7-X3 -Pen-Asn-Thr-X7 -Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -X12-X13-X14-X15-X16-R 2 (Z' -F) (SEQ ID NO:515) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 128,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 127, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha-MeLys, alpha-MeLeu, Ala, cyclohexylAla, Lys, or Aib.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 127, wherein X12 is 4-amino-4-carboxy-tetrahydropyran (THP), alpha- MeLys, alpha-MeLeu, Ala, cyclohexylAla, Lys, or Aib.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 129,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 130,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 129, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-X13-X14-X15-X16-R2 (Z'-G) (SEQ ID NO:516) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 129, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -THP-X13-X14-X15-X16-R 2 (Z' -G) (SEQ ID NO:516) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 131,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 132,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 133,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 132, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-X14-X15-X16-R2 (Z'-H) (SEQ ID NO:517) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 132, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen- Asn-Thr-X7-Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -THP-Glu-X 14-X15-X16-R 2 (Z' -H) (SEQ ID NO:517) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 134,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 135,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 134, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-X7-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-Asn-X15-X16-R2 (Z'-l) (SEQ ID NO:518) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 134, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen-Asn-Thr-X7 -Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -THP-Glu-Asn-X15-X16-R 2 (Z’-l) (SEQ ID NO:518) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 136,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 137,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 136, wherein X7 is Trp or Trp substituted with Me, Et, i-Pr, n-Pr, n-Bu, t-Bu, or phenyl; and the substitution is at the 4-, 5-, 6- or 7- position.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 136, wherein X7 is Trp or Trp substituted with Me, Et, i-Pr, n-Pr, n-Bu, t- Bu, or phenyl; and the substitution is at the 4-, 5-, 6- or 7- position.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 138,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 137, wherein X7 is Trp or Trp substituted with 5-Me, 6-Me, 7-Me, 5-phenyl, 6-phenyl or 7-Ph.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 137, wherein X7 is Trp or Trp substituted with 5-Me, 6-Me, 7-Me, 5- phenyl, 6-phenyl or 7-Ph.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 139,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 140,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 141,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 142,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 141, wherein the peptide inhibitor comprises the structure of Formula (Z'): R1-X3-Pen-Asn-Thr-[W(7-Me)]-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-Asn-X15-X16-R2 (Z'-J) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 141, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -X3 -Pen-Asn-Thr- [W(7-Me)] -Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -THP-Glu- Asn-X15-X16-R 2 (Z'-J) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 143,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 144,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 145,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 146,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 145, wherein the peptide inhibitor comprises the structure of Formula (Z'): Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[His_3Me]-NH2 (SEQ ID NO: 146);+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 143, wherein the peptide inhibitor comprises the structure of Formula (Z'): R 1 -Pen-Asn-Thr- [W(7-Me)] -Lys(Ac)-Pen- [F(4-2ae)] - [2-Nal] -THP-Glu-Asn-X15-X16-R 2 (Z' -K) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 147,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 1, wherein X3 is absent or (D)Arg; X4 is Abu, Cys, (D)Cys, alpha-MeCys, or Pen; X5 is Ala, (allyl)Gly, Ile, Leu, Asn, Nle, or Gln; X6 is Asp, or Thr; X7 is (7-methyl)Trp, (4-F)Trp, or Trp; X8 is Cit, Lys(Ac), Lys(Benzyl, Ac), Lys(butyl, Ac), Lys(isobutyl,Ac), Lys(propyl,Ac),Gln, 4-adamantyl-Phe, (4-AcNH)Phe, or Tyr; X9 is Cys, alpha-MeCys, or Pen; X10 is Phe or substituted Phe, Tyr or substituted Tyr; X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (THP), Acpx, Acvc, alpha-MeLys, or alpha-MeLeu; X13 is alpha-methylGlu, Glu, or Lys(Ac); and X14 is Asn.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 105, wherein X3 is absent or (D)Arg; X4 is Abu, Cys, (D)Cys, alpha-MeCys, or Pen; X5 is Ala, (allyl)Gly, lie, Leu, Asn, Nle, or Gin; X6 is Asp, or Thr; X7 is (7-methyl)Trp, (4-F)Trp, or Trp; X8 is Cit, Lys(Ac), Lys(Benzyl, Ac), Lys(butyl, Ac), Lys(isobutyl,Ac), Lys(propyl,Ac),Gln, 4- adamantyl-Phe, (4-AcNFI)Phe, or Tyr; X9 is Cys, alpha-MeCys, or Pen; X10 is Phe or substituted Phe, Tyr or substituted Tyr; X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (TFIP), Acpx, Acvc, alpha-MeLys, or alpha-MeLeu; X13 is alpha-methylGlu, Glu, or Lys(Ac); and X14 is Asn.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 148,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 147, wherein R1 is H or C1-C20 alkanoyl.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 147, wherein R 1 is H or C1-C20 alkanoyl.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 149,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 148, wherein R1 is H or Ac.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 148, wherein R 1 is H or Ac.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 150,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 149, wherein R1 is Ac.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 149, wherein R 1 is Ac.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 151,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 150, wherein R2 is NH2 or N(H)Me.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 150, wherein R 2 is NH 2 or N(FI)Me.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 152,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 151, wherein R2 is NH2.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 104 to 151, wherein R 2 is NH 2 .",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 153,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 151, wherein R1 is Ac; X3 is absent or (D)Arg; X4 is Pen; X5 is Asn; X6 is Thr; X7 is Trp or (7-Me)Trp or (7-Ph)Trp; X8 is Lys(Ac); X9 is Pen; X10 is Phe(2-aminoethoxy); X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (THP); X13 is Gln; X14 is Asn; and R2 is NH2 or N(H)Me.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 151, wherein R 1 is Ac; X3 is absent or (D)Arg; X4 is Pen; X5 is Asn; X6 is Thr; X7 is Trp or (7-Me)Trp or (7-Ph)Trp; X8 is Lys(Ac); X9 is Pen; X10 is Phe(2-aminoethoxy); X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (THP); X13 is Gin; X14 is Asn; and R 2 is NH 2 or N(H)Me.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 154,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 153, wherein R1 is Ac; X3 is absent; X4 is Pen; X5 is Asn; X6 is Thr; X7 is 7-methylTrp; X8 is Lys(Ac); X9 is Pen; X10 is Phe(2-aminoethoxy); X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (THP); X13 is Glu; X14 is Asn; and R2 is NH2 or N(H)Me.+The peptide inhibitor or pharmaceutically acceptable salt thereof of claim 153, wherein R 1 is Ac; X3 is absent; X4 is Pen; X5 is Asn; X6 is Thr; X7 is 7-methylTrp; X8 is Lys(Ac); X9 is Pen; X10 is Phe(2-aminoethoxy); X11 is 2-Nal; X12 is 4-amino-4-carboxy-tetrahydropyran (THP); X13 is Glu; X14 is Asn; and R 2 is NH 2 or N(H)Me.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 155,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154, wherein X15 is Aib, beta-Ala, (D)Phe, (D)Lys, (D)Leu, (D)Orn, substituted (D)Phe, (D)Arg, (D)Val, (D)Tyr, Phe, Hph, Asn, 4-amino-4-carboxy-tetrahydropyran (THP), substituted Tyr, or Tyr; and X16 is beta-Ala, (D)NMeTyr, (D)Pro, NMeTyr, Pro, or Sarc.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154, wherein X15 is Aib, beta-Ala, (D)Phe, (D)Lys, (D)Leu, (D)Om, substituted (D)Phe, (D)Arg, (D)Val, (D)Tyr, Phe, Hph, Asn, 4-amino-4-carboxy-tetrahydropyran (THP), substituted Tyr, or Tyr; and XI 6 is beta-Ala, (D)NMeTyr, (D)Pro, NMeTyr, Pro, or Sarc.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 156,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154 or 156, wherein X15 is (D)His, substituted His, 2Pal, 3Pal, 4Pal, 4TriazolAla, or 5Pyal; and XI 6 is absent, (D)NMeTyr or Sarc.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154, wherein X15 is 3Pal, substituted 3Pal, 4Pal, 4-triazole-Ala, (D)His, His or substituted His; and XI 6 is absent, Aib, alpha- MePro, (D)Leu, (D)NMeTyr, (D)Pro, (D)Tyr, substituted Gly, MeLeu, MeNLe, Pro, Paf, 4-di-fluoro-Pro, Sarc, or Tyr.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 157,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154 or 156 to 158, wherein X15 is (3-Me)His or 3Pal; and XI 6 is absent or Sarc.+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154 or 156, wherein X15 is (D)His, substituted His, 2Pal, 3Pal, 4Pal, 4TriazolAla, or 5Pyal; and XI 6 is absent, (D)NMeTyr or Sarc.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 158,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-[The peptide inhibitor ... SEQ ID NO: 158] Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO: 158); [NOTE: FPO renders the lead-in of claim 158 ambiguously; the sequence above is verbatim. See review flag.]+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154, 156 or 157, wherein X15 is (3-Me)His or 3Pal; and XI 6 is absent or Sarc.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 159,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[Acvc]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO: 159, 285); [NOTE: FPO renders claim 159 lead-in ambiguously. See review flag.]+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154 or 156 to 158, wherein the peptide inhibitor comprises the structure of Formula (Z'): Ac-Pen-Asn-Thr- [W(7 -Me)] -Lys(Ac)-Pen- [F (4-2ae)] - [2-Nal] -THP-Glu-Asn- [3 -Pal] -X16-NH 2 (Z'-L) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 160,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-Ac-[Pen]-N-T-[W(5-Ca)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO: 160); [NOTE: see review flag.]+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 159, wherein the peptide inhibitor comprises the structure of Formula (Z'): Ac-Pen-Asn-Thr-[W(7-Me)]-Lys(Ac)-Pen-[F(4-2ae)]-[2-Nal]-THP-Glu-Asn-X15-Sarc-NH 2 (Z'- M) wherein F(4-2-ae) is Phe[4-(2-aminoethoxy)], and the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 161,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-Ac-[Pen]-N-T-[Trp_4Aza]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO: 161); [NOTE: see review flag.]+The peptide inhibitor or pharmaceutically acceptable salt thereof of any one of claims 105 to 154 or 156 to 160, wherein X15 is 3Pal; and XI 6 is Sarc.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 162,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of an interleukin-23 receptor, wherein the peptide inhibitor comprises or is any one of the amino acid sequence set forth in any of Table E1A and Table E1B [SEQ ID NO sequence list — see CAPTURED SEQUENCE BLOCK below]; or a pharmaceutically acceptable salt thereof.+A peptide inhibitor of an interleukin-23 receptor, wherein the peptide inhibitor comprises or is any one of the amino acid sequence set forth in any of Table El A and Table E IB; or a pharmaceutically acceptable salt thereof.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 163,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 162, wherein the peptide inhibitor comprises or is any one of the amino acid sequence listed below: [extensive sequence listing through SEQ ID NO:168 — NOT fully captured; see review flag]+The peptide inhibitor of claim 162, wherein the peptide inhibitor comprises or is any one of the amino acid sequence listed below: Ac-[(D)Arg]-[Abu]-Q-T-[W(7-Ph)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a- MeLys] - [Lys(Ac)] -N-dK- [Sarc] -NH 2 (SEQ ID NO:l); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [a-MeLys] - [Lys(Ac)]-N-[(D)Leu)]-[Sarc]-NH 2 (SEQ ID NO:2); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [THP] -E-N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO:3); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [a-MeLys] - [Lys(Ac)] -N- [(D)His] - [Sarc] -NH 2 (SEQ ID NO:4); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [a-MeLys] - [Lys(Ac)] -N-H- [Sarc] -NH 2 (SEQ ID NO:5); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [THP] -E-N- [(D)Leu)]-[Sarc]-NH 2 (SEQ ID NO:6); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 -Quin] - [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO:7); Ac- [(D)Arg] - [Abu] -Q-T - W-Q- [Cys] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [THP] -E-N-N- [(D)NMeTyr] -NH 2 (SEQ ID NO: 8); Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-N- [(D)NMeTyr] -NH 2 (SEQ ID NO: 9); Ac- [(D)Arg] - [Pen] -Q-T -W-Q- [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [THP] - [aMeGlu] -N-F - [(D)NMeTyr] -NH 2 (SEQ ID NO: 10); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [THP] -E-N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO:l 1); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO: 12); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [THP] -E-N- [(D)Leu] - [Sarc] -NH 2 (SEQ ID NO: 13); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [a-MeLys] - [Lys(Ac)] -N- [(D)Leu] - [Sarc] -NH 2 (SEQ ID NO: 14); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [THP] -E-N-H- [Sarc]-NH 2 (SEQ ID NO: 15); Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [3 Quin] - [a-MeLys] - [Lys(Ac)] -N-H- [Sarc] -NH 2 (SEQ ID NO: 16); Ac- [Abu] -Q-T - [ W(7 -Me)] - [Lys(Ac)] - [Cys] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO: 17); Ac-[Abu]-Q-T-[W(7-Ph)]-[Lys(Ac)]-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]- [Lys(Ac)] -N- [(D)Lys] - [Sarc] -NH 2 (SEQ ID NO: 18); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] ",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 164,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 163, wherein the peptide comprises or is: [sequence listing through (SEQ ID NO:168) — NOT fully captured; see review flag]+The peptide inhibitor of claim 163, wherein the peptide comprises or is: Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [3Pal] -NH 2 (SEQ ID NO:80); Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]- [Sarc]-NH 2 (SEQ ID NO: 104); Ac-[Pen]-N-T-[W(7-Me)]-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]- NH 2 (SEQ ID NO: 108); Ac- [Abu] -Q-T - [ W(7 -Me)] -Q- [Cys] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO:l 10); Ac- [Abu] -Q-T - [ W(7 -Me)] - [Cit] - [Cys] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] - N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO: 112); Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [THP] -E-N- [3Quin]- [Sarc] -NH 2 (SEQ ID NO:l 18); Ac-[Pen]-S-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-S-[3Pal]- [Sarc]-NH 2 (SEQ ID NO: 124); or Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [THP] -E- S- [3Pal] - [Sarc]-NH 2 (SEQ ID NO: 125); and wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or via an Abu-C thioether bond; or a pharmaceutically acceptable salt thereof.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 165,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 163, wherein the peptide comprises or is: [sequence listing through (SEQ ID NO:139) — NOT fully captured; see review flag]+The peptide inhibitor of claim 163, wherein the peptide comprises or is: Ac- [Pen] -N-T - [W (7 -Ph)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO: 105); Ac-[Pen]-N-T-[W(7-Ph)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]- [Sarc]-NH 2 (SEQ ID NO: 106); Ac-[Pen]-N-T-[W(7-Ph)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO:l 17); Ac-[Pen]-N-T-[W(7-Ph)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]- NH 2 (SEQ ID NO: 126); Ac-[Pen]-N-T-[W(7-Ph)]-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]- NH 2 (SEQ ID NO: 127); Ac-[Abu]-Q-T-[W(7-Ph)]-Q-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]- NH 2 (SEQ ID NO: 134); Ac-[Abu]-Q-T-[W(7-Ph)]-Q-[Cys]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N- [3Pal] - [Sarc] -NH 2 (SEQ ID NOT35); Ac-[Pen]-N-T-[W(7-Ph)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO:136); Ac-[Pen]-N-T-[W(7-Ph)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aceylaminoethoxy)]-[2-Nal]-[THP]- [Lys(Ac)] -N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO: 137); or Ac-[Pen]-E-T-[W(7-Ph)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N- [3Pal] - [Sarc] -NH 2 (SEQ ID NO:139); and wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond; or via an Abu-C thioether bond; or a pharmaceutically acceptable salt thereof.",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 166,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 162, wherein the peptide inhibitor comprises or is any one of the amino acid sequence listed below: [extensive sequence listing through (SEQ ID NO:373) — NOT fully captured; see review flag]+The peptide inhibitor of claim 162, wherein the peptide inhibitor comprises or is any one of the amino acid sequence listed below: Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Cit] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [aMeLeu] -E- N- [(D)Ly s] - [(D)NMeT yr] -NH 2 (SEQ ID NO:201), Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Cit] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [aMeLeu] -E- N- [(D)His] - [(D)NMeT yr] -NH 2 (SEQ ID NO:202), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [(D)Om] - [(D)NMeTyr] -NH 2 (SEQ ID NO:203), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [(D)Ser] - [(D)NMeTyr] -NH 2 (SEQ ID NO:204), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N - [(D)Phe] - [(D)NMeT yr] -NH 2 (SEQ ID NO:205), Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [THP] -E- N-H-[(D)Tyr] -NH 2 (SEQ ID NO:206), Ac- [Pen] -N-T - [W (7 -Me)] - [(D)Tyr] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N- [(D)Ly s] - [(D)NMeT yr] -NH 2 (SEQ ID NO:207), Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [THP] -E- N-H-P-NH 2 (SEQ ID NO:208), Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [THP] -E- N-H- [(D)Pro] -NH 2 (SEQ ID NO:209), Ac- [Pen] -N-T - [W (7 -Me)] - [Phe(4-CONH 2 )] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N- [(D)Ly s] - [(D)NMeT yr] -NH 2 (SEQ ID NO:210), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [Acvc] -E-N- (D)Phe[4-NH 2 ] - [Sarc] -NH 2 (SEQ ID NO:211), Ac- [(D)Arg] - [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-Nal] - [THP] -E- N-H-NH 2 (SEQ ID NO:212), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N-H-N (H)Me (SEQ ID NO:213), Ac- [Pen] -N-T - [W (7 -Me)] - [Phe(4-NH(Ac))] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N- [(D)Ly s] - [(D)NMeT yr] -NH 2 (SEQ ID NO:214), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Ly s(Ac) ] -N- [(D)Tyr] - [(D)NMeT yr] -NH 2 (SEQ ID NO:215), Ac- [Pen] -N-T - [W (7 -Me)] - [Cit] - [Pen] -Phe [4-(2-aminoethoxy)] - [2-N al] - [aMeLeu] - [Lys(Ac)] -N- [(D)Lys] - [(D)NMeTyr] -NH 2 (SEQ ID NO:216), Ac- [Pen] -N-T - [W (7 -Me)] - [Lys(Ac)] - [Pen] -Phe[4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -N- [(D)His] - [(D)NMeTyr] -NH 2 (SEQ ID NO:21",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    },
+    {
+      "claim_number": 167,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The peptide inhibitor of claim 163 or 166, wherein the peptide is [sequence listing — NOT fully captured; see review flag] --- ## CAPTURED SEQUENCE BLOCK (FPO rendered this block of SEQ ID NO:201-373 as the body of a claim referencing \"claim 162\"; reproduced verbatim. Exact claim-number assignment among 162-167 is uncertain — flagged for review.) Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-E-N-[(D)Lys]-[(D)NMeTyr]-NH2 (SEQ ID NO:201), Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-E-N-[(D)His]-[(D)NMeTyr]-NH2 (SEQ ID NO:202), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Om]-[(D)NMeTyr]-NH2 (SEQ ID NO:203), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Ser]-[(D)NMeTyr]-NH2 (SEQ ID NO:204), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Phe]-[(D)NMeTyr]-NH2 (SEQ ID NO:205), Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-H-[(D)Tyr]-NH2 (SEQ ID NO:206), Ac-[Pen]-N-T-[W(7-Me)]-[(D)Tyr]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[(D)NMeTyr]-NH2 (SEQ ID NO:207), Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-H-P-NH2 (SEQ ID NO:208), Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-H-[(D)Pro]-NH2 (SEQ ID NO:209), Ac-[Pen]-N-T-[W(7-Me)]-[Phe(4-CONH2)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[(D)NMeTyr]-NH2 (SEQ ID NO:210), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[Acvc]-E-N-(D)Phe[4-NH2]-[Sarc]-NH2 (SEQ ID NO:211), Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-H-NH2 (SEQ ID NO:212), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-H-N(H)Me (SEQ ID NO:213), Ac-[Pen]-N-T-[W(7-Me)]-[Phe(4-NH(Ac))]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Lys]-[(D)NMeTyr]-NH2 (SEQ ID NO:214), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)Tyr]-[(D)NMeTyr]-NH2 (SEQ ID NO:215), Ac-[Pen]-N-T-[W(7-Me)]-[Cit]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[aMeLeu]-[Lys(Ac)]-N-[(D)Lys]-[(D)NMeTyr]-NH2 (SEQ ID NO:216), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[(D)His]-[(D)NMeTyr]-NH2 (SEQ ID NO:217), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[bAla]-[(D)NMeTyr]-NH2 (SEQ ID NO:218), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[bAla]-[(D)NMeTyr]-NH2 (SEQ ID NO:219), Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-N-[bAla]-[(D)NMeTyr]-NH2 (SEQ ID NO:220), Ac-[(D)Arg]-[Pen]-",
+      "note": "substantive text difference (different wording/sequence/punctuation) - see unified_diff; needs human review against a primary source"
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-186",
+    "missing_numbers": [
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ]
+  },
+  "verdict": "needs_rework",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=50 MISMATCH=117 (substantive=68, whitespace=47, FPO-OCR-noise=2, image-annotation=0) FABRICATED=0 MISSING=19 (extracted 167 claims; FPO shows 186). Claims present on FPO but absent from extraction: [168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186]. COMPLETENESS/SOURCE-VERSION CONFLICT: FPO renders 186 claims (1-186); extraction captured only 1-167, dropping 168-186. Additionally FPO claim 162 reads a Table-E1A/E1B based claim and claims 163-167 differ from the extracted SEQ-ID-list versions, indicating the extraction's claims 162-167 came from a different rendering than this FPO page. Re-extraction recommended."
+}

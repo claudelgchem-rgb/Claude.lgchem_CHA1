@@ -1,0 +1,195 @@
+{
+  "patent_id": "US11845808B2",
+  "verification_source_url": "https://www.freepatentsonline.com/11845808.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 2,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 1, comprising the amino acid sequence of Formula (Z′): R1-X3-Pen-N-T-X7-Lys(Ac)-Pen-X10-2Nal-X12-E-N-3Pal-Sarc-R2 (Z′) wherein: R1 is hydrogen or Ac; X3 is absent or (D)Arg; X7 is Trp, W(7-Ph), or W(7-Me); X10 is Phe(4-(2-aminoethoxy)); X12 is THP; and R2 is NH2; or a pharmaceutically acceptable salt thereof.+The monocyclic peptide of claim 1, comprising the amino acid sequence of Formula (Z′): R1-X3-Pen-N-T-X7-Lys(Ac)-Pen-X10-2Nal-X12-E-N-3Pal-Sarc-R2 (Z′) wherein: R1 is hydrogen or Ac; X3 is absent or (D)Arg; X7 is Trp, W(7-Ph), or W(7-Me); X10 is Phe(4-(2-aminoethoxy)); X12 is THP; and R2 is NH 2 ; or a pharmaceutically acceptable salt thereof.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 3,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 4,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 5,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-A monocyclic peptide comprising the amino acid sequence selected from the group consisting of: Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO:104); Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO:158); and Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO:247); or a pharmaceutically acceptable salt thereof; wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond.+A monocyclic peptide comprising the amino acid sequence selected from the group consisting of: Ac-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO:104); Ac-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO:158); and Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO:247); or a pharmaceutically acceptable salt thereof; wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 6,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: a pharmaceutically acceptable salt thereof. [NOTE: claim 6 contains a non-text chemical structure drawing not capturable as text — flag for review.]+The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [IMAGE] a pharmaceutically acceptable salt thereof.",
+      "note": "extractor replaced a non-text chemical-structure image with a [NOTE] annotation; FPO renders [IMAGE] (image-only claim body, no capturable text)"
+    },
+    {
+      "claim_number": 7,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: a pharmaceutically acceptable salt thereof. [NOTE: claim 7 contains a non-text chemical structure drawing not capturable as text — flag for review.]+The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [IMAGE] a pharmaceutically acceptable salt thereof.",
+      "note": "extractor replaced a non-text chemical-structure image with a [NOTE] annotation; FPO renders [IMAGE] (image-only claim body, no capturable text)"
+    },
+    {
+      "claim_number": 8,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the peptide comprises the amino acid sequence of: Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO:247), and wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond; or a pharmaceutically acceptable salt thereof.+The monocyclic peptide of claim 5, wherein the peptide comprises the amino acid sequence of: Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO:247), and wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond; or a pharmaceutically acceptable salt thereof.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 9,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [NOTE: claim 9 contains a non-text chemical structure drawing not capturable as text — flag for review.]+The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [IMAGE]",
+      "note": "extractor replaced a non-text chemical-structure image with a [NOTE] annotation; FPO renders [IMAGE] (image-only claim body, no capturable text)"
+    },
+    {
+      "claim_number": 10,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [NOTE: claim 10 contains a non-text chemical structure drawing not capturable as text — flag for review.]+The monocyclic peptide of claim 5, wherein the monocyclic peptide has the structure: [IMAGE]",
+      "note": "extractor replaced a non-text chemical-structure image with a [NOTE] annotation; FPO renders [IMAGE] (image-only claim body, no capturable text)"
+    },
+    {
+      "claim_number": 11,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The monocyclic peptide of claim 5, wherein the peptide comprises the amino acid sequence of: Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH2 (SEQ ID NO:247), and wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond.+The monocyclic peptide of claim 5, wherein the peptide comprises the amino acid sequence of: Ac-[(D)Arg]-[Pen]-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]-[Phe(4-(2-aminoethoxy))]-[2-Nal]-[THP]-E-N-[3Pal]-[Sarc]-NH 2 (SEQ ID NO:247), and wherein the monocyclic peptide is cyclized via a Pen-Pen disulfide bond.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 12,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 13,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 14,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 15,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 16,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 17,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 18,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 19,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 20,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 21,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 22,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 23,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 24,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 25,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 26,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 27,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 28,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 29,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 30,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-30",
+    "missing_numbers": []
+  },
+  "verdict": "needs_rework",
+  "verdict_note": "Re-fetched from FPO only (Google/WIPO/Espacenet returned 403/503) -> cross_source=false; confidence reduced; no independent source to adjudicate FPO-side artifacts. PASS=22 MISMATCH=8 (substantive=0, whitespace=4, FPO-OCR-noise=0, image-annotation=4) FABRICATED=0 MISSING=0 (extracted 30 claims; FPO shows 30)."
+}

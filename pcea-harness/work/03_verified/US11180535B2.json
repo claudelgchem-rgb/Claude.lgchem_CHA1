@@ -1,0 +1,135 @@
+{
+  "patent_id": "US11180535B2",
+  "verification_source_url": "https://www.freepatentsonline.com/11180535.html",
+  "verification_source_type": "freepatentsonline (FPO) HTML",
+  "cross_source": false,
+  "verified_at": "2026-06-15T02:42:19Z",
+  "claim_results": [
+    {
+      "claim_number": 1,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 2,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 3,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 4,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 5,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 6,
+      "status": "MISMATCH",
+      "diff": "--- /tmp/diffwork/a.txt+++ /tmp/diffwork/b.txt@@ -1 +1 @@-The genetic construct according to claim 4, wherein the pharmaceutically acceptable dosage form comprises between about 105 to 1012 of the live genetically engineered host bacterium.+The genetic construct according to claim 4, wherein the pharmaceutically acceptable dosage form comprises between about 10 5 to 10 12 of the live genetically engineered host bacterium.",
+      "note": "whitespace-only difference (FPO/PDF line-wrap or table-cell spacing vs extractor-collapsed text); rights-scope likely unchanged but verbatim differs"
+    },
+    {
+      "claim_number": 7,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 8,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 9,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 10,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 11,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 12,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 13,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 14,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 15,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 16,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 17,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 18,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 19,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    },
+    {
+      "claim_number": 20,
+      "status": "PASS",
+      "diff": "",
+      "note": ""
+    }
+  ],
+  "completeness": {
+    "expected_range": "1-20",
+    "missing_numbers": []
+  },
+  "verdict": "unverifiable",
+  "verdict_note": "SUBJECT-MATTER CONFLICT RESOLVED (LOUD FLAG): The FPO page for patent number 11,180,535 is 'Saccharide binding, tumor penetration, and cytotoxic antitumor chimeric peptides from therapeutic bacteria' (claim 1 = a genetic construct expressing a YebF-fused tumor-penetrating chimeric peptide; application 15/835137; issued 11/23/2021). This is NOT the icotrokinra IL-23R peptide invention. US11180535B2 was MISATTRIBUTED to the Protagonist/Janssen icotrokinra family during discovery/metadata. The 20 extracted claims DO faithfully match this (unrelated) patent's claims verbatim (19 PASS + 1 whitespace-only diff), i.e. extraction was accurate to its source page — but the patent does not belong to the icotrokinra family and must be REMOVED from it / excluded from the icotrokinra claim compilation. Verdict=unverifiable as an icotrokinra-family member. cross_source=false (Google/WIPO/Espacenet blocked), so the misattribution could only be confirmed against FPO itself."
+}
