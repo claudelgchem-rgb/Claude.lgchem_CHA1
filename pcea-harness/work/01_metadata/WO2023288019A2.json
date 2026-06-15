@@ -7,15 +7,34 @@
   "application_number": "PCT/US2022/037205",
   "kind_code": "A2",
   "title": "LIPIDATED PEPTIDE INHIBITORS OF INTERLEUKIN-23 RECEPTOR",
-  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2021-07-14",
   "filing_date": "2022-07-14",
   "publication_date": "2023-01-19",
   "grant_date": null,
   "legal_status": "확인불가",
-  "patent_family": ["US20240173309A1 (US national phase, app 18/495,457)", "US12478617B2 (granted US member, app 18/495,457)"],
-  "estimated_expiry": "확인불가",
-  "notes": "CONFIRMED Janssen/Protagonist. Lipidated IL-23R peptide chemotype (PERIPHERAL to icotrokinra macrocycle, same program). PCT/US2022/037205, intl filing 2022-07-14, priority US provisional 63/221,697 (2021-07-14). Inventors not surfaced (attorney Joseph W. Ricigliano listed). Legal status not surfaced -> 확인불가."
+  "patent_family": [
+    "US20240173309A1 (US national phase, app 18/495,457)",
+    "US12478617B2 (granted US member, app 18/495,457)"
+  ],
+  "estimated_expiry": "추정 2041-07-14 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "CONFIRMED Janssen/Protagonist. Lipidated IL-23R peptide chemotype (PERIPHERAL to icotrokinra macrocycle, same program). PCT/US2022/037205, intl filing 2022-07-14, priority US provisional 63/221,697 (2021-07-14). Inventors not surfaced (attorney Joseph W. Ricigliano listed). Legal status not surfaced -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2021-07-14",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

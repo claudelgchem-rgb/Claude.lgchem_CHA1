@@ -7,15 +7,34 @@
   "application_number": "14/800,627",
   "kind_code": "B2",
   "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
-  "applicants": ["Protagonist Therapeutics, Inc."],
-  "assignees": ["Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2014-07-17",
   "filing_date": "2015-07-15",
   "publication_date": "2017-04-18",
   "grant_date": "2017-04-18",
   "legal_status": "Granted (issued 2017-04-18)",
-  "patent_family": ["WO2016011208A1 (PCT/US2015/040658, same title)", "US10023614B2 (continuation)", "US10941183B2", "US11884748B2"],
-  "estimated_expiry": "확인불가",
-  "notes": "EARLIER-GENERATION (PTG-200 lineage), predates icotrokinra. App 14/800,627 filed 2015-07-15. Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 and 62/119,688 (both 2015-02-23). Inventors not surfaced (refs mention Bhandari et al., Gallagher et al.). Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "WO2016011208A1 (PCT/US2015/040658, same title)",
+    "US10023614B2 (continuation)",
+    "US10941183B2",
+    "US11884748B2"
+  ],
+  "estimated_expiry": "추정 2034-07-17 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "EARLIER-GENERATION (PTG-200 lineage), predates icotrokinra. App 14/800,627 filed 2015-07-15. Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 and 62/119,688 (both 2015-02-23). Inventors not surfaced (refs mention Bhandari et al., Gallagher et al.). Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2014-07-17",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

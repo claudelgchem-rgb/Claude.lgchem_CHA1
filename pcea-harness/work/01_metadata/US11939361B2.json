@@ -7,15 +7,34 @@
   "application_number": "17/531,538",
   "kind_code": "B2",
   "title": "Compositions of peptide inhibitors of Interleukin-23 receptor",
-  "applicants": ["Janssen Pharmaceutica NV", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Pharmaceutica NV", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Pharmaceutica NV",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Pharmaceutica NV",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2020-11-20",
   "filing_date": "2021-11-19",
   "publication_date": "2024-03-26",
   "grant_date": "2024-03-26",
   "legal_status": "Granted (issued 2024-03-26)",
-  "patent_family": ["CA3202226A1 (same title; filed 2021-11-19; published 2022-05-27)", "JP2023145581A (same title; JP national phase)"],
-  "estimated_expiry": "확인불가",
-  "notes": "Composition / salt-solvate patent expressly in the icotrokinra (SEQ ID NO:1) family. Application 17/531,538 filed 2021-11-19. Priority: US Provisional 63/116,568 (filed 2020-11-20) = earliest; and US Provisional 63/275,222 (filed 2021-11-03). Assignees per FPO: Janssen Pharmaceutica NV + Protagonist Therapeutics, Inc. Inventors not surfaced (references mention 'Bhandari et al.'). Family members CA3202226A1 and JP2023145581A confirmed by separate fetches/search. WO publication number of this PCT family was NOT source-confirmed -> not asserted. Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "CA3202226A1 (same title; filed 2021-11-19; published 2022-05-27)",
+    "JP2023145581A (same title; JP national phase)"
+  ],
+  "estimated_expiry": "추정 2040-11-20 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "Composition / salt-solvate patent expressly in the icotrokinra (SEQ ID NO:1) family. Application 17/531,538 filed 2021-11-19. Priority: US Provisional 63/116,568 (filed 2020-11-20) = earliest; and US Provisional 63/275,222 (filed 2021-11-03). Assignees per FPO: Janssen Pharmaceutica NV + Protagonist Therapeutics, Inc. Inventors not surfaced (references mention 'Bhandari et al.'). Family members CA3202226A1 and JP2023145581A confirmed by separate fetches/search. WO publication number of this PCT family was NOT source-confirmed -> not asserted. Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2020-11-20",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

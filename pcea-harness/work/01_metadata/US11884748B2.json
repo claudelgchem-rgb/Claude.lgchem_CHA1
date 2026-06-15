@@ -7,15 +7,36 @@
   "application_number": "17/161,370",
   "kind_code": "B2",
   "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
-  "applicants": ["Protagonist Therapeutics, Inc."],
-  "assignees": ["Protagonist Therapeutics, Inc."],
-  "inventors": ["Bhandari"],
+  "applicants": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "inventors": [
+    "Bhandari"
+  ],
   "priority_date": "2014-07-17",
   "filing_date": "2021-01-28",
   "publication_date": "2024-01-30",
   "grant_date": "2024-01-30",
   "legal_status": "Granted (issued 2024-01-30)",
-  "patent_family": ["US9624268B2", "US10023614B2", "US10941183B2", "WO2016011208A1"],
-  "estimated_expiry": "확인불가",
-  "notes": "EARLIER-GENERATION (PTG-200 lineage). App 17/161,370 filed 2021-01-28. Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 / 62/119,688 (2015-02-23). Inventors surfaced as 'Bhandari et al.'; full names 확인불가. Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "US9624268B2",
+    "US10023614B2",
+    "US10941183B2",
+    "WO2016011208A1"
+  ],
+  "estimated_expiry": "추정 2034-07-17 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "EARLIER-GENERATION (PTG-200 lineage). App 17/161,370 filed 2021-01-28. Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 / 62/119,688 (2015-02-23). Inventors surfaced as 'Bhandari et al.'; full names 확인불가. Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2014-07-17",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

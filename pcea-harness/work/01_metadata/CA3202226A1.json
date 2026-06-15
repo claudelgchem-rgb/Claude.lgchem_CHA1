@@ -7,15 +7,34 @@
   "application_number": "CA3202226",
   "kind_code": "A1",
   "title": "Compositions of peptide inhibitors of interleukin-23 receptor",
-  "applicants": ["Janssen Pharmaceutica NV", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Pharmaceutica NV", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Pharmaceutica NV",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Pharmaceutica NV",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "확인불가",
   "filing_date": "2021-11-19",
   "publication_date": "2022-05-27",
   "grant_date": null,
   "legal_status": "확인불가",
-  "patent_family": ["US11939361B2 (same title; US member; app 17/531,538)", "JP2023145581A (same title; JP member)"],
-  "estimated_expiry": "확인불가",
-  "notes": "Canadian national-phase member of the icotrokinra 'Compositions' family. Filed 2021-11-19, published 2022-05-27 (confirmed via WebSearch of Google Patents snippet). freepatentsonline returned HTTP 404 for this number; Google Patents/Espacenet/Patentscope all blocked (403/503) so a primary-source biblio page could not be fetched. Priority date and legal status not source-confirmed -> 확인불가. The US sibling US11939361B2 claims priority to US provisionals 63/116,568 (2020-11-20) and 63/275,222 (2021-11-03); CA likely shares these but this was NOT confirmed on a CA source, so not asserted as the CA priority date."
+  "patent_family": [
+    "US11939361B2 (same title; US member; app 17/531,538)",
+    "JP2023145581A (same title; JP member)"
+  ],
+  "estimated_expiry": "추정 2041-11-19 (출원일+20년; PTA/PTE 미반영)",
+  "notes": "Canadian national-phase member of the icotrokinra 'Compositions' family. Filed 2021-11-19, published 2022-05-27 (confirmed via WebSearch of Google Patents snippet). freepatentsonline returned HTTP 404 for this number; Google Patents/Espacenet/Patentscope all blocked (403/503) so a primary-source biblio page could not be fetched. Priority date and legal status not source-confirmed -> 확인불가. The US sibling US11939361B2 claims priority to US provisionals 63/116,568 (2020-11-20) and 63/275,222 (2021-11-03); CA likely shares these but this was NOT confirmed on a CA source, so not asserted as the CA priority date.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2021-11-19",
+    "base_type": "출원일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

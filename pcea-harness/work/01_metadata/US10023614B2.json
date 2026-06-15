@@ -7,15 +7,38 @@
   "application_number": "15/831,100",
   "kind_code": "B2",
   "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
-  "applicants": ["Protagonist Therapeutics, Inc."],
-  "assignees": ["Protagonist Therapeutics, Inc."],
-  "inventors": ["Bhandari", "Bourne", "Smythe"],
+  "applicants": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "inventors": [
+    "Bhandari",
+    "Bourne",
+    "Smythe"
+  ],
   "priority_date": "2014-07-17",
   "filing_date": "2017-12-04",
   "publication_date": "2018-07-17",
   "grant_date": "2018-07-17",
   "legal_status": "Granted (issued 2018-07-17)",
-  "patent_family": ["US9624268B2 (via 14/800,627 / 15/442,229 chain)", "WO2016011208A1", "US10941183B2", "US11884748B2"],
-  "estimated_expiry": "확인불가",
-  "notes": "EARLIER-GENERATION (PTG-200 lineage). App 15/831,100 filed 2017-12-04; continuation of 15/442,229 (2017-02-24), a divisional of 14/800,627 (2015-07-15, now US9624268). Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 / 62/119,688 (2015-02-23). Inventors listed include Bhandari, Bourne, Smythe (surnames only as surfaced; full names 확인불가). Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "US9624268B2 (via 14/800,627 / 15/442,229 chain)",
+    "WO2016011208A1",
+    "US10941183B2",
+    "US11884748B2"
+  ],
+  "estimated_expiry": "추정 2034-07-17 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "EARLIER-GENERATION (PTG-200 lineage). App 15/831,100 filed 2017-12-04; continuation of 15/442,229 (2017-02-24), a divisional of 14/800,627 (2015-07-15, now US9624268). Earliest priority US provisional 62/025,899 (2014-07-17); also 62/119,685 / 62/119,688 (2015-02-23). Inventors listed include Bhandari, Bourne, Smythe (surnames only as surfaced; full names 확인불가). Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2014-07-17",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

@@ -7,8 +7,12 @@
   "application_number": "PCT/US2023/060882",
   "kind_code": "A1",
   "title": "IC-TROSA POINT-TO-MULTIPOINT OPTICAL NETWORK SYSTEM",
-  "applicants": ["Dell Products LP"],
-  "assignees": ["Dell Products LP"],
+  "applicants": [
+    "Dell Products LP"
+  ],
+  "assignees": [
+    "Dell Products LP"
+  ],
   "inventors": [],
   "priority_date": "확인불가",
   "filing_date": "2023-01-19",
@@ -16,6 +20,16 @@
   "grant_date": null,
   "legal_status": "확인불가",
   "patent_family": [],
-  "estimated_expiry": "확인불가",
-  "notes": "MISIDENTIFIED IN DISCOVERY — NOT AN ICOTROKINRA PATENT. The real WO2023212427A1 is an optical-network patent by Dell Products LP (PCT/US2023/060882, IPC H04B10/...), unrelated to IL-23 / icotrokinra. The discovery agent labeled this number as an icotrokinra 'oral peptide' PCT, but that is INCORRECT (discovery itself noted Google Patents was not directly fetchable). The actual Janssen/Protagonist oral-formulation PCT does NOT carry this number. FLAG FOR HUMAN REVIEW: the correct WO number for the icotrokinra oral-formulation filing was not source-confirmed and should be re-discovered; do not use WO2023212427 for icotrokinra."
+  "estimated_expiry": "추정 2043-01-19 (출원일+20년; PTA/PTE 미반영)",
+  "notes": "MISIDENTIFIED IN DISCOVERY — NOT AN ICOTROKINRA PATENT. The real WO2023212427A1 is an optical-network patent by Dell Products LP (PCT/US2023/060882, IPC H04B10/...), unrelated to IL-23 / icotrokinra. The discovery agent labeled this number as an icotrokinra 'oral peptide' PCT, but that is INCORRECT (discovery itself noted Google Patents was not directly fetchable). The actual Janssen/Protagonist oral-formulation PCT does NOT carry this number. FLAG FOR HUMAN REVIEW: the correct WO number for the icotrokinra oral-formulation filing was not source-confirmed and should be re-discovered; do not use WO2023212427 for icotrokinra.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2023-01-19",
+    "base_type": "출원일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

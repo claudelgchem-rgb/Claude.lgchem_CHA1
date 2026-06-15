@@ -7,8 +7,12 @@
   "application_number": "PCT/EP2022/084077",
   "kind_code": "A1",
   "title": "PEPTIDE INHIBITORS OF INTERLEUKIN-23 RECEPTOR",
-  "applicants": ["Zealand Pharma A/S"],
-  "assignees": ["Zealand Pharma A/S"],
+  "applicants": [
+    "Zealand Pharma A/S"
+  ],
+  "assignees": [
+    "Zealand Pharma A/S"
+  ],
   "inventors": [],
   "priority_date": "확인불가",
   "filing_date": "2022-12-01",
@@ -16,6 +20,16 @@
   "grant_date": null,
   "legal_status": "확인불가",
   "patent_family": [],
-  "estimated_expiry": "확인불가",
-  "notes": "MISATTRIBUTED IN DISCOVERY — this IS an 'IL-23 receptor peptide inhibitor' patent BUT the applicant is ZEALAND PHARMA A/S (PCT/EP2022/084077, a European-filed PCT), NOT Janssen/Protagonist and NOT the icotrokinra program. It is a competitor's IL-23R peptide (different molecule). Discovery listed assignee as 'Protagonist (Janssen likely co-applicant)' which is INCORRECT per source. Priority date not surfaced on FPO -> 확인불가. FLAG: keep in the corpus only if competitor landscape is in scope; it is NOT an icotrokinra family member."
+  "estimated_expiry": "추정 2042-12-01 (출원일+20년; PTA/PTE 미반영)",
+  "notes": "MISATTRIBUTED IN DISCOVERY — this IS an 'IL-23 receptor peptide inhibitor' patent BUT the applicant is ZEALAND PHARMA A/S (PCT/EP2022/084077, a European-filed PCT), NOT Janssen/Protagonist and NOT the icotrokinra program. It is a competitor's IL-23R peptide (different molecule). Discovery listed assignee as 'Protagonist (Janssen likely co-applicant)' which is INCORRECT per source. Priority date not surfaced on FPO -> 확인불가. FLAG: keep in the corpus only if competitor landscape is in scope; it is NOT an icotrokinra family member.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2022-12-01",
+    "base_type": "출원일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

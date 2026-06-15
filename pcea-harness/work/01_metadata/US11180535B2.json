@@ -7,8 +7,14 @@
   "application_number": "확인불가",
   "kind_code": "B2",
   "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases (per WebSearch / discovery; see notes)",
-  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "확인불가",
   "filing_date": "확인불가",

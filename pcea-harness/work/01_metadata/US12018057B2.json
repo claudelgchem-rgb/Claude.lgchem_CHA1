@@ -7,15 +7,34 @@
   "application_number": "17/149,544",
   "kind_code": "B2",
   "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
-  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2020-01-15",
   "filing_date": "2021-01-14",
   "publication_date": "2024-06-25",
   "grant_date": "2024-06-25",
   "legal_status": "Granted (issued 2024-06-25)",
-  "patent_family": ["US20210261622A1 / US11845808B2 (sibling app 17/149,509, same title)", "WO2021146441A1 (PCT/US2021/013463)"],
-  "estimated_expiry": "확인불가",
-  "notes": "Application 17/149,544 filed 2021-01-14; priority claim US Provisional 62/961,618 filed 2020-01-15 (note: a sibling provisional in the same Jan-2020 cluster as 62/961,624 cited by 17/149,509). IPC C07K14/47; A61K38/00. Inventors not surfaced by FPO. Expiry not source-confirmed (term + PTA) -> 확인불가."
+  "patent_family": [
+    "US20210261622A1 / US11845808B2 (sibling app 17/149,509, same title)",
+    "WO2021146441A1 (PCT/US2021/013463)"
+  ],
+  "estimated_expiry": "추정 2040-01-15 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "Application 17/149,544 filed 2021-01-14; priority claim US Provisional 62/961,618 filed 2020-01-15 (note: a sibling provisional in the same Jan-2020 cluster as 62/961,624 cited by 17/149,509). IPC C07K14/47; A61K38/00. Inventors not surfaced by FPO. Expiry not source-confirmed (term + PTA) -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2020-01-15",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

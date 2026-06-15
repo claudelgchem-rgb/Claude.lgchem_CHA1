@@ -7,15 +7,33 @@
   "application_number": "15/727,360",
   "kind_code": "E1 (reissue)",
   "title": "Polypeptides that bound to IL-23 receptor and inhibit binding of IL-23 and cell signaling thereof",
-  "applicants": ["Medical Diagnostic Laboratories, LLC"],
-  "assignees": ["Medical Diagnostic Laboratories, LLC"],
+  "applicants": [
+    "Medical Diagnostic Laboratories, LLC"
+  ],
+  "assignees": [
+    "Medical Diagnostic Laboratories, LLC"
+  ],
   "inventors": [],
   "priority_date": "2011-06-14",
   "filing_date": "2017-10-06",
   "publication_date": "2022-04-12",
   "grant_date": "2022-04-12",
   "legal_status": "Reissued patent (issued 2022-04-12)",
-  "patent_family": ["US9169292 (the original patent reissued)", "US8946150", "US9605027B2 (related sibling, same assignee/program)"],
-  "estimated_expiry": "확인불가",
-  "notes": "MISATTRIBUTED IN DISCOVERY — assignee is MEDICAL DIAGNOSTIC LABORATORIES, LLC, NOT Protagonist. Reissue (app 15/727,360 filed 2017-10-06; reissued 2022-04-12) of US9169292 (lineage from 13/523,286 -> US8946150). Priority US provisional 61/520,710 (2011-06-14). Unrelated to icotrokinra/Protagonist program. FLAG FOR HUMAN REVIEW: not an icotrokinra family member. NOTE: this reissue derives from US9169292, which is a DIFFERENT original patent than US9605027B2 (also in this corpus) despite identical title; both are Medical Diagnostic Laboratories IL-23R polypeptide patents."
+  "patent_family": [
+    "US9169292 (the original patent reissued)",
+    "US8946150",
+    "US9605027B2 (related sibling, same assignee/program)"
+  ],
+  "estimated_expiry": "추정 2031-06-14 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "MISATTRIBUTED IN DISCOVERY — assignee is MEDICAL DIAGNOSTIC LABORATORIES, LLC, NOT Protagonist. Reissue (app 15/727,360 filed 2017-10-06; reissued 2022-04-12) of US9169292 (lineage from 13/523,286 -> US8946150). Priority US provisional 61/520,710 (2011-06-14). Unrelated to icotrokinra/Protagonist program. FLAG FOR HUMAN REVIEW: not an icotrokinra family member. NOTE: this reissue derives from US9169292, which is a DIFFERENT original patent than US9605027B2 (also in this corpus) despite identical title; both are Medical Diagnostic Laboratories IL-23R polypeptide patents.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2011-06-14",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

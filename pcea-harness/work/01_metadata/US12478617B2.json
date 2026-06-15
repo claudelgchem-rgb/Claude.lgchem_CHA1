@@ -7,15 +7,34 @@
   "application_number": "18/495,457",
   "kind_code": "B2",
   "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
-  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2021-07-14",
   "filing_date": "2023-10-26",
   "publication_date": "2025-11-25",
   "grant_date": "2025-11-25",
   "legal_status": "Granted (issued 2025-11-25)",
-  "patent_family": ["US20240173309A1 (pre-grant pub of same app 18/495,457)", "WO2023288019A2 (PCT/US2022/037205)"],
-  "estimated_expiry": "확인불가",
-  "notes": "PERIPHERAL (lipidated chemotype). Granted 2025-11-25 from app 18/495,457. Priority: PCT/US2022/037205 (2022-07-14); US provisional 63/221,697 (2021-07-14). Inventors not surfaced. Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "US20240173309A1 (pre-grant pub of same app 18/495,457)",
+    "WO2023288019A2 (PCT/US2022/037205)"
+  ],
+  "estimated_expiry": "추정 2041-07-14 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "PERIPHERAL (lipidated chemotype). Granted 2025-11-25 from app 18/495,457. Priority: PCT/US2022/037205 (2022-07-14); US provisional 63/221,697 (2021-07-14). Inventors not surfaced. Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2021-07-14",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

@@ -7,15 +7,32 @@
   "application_number": "17/001,428",
   "kind_code": "B2",
   "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
-  "applicants": ["Protagonist Therapeutics, Inc."],
-  "assignees": ["Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "2019-07-10",
   "filing_date": "2020-08-24",
   "publication_date": "2021-06-22",
   "grant_date": "2021-06-22",
   "legal_status": "Granted (issued 2021-06-22)",
-  "patent_family": ["PCT/US2020/041409 (filed 2020-07-09, related international application)", "WO2021146441A1 (program PCT)"],
-  "estimated_expiry": "확인불가",
-  "notes": "Application 17/001,428 filed 2020-08-24. Priority: International App PCT/US2020/041409 (filed 2020-07-09); US Provisional 62/872,477 (filed 2019-07-10) = earliest priority. Assignee shown as Protagonist Therapeutics, Inc. on FPO. IPC C07K7/08; A61K38/00. Inventors not surfaced. Expiry not source-confirmed -> 확인불가."
+  "patent_family": [
+    "PCT/US2020/041409 (filed 2020-07-09, related international application)",
+    "WO2021146441A1 (program PCT)"
+  ],
+  "estimated_expiry": "추정 2039-07-10 (우선일+20년; PTA/PTE 미반영)",
+  "notes": "Application 17/001,428 filed 2020-08-24. Priority: International App PCT/US2020/041409 (filed 2020-07-09); US Provisional 62/872,477 (filed 2019-07-10) = earliest priority. Assignee shown as Protagonist Therapeutics, Inc. on FPO. IPC C07K7/08; A61K38/00. Inventors not surfaced. Expiry not source-confirmed -> 확인불가.",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2019-07-10",
+    "base_type": "우선일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }

@@ -7,15 +7,33 @@
   "application_number": "PCT/US2021/013463",
   "kind_code": "A1",
   "title": "PEPTIDE INHIBITORS OF INTERLEUKIN-23 RECEPTOR AND THEIR USE TO TREAT INFLAMMATORY DISEASES",
-  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
-  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "applicants": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
+  "assignees": [
+    "Janssen Biotech, Inc.",
+    "Protagonist Therapeutics, Inc."
+  ],
   "inventors": [],
   "priority_date": "확인불가",
   "filing_date": "2021-01-14",
   "publication_date": "2021-07-22",
   "grant_date": null,
   "legal_status": "확인불가",
-  "patent_family": ["US20210261622A1 (US national phase; same title; app 17/149,509; priority US provisional 62/961,624 filed 2020-01-15)"],
-  "estimated_expiry": "확인불가",
-  "notes": "FPO front-matter did not surface inventors or priority date for the WO; US national-phase sibling US20210261622A1 claims priority to US provisional 62/961,624 (filed 2020-01-15), so PCT priority is most likely the same provisional, but the WO page itself did not confirm it -> recorded as 확인불가 to avoid guessing. Discovery notes had referenced an earlier provisional (62/872,477, 2019-07-10) for the broader genus family, but that was NOT source-confirmed for THIS WO; not asserted here. International filing date 2021-01-14. Patent family cross-refs cited on FPO page: WO2018136646A1, WO2017011820A2, WO2016011208A1, WO2008101017A2 (these are prior-art / earlier-program references, not necessarily same legal family)."
+  "patent_family": [
+    "US20210261622A1 (US national phase; same title; app 17/149,509; priority US provisional 62/961,624 filed 2020-01-15)"
+  ],
+  "estimated_expiry": "추정 2041-01-14 (출원일+20년; PTA/PTE 미반영)",
+  "notes": "FPO front-matter did not surface inventors or priority date for the WO; US national-phase sibling US20210261622A1 claims priority to US provisional 62/961,624 (filed 2020-01-15), so PCT priority is most likely the same provisional, but the WO page itself did not confirm it -> recorded as 확인불가 to avoid guessing. Discovery notes had referenced an earlier provisional (62/872,477, 2019-07-10) for the broader genus family, but that was NOT source-confirmed for THIS WO; not asserted here. International filing date 2021-01-14. Patent family cross-refs cited on FPO page: WO2018136646A1, WO2017011820A2, WO2016011208A1, WO2008101017A2 (these are prior-art / earlier-program references, not necessarily same legal family).",
+  "estimated_expiry_basis": {
+    "method": "earliest priority/filing + 20y (US §154 utility term)",
+    "base_date": "2021-01-14",
+    "base_type": "출원일",
+    "excludes": [
+      "PTA",
+      "PTE/Hatch-Waxman",
+      "provisional-vs-nonprovisional distinction unverified"
+    ]
+  }
 }
