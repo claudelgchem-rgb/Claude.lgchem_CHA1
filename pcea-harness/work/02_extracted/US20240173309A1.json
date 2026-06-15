@@ -1,0 +1,432 @@
+{
+  "patent_id": "US20240173309A1",
+  "source_url": "https://www.freepatentsonline.com/20240173309.html",
+  "source_type": "freepatentsonline_html",
+  "retrieved_at": "2026-06-15T02:03:44Z",
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 22,
+      "claim_text": "(canceled)",
+      "claim_type": "",
+      "depends_on": [],
+      "char_count": 10
+    },
+    {
+      "claim_number": 23,
+      "claim_text": "An interleukin-23 receptor inhibitor selected from the group consisting of: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "independent",
+      "depends_on": [],
+      "char_count": 122
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 37,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 38,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 39,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 40,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 41,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 42,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 43,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 44,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 45,
+      "claim_text": "The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 129
+    },
+    {
+      "claim_number": 46,
+      "claim_text": "A pharmaceutical composition comprising: (i) the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, and (ii) a pharmaceutically acceptable carrier, excipient, or diluent.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 213
+    },
+    {
+      "claim_number": 47,
+      "claim_text": "A method for treating a disease or disorder associated with interleukin 23 (IL-23)/interleukin 23 receptor (IL-23R), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 304
+    },
+    {
+      "claim_number": 48,
+      "claim_text": "A method for treating inflammatory bowel diseases (IBDs), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 245
+    },
+    {
+      "claim_number": 49,
+      "claim_text": "A method for treating ulcerative colitis (UC), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 234
+    },
+    {
+      "claim_number": 50,
+      "claim_text": "A method for treating Crohn's disease (CD), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 231
+    },
+    {
+      "claim_number": 51,
+      "claim_text": "A method for treating psoriasis (PsO), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 226
+    },
+    {
+      "claim_number": 52,
+      "claim_text": "A method for treating psoriatic arthritis (PsA), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "claim_type": "dependent",
+      "depends_on": [
+        23
+      ],
+      "char_count": 236
+    }
+  ],
+  "extraction_status": "partial",
+  "notes": "Claims 1-52 extracted via FPO. Claims 1-22 are '(canceled)'. Claim 23 is a Markush 'selected from the group consisting of:' whose member structures are CHEMICAL STRUCTURE DRAWINGS (non-text) and are NOT reproduced. Dependent claims 24-45 each recite 'having the following structure:' followed by a non-text chemical structure drawing; only surrounding text captured. FLAG FOR REVIEW: all compound structures are images, not transcribable text. depends_on for 24-52 = [23]."
+}
