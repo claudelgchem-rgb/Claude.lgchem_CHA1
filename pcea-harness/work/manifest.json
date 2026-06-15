@@ -1,0 +1,33 @@
+{
+  "pipeline_status": "not_started",
+  "mode": null,
+  "input_file": "input/patents.yaml",
+  "started_at": null,
+  "updated_at": null,
+  "gate1_passed": false,
+  "gate2_passed": false,
+  "config": {
+    "output_language": "ko",
+    "preferred_sources": ["google_patents", "espacenet", "uspto_ppubs", "kipris"],
+    "retry_limit": 2
+  },
+  "patents": {},
+  "summary": {
+    "total": 0,
+    "verified": 0,
+    "needs_review": 0,
+    "failed": 0
+  },
+  "_schema": {
+    "patents": {
+      "<patent_id>": {
+        "discovery": "pending|done|skipped|failed",
+        "metadata": "pending|done|failed",
+        "extracted": "pending|done|partial|failed",
+        "verified": "pending|done|needs_review|failed",
+        "analyzed": "pending|done|failed",
+        "retries": 0
+      }
+    }
+  }
+}
