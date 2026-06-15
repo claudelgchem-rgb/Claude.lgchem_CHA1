@@ -1,0 +1,21 @@
+{
+  "patent_id": "US11180535B2",
+  "source_url": "https://www.freepatentsonline.com/11180535.html",
+  "source_type": "freepatentsonline.com (CONFLICTING RECORD) + WebSearch cross-check",
+  "retrieved_at": "2026-06-15T02:15:00Z",
+  "publication_number": "US11180535B2",
+  "application_number": "확인불가",
+  "kind_code": "B2",
+  "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases (per WebSearch / discovery; see notes)",
+  "applicants": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "assignees": ["Janssen Biotech, Inc.", "Protagonist Therapeutics, Inc."],
+  "inventors": [],
+  "priority_date": "확인불가",
+  "filing_date": "확인불가",
+  "publication_date": "확인불가",
+  "grant_date": "확인불가",
+  "legal_status": "확인불가",
+  "patent_family": [],
+  "estimated_expiry": "확인불가",
+  "notes": "SOURCE CONFLICT — UNRESOLVED. freepatentsonline.com's record for patent number 11,180,535 returns a DIFFERENT, unrelated patent ('Saccharide binding, tumor penetration, and cytotoxic antitumor chimeric peptides from therapeutic bacteria', application 15/835,137, filed 2017-12-07, granted 2021-11-23, provisional 62/431,208 2016-12-06). This does NOT match the icotrokinra program. WebSearch results (PatSnap/Synapse-derived) describe US11180535B2 as the granted icotrokinra cyclic-peptide composition-of-matter patent (Janssen/Protagonist, published Nov 2021). The two cannot both be correct for the same number. Authoritative sources (USPTO Patent Public Search, USPTO full-text PDF endpoint image-ppubs.uspto.gov, Espacenet, Google Patents, Justia) were all blocked (403/503/ECONNREFUSED) in this pass and could not adjudicate. Therefore grant date, application number, filing date, and legal status are recorded as 확인불가 (unverifiable) rather than guessed. FLAG FOR HUMAN REVIEW: confirm the true bibliographic data for US11180535B2 against USPTO Patent Public Search before relying on it in the report. Title/applicants above reflect the icotrokinra identity asserted by discovery + WebSearch but the granted-patent front-page data is NOT source-confirmed here."
+}
