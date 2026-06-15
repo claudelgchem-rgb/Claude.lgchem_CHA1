@@ -1,0 +1,256 @@
+{
+  "query": "Johnson & Johnson ICOTYDE / icotrokinra / JNJ-2113 / JNJ-77242113 / PN-235 - oral macrocyclic (cyclic) peptide IL-23 receptor (IL-23R) antagonist; co-developed by Protagonist Therapeutics and Janssen Biotech (J&J). Discover composition-of-matter, salt/crystalline/composition, oral formulation, and method-of-treatment patents plus PCT (WO) families and national-phase equivalents (US, EP, KR, JP, CN, CA).",
+  "filters": {
+    "assignees": ["Protagonist Therapeutics, Inc.", "Janssen Biotech, Inc.", "Janssen Pharmaceutica NV", "Janssen Research & Development", "Johnson & Johnson"],
+    "subject_matter": ["cyclic/macrocyclic peptide IL-23R antagonist composition-of-matter", "salt/crystalline/pharmaceutical composition", "oral formulation/tablet", "methods of treatment (psoriasis, ulcerative colitis, Crohn's, psoriatic arthritis)"],
+    "jurisdictions": ["WO", "US", "EP", "KR", "JP", "CN", "CA"],
+    "known_leads_to_expand": ["US11180535B2", "WO2023212427", "WO2023212432", "WO2024026471", "WO2024026472", "WO2021146441", "US20210261622"]
+  },
+  "retrieved_at": "2026-06-15T01:54:00Z",
+  "candidates": [
+    {
+      "patent_id": "WO2021146441A1",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/WO2021146441A1/en",
+      "source_type": "google_patents (confirmed via search snippet + USPTO US11939361 cross-reference)",
+      "relevance_note": "CORE composition-of-matter PCT (PCT/US2020/041409, prio 62/872,477 filed 2019-07-10) that discloses Peptide #104 = icotrokinra (SEQ ID NO:1); the foundational cyclic-peptide genus claim.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US20210261622A1",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/US20210261622A1/en",
+      "source_type": "google_patents (confirmed via search snippet + US11939361 cross-reference)",
+      "relevance_note": "CORE US national-phase publication of the WO2021146441 composition-of-matter genus; expressly discloses Peptide #104 = icotrokinra (SEQ ID NO:1).",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US11180535B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/US11180535B2/en",
+      "source_type": "google_patents (confirmed via search snippet; known lead)",
+      "relevance_note": "CORE granted US composition-of-matter patent for the cyclic peptide IL-23R scaffold underlying icotrokinra (one of the earliest granted members of the genus family).",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US11845808B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11845808",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "CORE granted US continuation in the icotrokinra cyclic-peptide IL-23R genus family (same title/assignees).",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US12018057B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/US12018057B2/en",
+      "source_type": "google_patents (confirmed via search snippet + uspto pdf)",
+      "relevance_note": "CORE granted US continuation in the icotrokinra cyclic-peptide IL-23R genus family; covers IL-23R-binding peptides suitable for oral administration.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US12552836B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12552836",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "CORE granted US continuation in the icotrokinra cyclic-peptide IL-23R genus family (same title/assignees).",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US11041000B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11041000",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "Granted US member of the icotrokinra cyclic-peptide IL-23R genus family (same title/assignees).",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US10787490B2",
+      "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10787490",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "Granted US member of the icotrokinra cyclic-peptide IL-23R genus family (same title/assignees); earlier-issued composition claims.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "US11939361B2",
+      "title": "Compositions of peptide inhibitors of Interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11939361",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "CORE pharmaceutical-composition / salt-solvate patent that expressly claims the peptide of SEQ ID NO:1 (= icotrokinra, Peptide #104 of WO2021146441/US2021/0261622); covers psoriasis, UC, Crohn's, psoriatic arthritis.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "JP2023145581A",
+      "title": "Compositions of peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/JP2023145581A/en",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "Japanese national-phase member of the icotrokinra composition (SEQ ID NO:1) family; same title as US11939361.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "CA3202226A1",
+      "title": "Compositions of peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/CA3202226A1/ko",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "Canadian national-phase member of the icotrokinra composition (SEQ ID NO:1) family; same title as US11939361.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "WO2023212427A1",
+      "title": "Oral peptide inhibitors of IL-23 receptor (oral formulation / methods for IL-23R antagonist peptide)",
+      "assignee": "Protagonist Therapeutics, Inc.; Janssen Research & Development",
+      "source_url": "https://patents.google.com/patent/WO2023212427A1/en",
+      "source_type": "google_patents (confirmed via search snippets; known lead)",
+      "relevance_note": "Oral-formulation / treatment PCT for icotrokinra (one of four 2023-2024 Protagonist/Janssen oral-formulation filings); known lead.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "WO2023212432A1",
+      "title": "Oral peptide inhibitors of IL-23 receptor (oral formulation / methods for IL-23R antagonist peptide)",
+      "assignee": "Protagonist Therapeutics, Inc.; Janssen Research & Development",
+      "source_url": "https://patents.google.com/patent/WO2023212432A1/en",
+      "source_type": "google_patents (confirmed via search snippets; known lead)",
+      "relevance_note": "Sibling oral-formulation / treatment PCT for icotrokinra; companion to WO2023212427; known lead.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "WO2024026471A1",
+      "title": "Oral formulation / IL-23 receptor antagonist peptide filing (icotrokinra)",
+      "assignee": "Protagonist Therapeutics, Inc.; Janssen Research & Development",
+      "source_url": "https://patents.google.com/patent/WO2024026471A1/en",
+      "source_type": "google_patents (confirmed via search snippets; known lead)",
+      "relevance_note": "One of four jointly assigned Protagonist/Janssen oral-formulation PCT filings covering icotrokinra; known lead.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "WO2024026472A1",
+      "title": "Oral formulation / IL-23 receptor antagonist peptide filing (icotrokinra)",
+      "assignee": "Protagonist Therapeutics, Inc.; Janssen Research & Development",
+      "source_url": "https://patents.google.com/patent/WO2024026472A1/en",
+      "source_type": "google_patents (confirmed via search snippets; known lead)",
+      "relevance_note": "Sibling of WO2024026471; jointly assigned Protagonist/Janssen oral-formulation PCT covering icotrokinra; known lead.",
+      "confidence": "high"
+    },
+    {
+      "patent_id": "WO2023099669A1",
+      "title": "Peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Protagonist Therapeutics, Inc. (Janssen co-applicant likely)",
+      "source_url": "https://patents.google.com/patent/WO2023099669A1/en",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "Later PCT in the IL-23R cyclic-peptide inhibitor program; same Protagonist/Janssen program as icotrokinra - likely covers analog peptides/improvements. Possibly broader than icotrokinra itself.",
+      "confidence": "med"
+    },
+    {
+      "patent_id": "WO2023288019A2",
+      "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/WO2023288019",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "PERIPHERAL: lipidated IL-23R peptide inhibitors from the same Protagonist/Janssen program; a different (lipidated) chemotype, not the icotrokinra macrocycle, but same family/assignees.",
+      "confidence": "med"
+    },
+    {
+      "patent_id": "US20240173309A1",
+      "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/US20240173309A1/en",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "PERIPHERAL: US member of the lipidated IL-23R peptide family (WO2023288019); related program, distinct lipidated chemotype.",
+      "confidence": "med"
+    },
+    {
+      "patent_id": "US12478617B2",
+      "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12478617",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL: granted US patent in the lipidated IL-23R peptide family (related program, distinct chemotype).",
+      "confidence": "med"
+    },
+    {
+      "patent_id": "WO2024155552A1",
+      "title": "Formulations of lipidated peptide inhibitors of interleukin-23 receptor",
+      "assignee": "Janssen Biotech, Inc.; Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/WO2024155552A1",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "PERIPHERAL: formulation PCT for the lipidated IL-23R peptide chemotype; same program, not the icotrokinra macrocycle.",
+      "confidence": "med"
+    },
+    {
+      "patent_id": "US9624268B2",
+      "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/US9624268B2/en",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "PERIPHERAL/earlier-generation: foundational oral IL-23R peptide inhibitor patent (PTG-200 era) predating icotrokinra; same Protagonist program lineage, broader/earlier scaffold.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "USRE49026E1",
+      "title": "Polypeptides that bind to IL-23 receptor and inhibit binding of IL-23 and cell signaling thereof (reissue)",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/RE49026",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL/earlier-generation: reissue of an early Protagonist IL-23R-binding polypeptide patent; predates the icotrokinra macrocycle but same target/program lineage.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "US9605027B2",
+      "title": "Polypeptides that bind to IL-23 receptor and inhibit binding of IL-23 and cell signaling thereof",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9605027",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL/earlier-generation: early Protagonist IL-23R-binding polypeptide patent (original of USRE49026); same target, predates icotrokinra.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "US10023614B2",
+      "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10023614",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL/earlier-generation: continuation of the early oral IL-23R peptide (PTG-200) family; same program lineage.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "US10941183B2",
+      "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10941183",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL/earlier-generation: continuation of the early oral IL-23R peptide (PTG-200) family.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "US11884748B2",
+      "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11884748",
+      "source_type": "uspto_fulltext_pdf",
+      "relevance_note": "PERIPHERAL/earlier-generation: later continuation of the early oral IL-23R peptide (PTG-200) family.",
+      "confidence": "low"
+    },
+    {
+      "patent_id": "WO2016011208A1",
+      "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+      "assignee": "Protagonist Therapeutics, Inc.",
+      "source_url": "https://patents.google.com/patent/WO2016011208A1/en",
+      "source_type": "google_patents (confirmed via search snippet)",
+      "relevance_note": "PERIPHERAL/earliest: foundational PCT for Protagonist's oral IL-23R peptide program (PTG-200 lineage); predates icotrokinra macrocycle.",
+      "confidence": "low"
+    }
+  ],
+  "candidate_count": 28
+}
