@@ -1,0 +1,21 @@
+{
+  "patent_id": "WO2023099669A1",
+  "source_url": "https://www.freepatentsonline.com/WO2023099669A1.html",
+  "source_type": "freepatentsonline.com",
+  "retrieved_at": "2026-06-15T02:35:00Z",
+  "publication_number": "WO2023099669A1 (WO/2023/099669)",
+  "application_number": "PCT/EP2022/084077",
+  "kind_code": "A1",
+  "title": "PEPTIDE INHIBITORS OF INTERLEUKIN-23 RECEPTOR",
+  "applicants": ["Zealand Pharma A/S"],
+  "assignees": ["Zealand Pharma A/S"],
+  "inventors": [],
+  "priority_date": "확인불가",
+  "filing_date": "2022-12-01",
+  "publication_date": "2023-06-08",
+  "grant_date": null,
+  "legal_status": "확인불가",
+  "patent_family": [],
+  "estimated_expiry": "확인불가",
+  "notes": "MISATTRIBUTED IN DISCOVERY — this IS an 'IL-23 receptor peptide inhibitor' patent BUT the applicant is ZEALAND PHARMA A/S (PCT/EP2022/084077, a European-filed PCT), NOT Janssen/Protagonist and NOT the icotrokinra program. It is a competitor's IL-23R peptide (different molecule). Discovery listed assignee as 'Protagonist (Janssen likely co-applicant)' which is INCORRECT per source. Priority date not surfaced on FPO -> 확인불가. FLAG: keep in the corpus only if competitor landscape is in scope; it is NOT an icotrokinra family member."
+}
