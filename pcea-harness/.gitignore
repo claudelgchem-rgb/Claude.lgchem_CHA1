@@ -1,0 +1,4 @@
+# Transient scratch artifacts created by extraction agents while building JSON.
+# Deliverables live in work/02_extracted/<id>.json|.md — scratch helpers do not.
+work/_data_*.py
+work/**/_data_*.py
