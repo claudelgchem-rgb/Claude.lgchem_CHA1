@@ -4,8 +4,8 @@
   "run_subject": "J&J ICOTYDE / icotrokinra / JNJ-2113 / PN-235 (oral IL-23R antagonist peptide)",
   "input_file": "input/patents.yaml",
   "started_at": "2026-06-15T01:46:00Z",
-  "updated_at": "2026-06-15T01:46:00Z",
-  "current_stage": "discovery",
+  "updated_at": "2026-06-15T02:35:00Z",
+  "current_stage": "verification",
   "gate1_passed": false,
   "gate2_passed": false,
   "config": {
@@ -13,23 +13,59 @@
     "preferred_sources": ["google_patents", "espacenet", "uspto_ppubs", "kipris"],
     "retry_limit": 2
   },
-  "patents": {},
-  "summary": {
-    "total": 0,
-    "verified": 0,
-    "needs_review": 0,
-    "failed": 0
-  },
-  "_schema": {
-    "patents": {
-      "<patent_id>": {
-        "discovery": "pending|done|skipped|failed",
-        "metadata": "pending|done|failed",
-        "extracted": "pending|done|partial|failed",
-        "verified": "pending|done|needs_review|failed",
-        "analyzed": "pending|done|failed",
-        "retries": 0
-      }
+  "source_constraint": "WIPO Patentscope / Espacenet / Google Patents blocked (403/503) during this run; FreePatentsOnline only working source. True cross-source verification largely unavailable.",
+  "candidate_reclassification": {
+    "genuine_icotrokinra_family": ["WO2021146441A1","US20210261622A1","US11845808B2","US12018057B2","US12552836B2","US11041000B2","US10787490B2","US11939361B2","JP2023145581A","CA3202226A1","WO2023288019A2","US20240173309A1","US12478617B2","WO2024155552A1","US9624268B2","US10023614B2","US10941183B2","US11884748B2","WO2016011208A1"],
+    "misattributed_not_icotrokinra": {
+      "WO2023212427A1": "Dell optical-network patent",
+      "WO2023212432A1": "multi-blade knife patent",
+      "WO2024026471A1": "Alector CD98HC antibody",
+      "WO2024026472A2": "Alector transferrin-receptor antibody (kind A2, not A1)",
+      "WO2023099669A1": "real IL-23R peptide but applicant Zealand Pharma A/S (competitor)",
+      "US9605027B2": "Medical Diagnostic Laboratories LLC IL-23R polypeptides (not Protagonist)",
+      "USRE49026E1": "Medical Diagnostic Laboratories LLC (reissue of US9169292, not Protagonist)"
+    },
+    "unresolved_conflict": {
+      "US11180535B2": "FPO maps number to unrelated bacteria chimeric-peptide patent; WebSearch claims it is the icotrokinra composition patent. Under verification."
     }
+  },
+  "patents": {
+    "WO2021146441A1": {"tier":"core","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":167,"retries":0},
+    "US20210261622A1": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":186,"retries":0},
+    "US11180535B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":20,"retries":0,"flag":"subject-matter conflict"},
+    "US11845808B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":30,"retries":0},
+    "US12018057B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":10,"retries":0},
+    "US12552836B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":21,"retries":0},
+    "US11041000B2": {"tier":"core","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":26,"retries":0},
+    "US10787490B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":18,"retries":0},
+    "US11939361B2": {"tier":"core","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":16,"retries":0},
+    "JP2023145581A": {"tier":"core","metadata":"done","extracted":"failed","verified":"unverifiable","analyzed":"pending","claims":0,"retries":0},
+    "CA3202226A1": {"tier":"core","metadata":"done","extracted":"failed","verified":"unverifiable","analyzed":"pending","claims":0,"retries":0},
+    "WO2023212427A1": {"tier":"core-adjacent","metadata":"done","extracted":"failed","verified":"needs_review","analyzed":"pending","claims":0,"retries":0,"flag":"misattributed - not icotrokinra"},
+    "WO2023212432A1": {"tier":"core-adjacent","metadata":"done","extracted":"failed","verified":"needs_review","analyzed":"pending","claims":0,"retries":0,"flag":"misattributed - not icotrokinra"},
+    "WO2024026471A1": {"tier":"core-adjacent","metadata":"done","extracted":"failed","verified":"needs_review","analyzed":"pending","claims":0,"retries":0,"flag":"misattributed - Alector antibody"},
+    "WO2024026472A1": {"tier":"core-adjacent","metadata":"done","extracted":"failed","verified":"needs_review","analyzed":"pending","claims":0,"retries":0,"flag":"misattributed - Alector antibody (kind A2)"},
+    "WO2023099669A1": {"tier":"peripheral","metadata":"done","extracted":"partial","verified":"needs_review","analyzed":"pending","claims":87,"retries":0,"flag":"applicant Zealand Pharma - not Protagonist/Janssen"},
+    "WO2023288019A2": {"tier":"peripheral","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":22,"retries":0,"flag":"heavy OCR artifacts"},
+    "US20240173309A1": {"tier":"peripheral","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":52,"retries":0},
+    "US12478617B2": {"tier":"peripheral","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":40,"retries":0},
+    "WO2024155552A1": {"tier":"peripheral","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":79,"retries":0},
+    "US9624268B2": {"tier":"earlier","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":24,"retries":0},
+    "US9605027B2": {"tier":"earlier","metadata":"done","extracted":"done","verified":"needs_review","analyzed":"pending","claims":13,"retries":0,"flag":"Medical Diagnostic Labs - not Protagonist"},
+    "US10023614B2": {"tier":"earlier","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":21,"retries":0},
+    "US10941183B2": {"tier":"earlier","metadata":"done","extracted":"done","verified":"pending","analyzed":"pending","claims":20,"retries":0},
+    "US11884748B2": {"tier":"earlier","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":21,"retries":0},
+    "USRE49026E1": {"tier":"earlier","metadata":"done","extracted":"partial","verified":"needs_review","analyzed":"pending","claims":36,"retries":0,"flag":"Medical Diagnostic Labs reissue - not Protagonist; reissue markings unverified"},
+    "WO2016011208A1": {"tier":"earlier","metadata":"done","extracted":"partial","verified":"pending","analyzed":"pending","claims":54,"retries":0}
+  },
+  "summary": {
+    "total": 27,
+    "extracted_success": 9,
+    "extracted_partial": 10,
+    "extracted_failed": 8,
+    "total_claims_extracted": 1290,
+    "verified": 0,
+    "needs_review": 9,
+    "misattributed": 7
   }
 }
