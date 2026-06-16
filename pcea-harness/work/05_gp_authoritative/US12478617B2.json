@@ -1,0 +1,222 @@
+{
+  "patent_id": "US12478617B2",
+  "source_url": "https://patents.google.com/patent/US12478617B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:35:57Z",
+  "meta": {
+    "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
+    "priorityDate": "2021-07-14",
+    "filingDate": "2023-10-26",
+    "publicationDate": "2025-11-25",
+    "assignee": [
+      "Janssen Biotech Inc",
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2042-07-14",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. An interleukin-23 receptor inhibitor selected from the group consisting of: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 125
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 131
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 22,
+      "claim_text": "22. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 23,
+      "claim_text": "23. The interleukin-23 receptor inhibitor of claim 1, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "24. A pharmaceutical composition comprising: (i) the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, and (ii) a pharmaceutically acceptable carrier, excipient, or diluent.",
+      "char_count": 216
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "25. A method for treating a disease or disorder associated with interleukin 23 (IL-23)/interleukin 23 receptor (IL-23R), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 307
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "26. A method for treating inflammatory bowel diseases (IBDs), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 248
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "27. A method for treating ulcerative colitis (UC), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 237
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "28. A method for treating Crohn's disease (CD), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 234
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "29. A method for treating psoriasis (PsO), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 229
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "30. A method for treating psoriatic arthritis (PsA), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 1, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 239
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "31. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "32. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "33. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "34. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "35. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "36. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 37,
+      "claim_text": "37. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 38,
+      "claim_text": "38. The interleukin-23 receptor inhibitor of claim 1, having the following structure:",
+      "char_count": 85
+    },
+    {
+      "claim_number": 39,
+      "claim_text": "39. The interleukin-23 inhibitor of claim 1, having the following structure:",
+      "char_count": 76
+    },
+    {
+      "claim_number": 40,
+      "claim_text": "40. The interleukin-23 receptor inhibitor of claim 6, having the following structure:",
+      "char_count": 85
+    }
+  ],
+  "claim_count": 40
+}

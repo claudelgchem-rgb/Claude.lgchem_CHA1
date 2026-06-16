@@ -1,0 +1,121 @@
+{
+  "patent_id": "US10941183B2",
+  "source_url": "https://patents.google.com/patent/US10941183B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:36:05Z",
+  "meta": {
+    "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+    "priorityDate": "2014-07-17",
+    "filingDate": "2018-12-12",
+    "publicationDate": "2021-03-09",
+    "assignee": [
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2035-07-15",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A method of treating an inflammatory bowel disease (IBD) in a subject, comprising administering to the subject an effective amount of a peptide inhibitor of an interleukin-23 receptor, or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor comprises an amino acid sequence consisting of Formula (Xa): X1-X2-X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-X15-X16-X17-X18-X19-X20  (Xa), wherein X1 is any amino acid or absent; X2 is any amino acid or absent; X3 is any amino acid or absent; X4 is Abu; X5 is Gln; X6 is Thr; X7 is Trp; X8 is Gln; X9 is Cys; X10 is Phe, Tyr, a Phe analog, or a Tyr analog; X11 is 1-Nal, 2-Nal, Phe(3,4-dimethoxy), or Phe(3,4-Cl2); X12 is α-Me-Lys, α-Me-Leu, α-Me-Ser, α-Me-Val, Achc, Acvc, Acpc, Acbc, Aib, or 4-amino-4-carboxy-tetrahydropyran; X13 is any amino acid; X14 is any amino acid; X15 is any amino acid, X16 is any amino acid or absent; X17 is any amino acid or absent; X18 is any amino acid or absent; X19 is any amino acid or absent; and X20 is any amino acid or absent, wherein the peptide inhibitor is cyclized via a thioether bond between X4 and X9, and wherein 1-Nal is L-1-napthylalanine, 2-Nal is L-2-napthylalanine, Abu is 2-aminobutyric acid, α-Me-Lys is alpha-methyl-L-Lysine, α-Me-Leu is alpha-methyl-L-Leucine, α-Me-Ser is alpha-methyl-L-Serine, α-Me-Val is alpha-methyl-L-Valine, Achc is 1-aminocyclohexanecarboxylic acid, Acvc is 1-aminocyclopentanecarboxylic acid, Acpc is 1-aminocyclopropylcarboxylic acid, Acbc is 1-aminocyclobutanecarboxylic acid, and Aib is 2-aminoisobutyric acid.",
+      "char_count": 1560
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The method of claim 1, wherein the peptide inhibitor comprises an N-terminal Ac group and a C-terminal NH2 group.",
+      "char_count": 116
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The method of claim 1, wherein X3 is selected from Glu, (D)Glu, Arg, (D)Arg, Phe, (D)Phe, 2-Nal, Thr, Leu, or (D)Gln.",
+      "char_count": 120
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The method of claim 1, wherein X10 is Phe(4-OMe), Phe(4-CONH2), or Phe[4-(2-aminoethoxy)].",
+      "char_count": 93
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The method of claim 1, wherein X11 is 2-Nal.",
+      "char_count": 47
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQCY-[2-Nal]-[α-Me-Lys]-ENG-NH2 (SEQ ID NO:704); Ac-[Abu]-QTWQC-[Phe(4-OMe)]-[2-Nal]-[α-Me-Lys]-ENG-NH2 (SEQ ID NO:702); Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-[Lys(isovaleric acid)]-NG-NH2 (SEQ ID NO:861); Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-QNG-NH2 (SEQ ID NO:877); or Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-[Lys(Ac)]-NA-NH2 (SEQ ID NO:880); or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 640
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[α-Me-Lys(Ac)]-[Lys(Ac)]-NG-NH2 (SEQ ID NO:900); Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENQ-NH2 (SEQ ID NO:911); Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO:912); Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-MeVal]-[Lys(Ac)]-NG-NH2 (SEQ ID NO:915); or Ac-[(D)Phe]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO:970) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 692
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Leu)-[Cit]-NN-NH2 (SEQ ID NO:954) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 320
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-T-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO:972) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 317
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[acbc]-ENN-NH2 (SEQ ID NO:976) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 312
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[acpc]-ENN-NH2 (SEQ ID NO:1043) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 313
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[achc]-ENN-NH2 (SEQ ID NO: 977) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 313
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:980) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 341
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[alpha-methyl-L-Leucine]-QN-[betaAla]-NH2 (SEQ ID NO:984) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 339
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-(D)Phe-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:992) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 348
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is: Ac-[(D)Arg]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:993) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 350
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The method of claim 1, wherein the peptide inhibitor or pharmaceutically acceptable salt thereof is administered to the subject by oral administration.",
+      "char_count": 155
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The method of claim 1, wherein the IBD is ulcerative colitis.",
+      "char_count": 65
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The method of claim 1, wherein the IBD is Crohn's disease.",
+      "char_count": 62
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The method of claim 1, wherein the IBD is pouchitis after an ileoanal anastomosis.",
+      "char_count": 86
+    }
+  ],
+  "claim_count": 20
+}

@@ -1,0 +1,126 @@
+{
+  "patent_id": "US12552836B2",
+  "source_url": "https://patents.google.com/patent/US12552836B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:35:42Z",
+  "meta": {
+    "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+    "priorityDate": "2018-07-12",
+    "filingDate": "2021-12-13",
+    "publicationDate": "2026-02-17",
+    "assignee": [
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2039-07-12",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A peptide inhibitor or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor comprises the amino acid sequence of Formula (II): X4-X5-X6-X7-X8-X9-X10-X11  (II) wherein X4 is Pen; X5 is Asn, or Gln; X6 is Thr; X7 is Trp substituted with alkyl; X8 is Gln, alpha-Me-Lys, alpha-MeLys(Ac), or Lys(Ac); X9 is Pen; X10 is Phe substituted with 2-aminoethoxy, or 2-acetylaminoethoxy; and X11 is 2-Nal, or 1-Nal; wherein the peptide inhibitor is cyclized via a bond between X4 and X9, and wherein the peptide inhibitor inhibits the binding of an interleukin-23 (IL-23) to an IL-23 receptor.",
+      "char_count": 612
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X5 is Asn.",
+      "char_count": 110
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X8 is Gln or Lys(Ac).",
+      "char_count": 121
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X8 is alpha-Me-Lys, or alpha-MeLys(Ac).",
+      "char_count": 139
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X10 is Phe[4-(2-aminoethoxy)].",
+      "char_count": 130
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X7 is Trp substituted with methyl, ethyl, n-propyl, or isopropyl.",
+      "char_count": 165
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X11 is 2-Nal.",
+      "char_count": 113
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein the peptide inhibitor comprises the structure of Formula (Z): R1—X—R2  (Z) or a pharmaceutically acceptable salt or solvate thereof, wherein R1 is a bond, hydrogen, Ac, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12aryl-C1-6alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence of Formula (II) and R2 is OH or NH2.",
+      "char_count": 485
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, further comprising a conjugated chemical substituent selected from a lipophilic substituent or a polymeric moiety.",
+      "char_count": 206
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 9, wherein the conjugated chemical substituent is Ac, Palm, gamaGlu-Palm, isoGlu-Palm, PEG with a molecular weight of 400 Da to 40,000 Da, PEG2-Ac, PEG4-isoGlu-Palm, (PEG)5-Palm, succinic acid, glutaric acid, pyroglutaric acid, benzoic acid, IVA, octanoic acid, 1,4 diaminobutane, isobutyl, or biotin.",
+      "char_count": 391
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The peptide inhibitor of claim 1, wherein the peptide inhibitor is selected from the group consisting of: (SEQ ID NO: 242) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [BA]-NH2; (SEQ ID NO: 245) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH2; (SEQ ID NO: 248) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N-H- NH2; (SEQ ID NO: 249) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [Cit]-NH2; (SEQ ID NO: 251) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Val]-NH2; (SEQ ID NO: 252) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Lys]-NH2; (SEQ ID NO: 258) Ac-[Pen]-NT-[W(7-Me)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Phe]-NH2; (SEQ ID NO: 284) Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH2; and (SEQ ID NO: 285) Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4- (2-aminoethoxy)]-[2-Nal]-[[α-MeLys]-[Lys(Ac)]-N- [(D)Leu]-NH2; or a pharmaceutically acceptable salt or solvate thereof; wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "char_count": 1350
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein the bond between X4 and X9 is a disulfide bond.",
+      "char_count": 148
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X7 is Trp substituted with alkyl at 4-, 6-, or 7-position.",
+      "char_count": 159
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, wherein X7 is W(1-Me), W(4-Me), W(6-Me), W(6-Et), W(7-Me), W(7-Et), W(7-n-Pr), or W(7-i-Pr).",
+      "char_count": 185
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein: X4 is Pen; X5 is Asn; X6 is Thr; X7 is Trp substituted with alkyl; X8 is Gln, or Lys(Ac); X9 is Pen; X10 is Phe[4-(2-aminoethoxy)]; and X11 is 2-Nal; wherein the peptide inhibitor is cyclized via a bond between X4 and X9, and wherein the peptide inhibitor inhibits the binding of an interleukin-23 (IL-23) to an IL-23 receptor.",
+      "char_count": 430
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The peptide inhibitor of claim 15, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH2 (SEQ ID NO: 6); Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 284); or Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 285); wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "char_count": 558
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-NT-[W(7-Me)]-Gln-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[α-MeLeu]-[Lys(Ac)]—NN—NH2 (SEQ ID NO: 6), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "char_count": 306
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-Et)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 284), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "char_count": 322
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The peptide inhibitor of claim 1, or pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor is: Ac-[Pen]-N-T-[W(7-n-Pr)]-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]—N—[(D)Leu]-NH2 (SEQ ID NO: 285), wherein the peptide inhibitor is cyclized via a Pen-Pen disulfide bond.",
+      "char_count": 324
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. A pharmaceutical composition comprising the peptide inhibitor or pharmaceutically acceptable salt or solvate thereof of claim 1, and a pharmaceutically acceptble carrier, excipient, or diluent.",
+      "char_count": 197
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The pharmaceutical composition of claim 20, further comprising an enteric coating.",
+      "char_count": 86
+    }
+  ],
+  "claim_count": 21
+}

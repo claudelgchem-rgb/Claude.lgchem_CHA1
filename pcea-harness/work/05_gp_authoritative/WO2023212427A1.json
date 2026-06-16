@@ -1,0 +1,116 @@
+{
+  "patent_id": "WO2023212427A1",
+  "source_url": "https://patents.google.com/patent/WO2023212427A1/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:36:12Z",
+  "meta": {
+    "title": "Ic-trosa point-to-multipoint optical network system",
+    "priorityDate": "2022-04-28",
+    "filingDate": "2023-01-19",
+    "publicationDate": "2023-11-02",
+    "assignee": [
+      "Dell Products LP"
+    ],
+    "anticipated_expiration": "2024-10-28",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 2,
+      "claim_text": "2. The system of claim 1, further comprising: a hub signal processing subsystem that is included in the hub coherent optical transceiver device, coupled to the quadrature optical modulator subsystem, and configured to transmit first electrical signals to the quadrature optical modulator subsystem that are used by the quadrature optical modulator subsystem to generate the first optical signals and the second optical signals.",
+      "char_count": 427
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The system of claim 2, wherein the hub IC-TROSA device includes: an optical hybrid mixer subsystem; a second optical directional coupler device that is included in the optical hybrid mixer subsystem; a first receive connection provided by the second optical direction coupler device, wherein the second optical directional coupler device is configured to receive third optical signals at the first receive connection via the point-to-multipoint optical network; and a second receive connection provided by the second optical direction coupler device, wherein the second optical directional coupler device is configured to receive fourth optical signals at the second receive connection via the point-to-multipoint optical network, and wherein the optical hybrid mixer subsystem is configured to perform mixing operations on the third optical signals and fourth optical signals and provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 1045
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The system of claim 3, wherein hub signal processing subsystem is configured to: perform first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and perform second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 568
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The system of claim 2, wherein the hub IC-TROSA device includes: an optical hybrid mixer subsystem; a MultiMode Interference (MMI) device that is included in the optical hybrid mixer subsystem; a first receive connection provided by the MMI device, wherein the MMI device is configured to receive third optical signals at the first receive connection via the point- to-multipoint optical network; and a second receive connection provided by the MMI device, wherein the MMI device is configured to receive fourth optical signals at the second receive connection via the point-to-multipoint optical network, wherein the optical hybrid mixer subsystem is configured to perform mixing operations on the third optical signals and fourth optical signals and provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 916
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The system of claim 5, wherein hub signal processing subsystem is configured to: perform first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and perform second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 568
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. A hub coherent optical transceiver device, comprising: a quadrature optical modulator subsystem; a first optical directional coupler device that is included in the quadrature optical modulator subsystem; a first transmit connection provided by the first optical direction coupler device, wherein the first optical directional coupler device is configured to receive first optical signals from the quadrature optical modulator subsystem and transmit the first optical signals via the first transmit connection to a first subset of the plurality of subscriber devices via the point-to-multipoint optical network; and a second transmit connection provided by the first optical direction coupler device, wherein the first optical directional coupler device is configured to receive second optical signals from the quadrature optical modulator subsystem and transmit the second optical signals via the second transmit connection to a second subset of the plurality of subscriber devices via the point-to-multipoint optical network.",
+      "char_count": 1029
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The hub coherent optical transceiver device of claim 7, further comprising: a hub signal processing subsystem that is coupled to the quadrature optical modulator subsystem and that is configured to transmit first electrical signals to the quadrature optical modulator subsystem that are used by the quadrature optical modulator subsystem to generate the first optical signals and the second optical signals.",
+      "char_count": 410
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The hub coherent optical transceiver device of claim 8, further comprising: an optical hybrid mixer subsystem; a second optical directional coupler device that is included in the optical hybrid mixer subsystem; a first receive connection provided by the second optical direction coupler device, wherein the second optical directional coupler device is configured to receive third optical signals at the first receive connection via the point-to-multipoint optical network; and a second receive connection provided by the second optical direction coupler device, wherein the second optical directional coupler device is configured to receive fourth optical signals at the second receive connection via the point-to-multipoint optical network, and wherein the optical hybrid mixer subsystem is configured to perform mixing operations on the third optical signals and fourth optical signals and provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 1056
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The hub coherent optical transceiver device of claim 9, wherein hub signal processing subsystem is configured to: perform first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and perform second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 602
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The hub coherent optical transceiver device of claim 8, further comprising: an optical hybrid mixer subsystem; a MultiMode Interference (MMI) device that is included in the optical hybrid mixer subsystem; a first receive connection provided by the MMI device, wherein the MMI device is configured to receive third optical signals at the first receive connection via the point- to-multipoint optical network; and a second receive connection provided by the MMI device, wherein the MMI device is configured to receive fourth optical signals at the second receive connection via the point-to-multipoint optical network, wherein the optical hybrid mixer subsystem is configured to perform mixing operations on the third optical signals and fourth optical signals and provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 928
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The hub coherent optical transceiver device of claim 7, wherein hub signal processing subsystem is configured to: perform first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and perform second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 602
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The IC-TROSA device of claim 7, wherein the first optical signals received from the quadrature optical modulator subsystem include a first quadrature and a second quadrature in a first optical phase relationship, and wherein the second optical signals received from the quadrature optical modulator subsystem include the first quadrature and the second quadrature in a second optical phase relationship that is different than the first optical phase relationship.",
+      "char_count": 467
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. A method for transmitting data via a point-to-multipoint optical network, comprising: receiving, by a first optical directional coupler device included in a quadrature optical modulator subsystem in a hub Integrated Coherent Transmit-Receive Optical Sub- Assembly (IC-TROSA) device, first optical signals from the quadrature optical modulator subsystem; transmitting, by the first optical directional coupler device, the first optical signals via a first transmit connection provided by the first optical directional coupler device and to a first subset of a plurality of subscriber devices via a point-to-multipoint optical network; receiving, by the first optical directional coupler device, second optical signals from the quadrature optical modulator subsystem; and transmitting, by the first optical directional coupler device, the second optical signals via a second transmit connection provided by the first optical directional coupler device and to a second subset of the plurality of subscriber devices via the point-to- multipoint optical network.",
+      "char_count": 1061
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The method of claim 14, further comprising: transmitting, by a hub signal processing subsystem that is coupled to the quadrature optical modulator subsystem, first electrical signals to the quadrature optical modulator subsystem that are used by the quadrature optical modulator subsystem to generate the first optical signals and the second optical signals.",
+      "char_count": 362
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The method of claim 15, further comprising: receiving, by a first receive connection on a second optical directional coupler device included in an optical hybrid mixer subsystem in the hub IC-TROSA device, third optical signals via the point-to-multipoint optical network; and receiving, by a second receive connection on the second optical directional coupler device included in the optical hybrid mixer subsystem in the hub IC-TROSA device, fourth optical signals via the point-to-multipoint optical network; and mixing, by the optical hybrid mixer subsystem, the third optical signals and fourth optical signals to provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 783
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The method of claim 16, further comprising: performing, by the hub signal processing subsystem, first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and performing, by the hub signal processing subsystem, second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 620
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The method of claim 15, further comprising: receiving, by a first receive connection on a MultiMode Interference (MMI) device included in an optical hybrid mixer subsystem in the hub IC-TROSA device, third optical signals via the point-to-multipoint optical network; and receiving, by a second receive connection on the MMI device included in the optical hybrid mixer subsystem in the hub IC-TROSA device, fourth optical signals via the point-to-multipoint optical network; and mixing, by the optical hybrid mixer subsystem the third optical signals and fourth optical signals to provide mixing results for conversion to second electrical signals and third electrical signals that are then transmitted to the hub signal processing subsystem.",
+      "char_count": 745
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The method of claim 18, further comprising: performing, by the hub signal processing subsystem, first signal processing operations on the second electrical signals and the third electrical signals to identify first data included in the second electrical signals and the third electrical signals; and performing, by the hub signal processing subsystem, second signal processing operations that are different than the first signal processing operations on the second electrical signals and the third electrical signals to identify second data included in the second electrical signals and the third electrical signals.",
+      "char_count": 620
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The method of claim 14, wherein the first optical signals received from the quadrature optical modulator subsystem include a first quadrature and a second quadrature in a first optical phase relationship, and wherein the second optical signals received from the quadrature optical modulator subsystem include the first quadrature and the second quadrature in a second optical phase relationship that is different than the first optical phase relationship.",
+      "char_count": 459
+    }
+  ],
+  "claim_count": 19
+}

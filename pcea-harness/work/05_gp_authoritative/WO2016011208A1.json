@@ -1,0 +1,281 @@
+{
+  "patent_id": "WO2016011208A1",
+  "source_url": "https://patents.google.com/patent/WO2016011208A1/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:36:08Z",
+  "meta": {
+    "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+    "priorityDate": "2014-07-17",
+    "filingDate": "2015-07-15",
+    "publicationDate": "2016-01-21",
+    "assignee": [
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2017-01-17",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A peptide inhibitor of an interleukin-23 receptor, or a pharmaceutically acceptable salt or solvate thereof, wherein the peptide inhibitor comprises an amino acid sequence of Formula (Xa): Xl-X2-X3-X4-X5-X6-X7-X8-X9-X10-Xl l-X12-X13-X14-X15-X16-X17-X18-X19-X20 (Xa) wherein XI is any amino acid or absent; X2 is any amino acid or absent; X3 is any amino acid or absent; X4 is any amino acid or chemical moiety capable of forming a bond with X9; X5 is any amino acid; X6 is any amino acid; X7 is any amino acid; X8 is any amino acid; X9 is any amino acid or chemical moiety capable of forming a bond with X4; XI 0 is any amino acid; XI I is any amino acid; XI 2 is any amino acid; XI 3 is any amino acid; XI 4 is any amino acid; XI 5 is any amino acid, XI 6 is any amino acid or absent; XI 7 is any amino acid or absent; XI 8 is any amino acid or absent; XI 9 is any amino acid or absent; and X20 is any amino acid or absent, wherein the peptide inhibitor is cyclized via a bond between X4 and X9, and wherein the peptide inhibitor inhibits the binding of an interleukin-23 (IL-23) to an IL-23 receptor.",
+      "char_count": 1105
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The peptide inhibitor of claim 1, wherein: XI is absent; X2 is absent; X3 is absent; X4 is Cys, Abu or Pen; X5 is Ala, a-MeOrn, a-MeSer, Cit, Dap, Dab, Dap(Ac), Gly, Lys, Asn, N-MeGln, N-MeArg, Orn, Gin, Arg, Ser or Thr; X6 is Asp or Thr; X7 is Trp or 6-Chloro-Trp; X8 is Glu, Gin or Val; X9 is Cys, Abu or Pen; XI 0 is 2-Nal, a Phe analog, Tyr, or a Tyr analog; XI I is 1-Nal, 2-Nal, Phe(3,4-dimethoxy), 5-HydroxyTrp, Phe(3,4-Cl2), Trp or Tyr(3-tBu); X12 is 3-Pal, Acpc, Acbc, Acvc, Ache, Agp, Aib, a-DiethylGly, a-MeLys, a-MeLys(Ac), a- MeLeu, a- a-MeOrn, a-MeSer, a-MeVal, Cav, Cha, Cit, Cpa, D-Asn, Glu, His, hLeu, hArg, Lys, Leu, Octgly, Orn, 4-amino-4-carboxy-piperidine, Arg, Ser, Thr or THP; XI 3 is Cit, Asp, Dab, Dap, Phe, His, Dap(Peg2-Ac), Dap(pyroglutaric acid), Glu, HArg, Lys, Lys(Ac), Lys(Benzoic acid), Lys(glutaric acid), Lys(IVA), Lys(Peg4-isoGlu-Palm), Lys(pyroglutaric acid), Lys(succinic acid), Asn, Orn,Gln, Arg, Thr or Val; X14 is Asp, Dab(Ac), Dap(Ac), Phe, His, Lys(Ac), Met, Asn(isobutyl), Gin, Arg, Tyr or Asp(l ,4-diaminobutane); and XI 5 is Ala, pAla, Glu, Gly, Asn, Gin, Arg or Ser.",
+      "char_count": 1116
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The peptide inhibitor of claiml, wherein: XI is absent; X2 is absent; X3 is absent; X4 is Cys, Abu or Pen; X5 is Ala, a-MeOrn, a-MeSer, Cit, Dap, Dab, Dap(Ac), Gly, Lys, Asn, Orn, Gin, Arg, Ser or Thr; X6 is Asp or Thr; X7 is Trp or 6-Chloro-Trp; X8 is Gin or Val; X9 is Cys, Abu or Pen; XI 0 is 2-Nal, a Phe analog, Tyr, or a Tyr analog,; XI 1 is 1-Nal, 2-Nal, Phe(3,4-dimethoxy), 5-HydroxyTrp, Phe(3,4-Cl2), Trp or Tyr(3-tBu); X12 is 3-Pal, Acpc, Acbc, Acvc, Ache, Agp, Aib, a-DiethylGly, a-MeLys, a-MeLys(Ac), a- MeLeu, a-MeOrn, a-MeSer, a-MeVal, Cav, Cha, Cit, Cpa, D-Asn, His, hLeu, hArg, Lys, Leu, Octgly, Orn, 4-amino-4-carboxy-piperidine, or THP; XI 3 is Cit, Asp, Dab, Dap, Phe, His, Dap(Peg2-Ac), Dap(pyroglutaric acid), Glu, hArg, Lys, Lys(Ac), Lys(Benzoic acid), Lys(glutaric acid), Lys(IVA), Lys(Peg4-isoGlu-Palm), Lys(pyroglutaric acid), Lys(succinic acid), Asn, Orn,Gln, Arg, Thr or Val; X14 is Dab(Ac), Dap(Ac), Phe, His, Lys(Ac), Met, Asn, Gin, Arg, or Tyr; and XI 5 is Ala, pAla, Gly, Asn, Gin, or Ser.",
+      "char_count": 1023
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The peptide inhibitor of claim 1, wherein: XI is absent; X2 is absent; X3 is absent; X4 is Cys, Abu or Pen; X5 is Dap, Dap(Ac), Gly, Lys, Gin, Arg, Ser,Thr or Asn; X6 is Thr; X7 is Trp or 6-Chloro-Trp; X8 is Gin; X9 is Cys, Abu or Pen; XI 0 is 2-Nal, a Phe analog, Tyr, or a Tyr analog; XI 1 is 1-Nal, 2-Nal, Phe(3,4-dimethoxy), Phe(3,4-Cl2), or Trp; X12 is Acpc, Acbc, Acvc, Ache, Aib, a-MeGly(diethyl), a-MeLys, a-MeLys(Ac), a-MeLeu, a- MeOrn, a-MeSer, a-MeVal, Cha, Cit, homoLeu, Lys, Leu, Arg or THP; XI 3 is Cit, Asp, Dap, Dap(Peg2-Ac), Dap(pyroglutaric acid), Glu, HArg, Lys, Lys(Ac), Lys(Benzoic acid), Lys(glutaric acid), Lys(IVA), Lys(Peg4-isoGlu-Palm), Lys(pyroglutaric acid), Lys-succinic acid, Asn, Orn,Gln, Arg, or Val; X14 is Dab(Ac), Dap(Ac), His, Lys(Ac), Asn, Gin, or Tyr; and XI 5 is Ala, pAla, Gly, Asn, Gin, or Ser.",
+      "char_count": 838
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The peptide inhibitor of claim 1, wherein: XI is absent; X2 is absent; X3 is absent; X4 is Cys, Abu or Pen; X5 is Dap, Dap(Ac), Gin, Ser, Thr or Asn; X6 is Thr; X7 is Trp; X8 is Gin; X9 is Cys, Abu or Pen; XI 0 is a Phe analog, Tyr, or a Tyr analog; XI I is 2-Nal or Trp; X12 is Acpc, Acbc, Acvc, Ache, Aib, a-DiethylGly, a-MeLys, a-MeLys(Ac), a-MeLeu, a- MeOrn, a-MeSer, a-MeVal, hLeu, Leu, or THP; XI 3 is Cit, Asp, Glu, Lys, Lys(Ac), Asn, or Gin; XI 4 is Dab(Ac), Asn, or His; and XI 5 is Ala, betaAla, Gly, Asn, or Gin.",
+      "char_count": 526
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The peptide inhibitor of claim 1, wherein X4 is Cys, Pen, hCys, D-Pen, D-Cys, D-hCys, Met, Glu, Asp, Lys, Orn, Dap, Dab, D-Dap, D- Dab, D-Asp, D-Glu, D-Lys, Sec, 2-chloromethylbenzoic acid, mercapto-propanoic acid, mercapto-butyric acid, 2-chloro-acetic acid, 3-choro-propanoic acid, 4-chloro-butyric acid, 3- chloro-isobutyric acid, Abu, β-azido-Ala-OH, propargylglycine, 2-(3'-butenyl)glycine, 2- allylglycine, 2-(3'-butenyl)glycine, 2-(4'-pentenyl)glycine, 2-(5'-hexenyl)glycine, or Abu; X7 is Trp, Glu, Gly, He, Asn, Pro, Arg, Thr or OctGly, or a corresponding a-methyl amino acid form of any of the foregoing; X9 is Cys, Pen, hCys, D-Pen, D-Cys, D-hCys, Glu, Lys, Orn, Dap, Dab, D-Dap, D-Dab, D-Asp, D-Glu, D-Lys, Asp, Leu, Val, Phe, or Ser, Sec, Abu, β-azido-Ala-OH, propargylglycine, 2-2- allylglycine, 2-(3'-butenyl)glycine, 2-(4'-pentenyl)glycine, Ala, hCys, Abu, Met, MeCys, (D)Tyr or 2-(5'-hexenyl)glycine; XI 0 is Tyr, Phe(4-OMe), 1-Nal, 2-Nal, Aic, a-MePhe, Bip, (D)Cys, Cha, DMT, (D)Tyr, Glu, His, hPhe(3,4-dimethoxy), hTyr, N-Me-Tyr, Trp, Phe(4-CONH2), Phe(4-phenoxy), Thr, Tic, Tyr(3-tBu), Phe(4-tBu), Phe(4-CN), Phe(4-Br), Phe(4-NH2), Phe(4-F), Phe(3,5-F2), Phe(4- CH2C02H), Phe(penta-F), Phe(3,4-Cl2), Phe(4-CF3), Phe(4-OCH3), Bip, Cha, 4-PyridylAlanine, PhTyr, OctGly, Phe(4-N3), Phe(4-Br), Phe[4-(2-aminoethoxy)] or Phe, a Phe analog, a Tyr analog, or a corresponding a-methyl amino acid form of any of the foregoing; XI 1 is 2-Nal, 1-Nal, 2,4-dimethylPhe, Bip, Phe(3,4-Cl2), Phe (3,4-F2), Phe(4-C02H), phPhe(4- F), a-Me-Trp, 4-phenylcyclohexyl, Phe(4-CF3), a-MePhe, phNal, phPhe, phTyr, phTrp, Nva(5- phenyl), Phe, His, hPhe, Tic, Tqa, Trp, Tyr, Phe(4-OMe), Phe(4-Me), Trp(2,5,7-tri-tert-Butyl), Phe(4-Oallyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino, Phe(4-OBzl), Octgly, Glu(Bzl), 4- Phenylbenzylalanine, Phe[4-(2-aminoethoxy)], 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, 1,2,3,4-tetrahydro-norharman, Phe(4-CONH2), Phe(3,4-Dimethoxy), Phe(2,3-Cl2), Phe(2,3-F2), Phe(4-F), 4-phenylcyclohexylalanine, Bip, or a corresponding α-methyl amino acid form of any of the foregoing; X12 is His, Phe, Arg, N-Me-His, Val, Cav, Cpa, Leu, Cit, hLeu, 3-Pal, t-butyl-Ala, 4-amino-4- carboxy-tetrahydropyran, Ache Acpc, Acbc, Acvc, Agp, Aib, a-DiethylGly, a-MeLys, a- MeLys(Ac), a-Me-Leu, a-MeOrn, a-MeSer, a-MeVal, Aib„ D-Ala, (D)Asn, (D)Asp, (D)Leu, (D)Phe, (D)Tyr, Aib, a-MeLeu, a-MeOrn, β- Aib, β-Ala, phAla, phArg, phLeu, phVal, β-spiro-pip, Glu, hArg, He, Lys, N-MeLeu, N-MeArg, Ogl, Orn, Pro, Gin, Ser, Thr, Tie, t-butyl-Gly, or a corresponding α-methyl amino acid form of any of the foregoing; XI 3 is Thr, Sarc, Glu, Phe, Arg, Leu, Lys, Arg, Orn, Val, phAla, Lys(Ac), (D)Asn, (D)Leu, (D)Phe, (D)Thr, Ala, a-MeLeu, Aib, β-Ala, β-Glu, phLeu, phVal, β-spiro-pip, Cha, Chg, Asp, Dab, Dap, a-DiethylGly, hLeu, Asn, Ogl, Pro, Gin, Ser, β-spiro-pip, Thr, Tba, Tie or Aib, Cit, hArg, Lys, Asn, Orn, Gin or a corresponding a-methyl amino acid form of any of the foregoing; X14 is Phe, Tyr, Glu, Gly, His, Lys, Leu, Met, Asn, Pro, Gin, Arg, Ser, Thr, TicphPhe, Arg, Lys(Ac), His; Dap(Ac), Dab(Ac), Asp or a corresponding a-methyl amino acid form of any of the foregoing; XI 5 is Gly, Ser, Thr, Gin, Ala, (D)Ala, (D)Asn, (D)Asp, (D)Leu, (D)Phe, (D)Thr, Aea, Asp, Asn, Glu, Phe, Gly, Lys, Leu, Pro, Arg, β-Ala, Sarc, or a corresponding α-methyl amino acid form of any of the foregoing; XI 6 is Asp, Glu, Ala, AEA, AEP, phAla, Gaba, Gly, Ser, Pro, Asn, Thr or absent, or a corresponding α-methyl amino acid form of any of the foregoing; and XI 7 is Leu, Lys, Arg, Glu, Ser, Gly, Gin or absent, or a corresponding α-methyl amino acid form of any of the foregoing.",
+      "char_count": 3663
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The peptide inhibitor of claim 1 or claim 6, wherein the bond between X4 and X9, is a disulfide bond, a thioether bond, a lactam bond, a triazole ring, a selenoether bond, a diselenide bond, or an olefin bond.",
+      "char_count": 212
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The peptide inhibitor of any one of claims 1-7, wherein X4 is Cys and X9 is Cys, and the bond is a disulfide bond.",
+      "char_count": 117
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The peptide inhibitor of any one of claims 1-7, wherein X4 is Pen and X9 is Pen, and the bond is a disulfide bond.",
+      "char_count": 117
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The peptide inhibitor of claim 8 or claim 9, wherein X7 is Trp; XI 0 is Phe, Tyr, a Phe analog, or a Tyr analog; XI 1 is Trp, 1-Nal or 2-Nal; and X12 is Aib, a-Me-Lys, a-Me-Val a-Me-Leu; Ache, Acvc, Acpc, Acpc or THP,.",
+      "char_count": 222
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The peptide inhibitor of claim 10, wherein the peptide inhibitor comprises any of the following the amino acid sequences: Ac-[Pen]-Q-T-W-Q-[Pen]-[Phe(4-OMe)]-[2-Nal]-[a-Me-Lys]-ENG-NH2; Ac-[Pen]-N-T-W-Q-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]- -NH2; Ac-[Pen]-Q-T-W-Q-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLeu]-[Lys(Ac)]- -NH2; Ac-[Pen]-QTWQ-[Pen]-[Phe(4-CONH2)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]- -NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLeu] -Q -NH2; Ac-[Pen]-Q-T-W-Q-[Pen]-[Phe(4-CONH2)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]- -NH2; Ac-[Pen]-QTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] - [Lys(Ac)] -NN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLys] -ENA-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLeu]- [Lys(Ac)] -NN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [a-MeLeu] -QNN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - [Aib]-ENN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)] - [2-Nal] - Aib- [Lys(Ac)] -NN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-aminoethoxy)]- [2-Nal] - [Aib] - [Lys(Ac)] -NQ-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-acetylaminoethoxy)] - [2-Nal] - [a-MeLeu] - [Lys(Ac)] -NN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-acetylaminoethoxy)] - [2-Nal] - [a-MeLeu] -QNN-NH2; Ac-[Pen]-NTWQ-[Pen]-[Phe[4-(2-aminoethoxy)]-[2-Nal]-[Aib]-[Lys(Ac)]-N-[pAla]-NH2; Ac- [Pen] -NT WQ- [Pen]- [Phe [4-(2-aminoethoxy)] - [2-Nal] - [hLeu] - [Lys(Ac)] -N- [ β Ala] -NH2; Ac- [Pen] -QT WQ- [Pen]- [Phe [4-(2-acetylaminoethoxy)] - [2-Nal] - [ Aib]- [Lys(Ac)] -NN-NH2; Ac- [Pen] -NT WQ- [Pen] - [Phe [4-(2-aminoethoxy)]- [2-Nal] - [Aib] - [Lys(Ac)] -NN-NH2; Ac- [Pen] -QT WQ- [Pen] - [Phe [4-(2-acetylaminoethoxy)] - [2-Nal] - [ Aib]- [Lys(Ac)] -NQ-NH2; or Ac-[Pen]-QTWQ-[Pen]-[Phe(4-OMe)]-[2-Nal]-[Aib]-[Lys(Ac)]-NQ-NH2, wherein the peptide inhibitor comprises a disulfide bond between the two Pen amino acids.",
+      "char_count": 2070
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The peptide inhibitor of claim 1 or claim 6, wherein X4 is an amino acid, aliphatic acid, alicyclic acid or modified 2- methyl aromatic acid having a carbon side chain capable of forming a thioether bind with X9; X9 is a sulfur-containing amino acid capable of forming a thioether bond with X4, and the bond between X4 and X9 is a thioether bond.",
+      "char_count": 350
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The peptide inhibitor of claim 12, wherein X4 is Abu, 2-chloromethylbenzoic acid, mercapto-propanoic acid, mercapto-butyric acid, 2- chloro-acetic acid, 3-chloro-propanoic acid, 4- chloro -butyric acid, 3-chloro-isobutyric acid; and X9 is Abu, Cys, Pen, hCys, D-Pen, D-Cys, or D-hCys.",
+      "char_count": 288
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The peptide inhibitor of claim 13, wherein (a) X4 is Abu and X9 is Cys; or (b) X4 is Cys and X9 is Abu. wherein the peptide inhibitor is cyclized via a thioether bond between X4 and X9.",
+      "char_count": 189
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The peptide inhibitor of claim 13 or claim 14, wherein X7 is Trp; XI 0 is Phe, Tyr, a Phe analog, or a Tyr analog; XI 1 is Trp, 1-Nal or 2-Nal; and X12 is a-Me-Lys, a-Me-Leu, a-Me-Ser, a-Me-Val, Ache, Acvc, Acpc, Acbc or 4-amino-4- carboxy-tetrahydropyran.",
+      "char_count": 260
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The peptide inhibitor of claim 15, wherein the peptide inhibitor comprises any of the following amino acid sequences: Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-E-N-G; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-OMe)]-[2-Nal]-[a-MeOrn]-ENG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-C02H)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-CONH2)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NA-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NAE-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-ENG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe(4-(2-aminoethoxy))]-W-[a-MeLys]-E-N-G; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-DNG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(succinic acid)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(glutaric acid)]- NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(pyroglutamic acid)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(isovaleric acid)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG- [(D)Lys]-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG- [AEA]-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-QNG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-[Lys(Ac)]-NA-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-K G-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[a-MeLys(Ac)]- [Lys(Ac)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[a-MeLys(Ac)]-ENG- NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy- tetrahydropyr an] -ENN-NH2 ; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-ENQ-NH2; Ac-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-ENN-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeVal]-[Lys(Ac)]-NG-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[hLeu]-[Lys(Ac)]-N-[pAla]- NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[a-MeLys(Ac)]-ENQ- NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[a-MeLys(Ac)]-E - NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLeu]-ENN-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLeu)-[Cit]-NN-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLeu]-[Lys(Ac)]-NN-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[ Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-[Lys(Ac)]-NG-NH2; Ac-E-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-(D)Glu-[Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-Arg-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-EN -NH2; Ac-[(D)Arg-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-ENN-NH2; Ac-F-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-[(D)Phe]-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-[2-Nal]-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-Leu-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-EN -NH2; Ac-[(D)Qln]-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLeu]-ENG-NH2; Ac-T-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLys]-E -NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[a-MeLeu]-QN-[pAla]-NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Acbc]-E -NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Achc]- E -NH2; Ac-Cyclo-[[Abu]-QTWQC]]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Acvc]-E -NH2; Ac-Cyclo-[[Abu]-QTWQC]-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-piperidine]- ENN-NH2; or Ac-Cyclo- [ [ Abu] -QTWQC] - [Phe[4-(2-aminoethoxy)] ]- [2-Nal] - [4-amino-4-carboxy- tetrahydropyr an] -ENN-NH2 , wherein the peptide inhibitor comprises a thioether bond between the Abu and the C.",
+      "char_count": 4315
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The peptide inhibitor of claim 1 , wherein X4 is Pen, Cys or homo-Cys; X5 is any amino acid; X6 is any amino acid; X7 is Trp, Bip, Gin, His, Glu(Bzl), 4-Phenylbenzylalanine, Tic, Phe[4-(2-aminoethoxy)], Phe(3,4-Cl2), Phe(4-OMe), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-Me-Trp, 1 ,2,3,4 - tetrahydro-norharman, Phe(4-C02H), Phe(4-CONH2), Phe(3,4-Dimethoxy), Phe(4-CF3), Phe(4-tBu), ββ-diPheAla, Glu, Gly, He, Asn, Pro, Arg, Thr or Octgly, or a corresponding a- methyl amino acid form of any of the foregoing; X8 is any amino acid; X9 is Pen, Cys or hCys; XI 0 is 1-Nal, 2-Nal, Aic, Bip, (D)Cys, Cha, DMT, (D)Tyr, Glu, Phe, His, Trp, Thr, Tic, Tyr, 4- pyridylAla, Octgly, a Phe analog or a Tyr analog (optionally, Phe(3,4-F2), Phe(3,4-Cl2), F(3-Me), Phe[4-(2-aminoethoxy)], Phe[4-(2-(acetyl-aminoethoxy)], Phe(4-Br), Phe(4-CONH2), Phe(4-Cl), Phe(4-CN), Phe(4-guanidino), Phe(4-Me), Phe(4-NH2), Phe(4-N3), Phe(4-OMe), or Phe(4- OBzl)), or a corresponding a-methyl amino acid form of any of the foregoing; XI 1 is 2-Nal, 1-Nal, 2,4-dimethylPhe, Bip, Phe(3,4-Cl2), Phe (3,4-F2), Phe(4-C02H), phPhe(4- F), a-Me-Trp, 4-phenylcyclohexyl, Phe(4-CF3), a-MePhe, phNal, phPhe, phTyr, phTrp, Nva(5- phenyl), Phe, His, hPhe, Tic, Tqa, Trp, Tyr, Phe(4-OMe), Phe(4-Me), Trp(2,5,7-tri-tert-Butyl), Phe(4-Oallyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino, Phe(4-OBzl), Octgly, Glu(Bzl), 4- Phenylbenzylalanine, Phe[4-(2-aminoethoxy)], 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, 1,2,3,4-tetrahydro-norharman, Phe(4-CONH2), Phe(3,4-OMe2) Phe(2,3-Cl2), Phe(2,3-F2), Phe(4- F), 4-phenylcyclohexylalanine or Bip, or a corresponding a-methyl amino acid form of any of the foregoing; X12 is a-MeLys, a-MeOrn, a-MeLeu, a-MeVal, 4-amino-4-carboxy-tetrahydropyran, Ache Acpc, Acbc, Acvc, MeLeu, Aib, (D)Ala, (D)Asn, (D)Leu, (D)Asp, (D)Phe, (D)Thr, 3-Pal, Aib, β-Ala, phGlu, PhAla, phLeu, PhVal, β-spiro-pip, Cha, Chg, Asp, Dab, Dap, a-diethylGly, Glu, Phe, hLeu, hArg, hLeu, He, Lys, Leu, Asn, N-MeLeu, N-MeArg, Ogl, Orn, Pro, Gin, Arg, Ser, Thr or Tie, or a corresponding α-methyl amino acid form of any of the foregoing; XI 3 is Lys(Ac), (D)Asn, (D)Leu, (D)Thr, (D)Phe, Ala, Aib, a-MeLeu, β-Ala, phGlu, phAla, PhLeu, phVal, β-spiro-pip, Cha, Chg, Asp, Lys, Arg, Orn, Dab, Dap, a-diethylGly, Glu, Phe, hLeu, Lys, Leu, Asn, Ogl, Pro, Gin, Asp, Arg, Ser, spiro-pip, Thr, Tba, Tic, Val or Tyr, or a corresponding a-methyl amino acid form of any of the foregoing; X14 is Asn, Glu, Phe, Gly, His, Lys, Leu, Met, Asn, Pro, Gin, Arg, Ser, Thr, Tic or Tyr, Lys(Ac), Orn or a corresponding a-methyl amino acid form of any of the foregoing; XI 5 is Gly, (D)Ala, (D)Asn, (D)Asp, Asn, (D)Leu, (D)Phe, (D)Thr, Ala, Asn, Ser, AEA, Asp, Glu, Phe, Gly, Lys, Leu, Pro, Gin, Arg or Ser, β-Ala, Arg or a corresponding α-methyl amino acid form of any of the foregoing; XI 6 is absent, Gly, Ala, Asp, Ser, Pro, Asn or Thr, or a corresponding α-methyl amino acid form of any of the foregoing; XI 7 is absent, Glu, Ser, Gly or Gin, or a corresponding α-methyl amino acid form of any of the foregoing; XI 8 is absent or any amino acid; XI 9 is absent or any amino acid; and X20 is absent or any amino acid.",
+      "char_count": 3153
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The peptide inhibitor of claim 17, wherein the bond between X4 and X9 is a disulfide bond.",
+      "char_count": 94
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The peptide inhibitor of any one of claims 1-18, wherein one or more of XI , X2, and X3 are absent.",
+      "char_count": 103
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The peptide inhibitor of any one of claims 1-19, wherein one or more of XI 7, XI 9 and X20 are absent.",
+      "char_count": 106
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The peptide inhibitor of any one of claims 17-20, wherein one or both of X4 or X9 is Pen.",
+      "char_count": 93
+    },
+    {
+      "claim_number": 22,
+      "claim_text": "22. The peptide inhibitor of claim 21, wherein both X4 and X9 are Pen. The peptide inhibitor of any one of claims 17-22, wherein XI 8 is (D)-Lys.",
+      "char_count": 145
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "24. The peptide inhibitor of any one of claims 17-23, comprising one or more, two or more, three or more, or four of the following: X5 is Arg, Asn, Gin, Dap, Orn; X6 is Thr or Ser; X7 is Trp, 2-Nal, 1-Nal, Phe(4-OAllyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino), Phe(Bzl) or Phe(4-Me), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-MeTrp or 1,2,3,4 -tetrahydro- norharman; and X8 is Gin, Val, Phe, Glu, Lys.",
+      "char_count": 401
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "25. The peptide inhibitor of any one of claims 17-24, comprising one or more, two or more, three or more, four or more, five or more, six or more, or seven of the following: X10 is Tyr, Phe(4-OBzl), Phe(4-OMe), Phe(4-CONH2), Phe(3,4-Cl2), Phe(4-tBu), Phe(4-NH2), Phe(4-Br), Phe(4-CN), Phe(4-C02H), Phe(4-(2aminoethoxy)) or Phe(4-guanidino) ; XI 1 is Trp, 2-Nal, 1-Nal, Phe(4-OAllyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino), Phe(Bzl) or Phe(4-Me), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-MeTrp or 1,2,3,4 -tetrahydro- norharman; XI 2 is Arg, a-MeLys a-MeLeu, Aib or a-MeOrn; XI 3 is Lys, Glu or Lys(Ac); XI 4 is Phe or Asn; XI 5 is Asn, Gly, Ser PAla, or Ala; and XI 6 is absent or AEA.",
+      "char_count": 687
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "26. The peptide inhibitor of claim 25, wherein X4 and X9 are Pen; X5 is Gin; X6 is Thr; X7 is Trp; X8 is Gin; X10 is Tyr, Phe(4-OMe) or 2-Nal; XI 1 is Trp, 2-Nal or 1-Nal; XI 2 is Arg, aMeLys or a-MeOrn; XI 3 is Lys, Glu or Lys(Ac); XI 4 is Phe or Asn; XI 5 is Gly; and XI 6 is absent.",
+      "char_count": 285
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "27. The peptide inhibitor of claim 26, wherein one or more of XI, X2 and X3 are absent; and one or more, two or more, three or more, or four of X17, X18, X19 and X20 are absent.",
+      "char_count": 177
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "28. The peptide inhibitor of claim 1 , wherein X4 is Abu, Pen, or Cys; X7 is Trp, Bip, Gin, His, Glu(Bzl), 4-Phenylbenzylalanine, Tic, Phe[4-(2-aminoethoxy)], Phe(3,4-Cl2), Phe(4-OMe), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-MeTrp, 1,2,3,4 - tetrahydro-norharman, Phe(4-C02H), Phe(4-CONH2), Phe(3,4-Dimethoxy), Phe(4-CF3), ββ- diPheAla, Phe(4-tBu), Glu, Gly, He, Asn, Pro, Arg, Thr or Octgly, or a corresponding a-methyl amino acid form of any of the foregoing; X9 is Abu, Pen, or Cys; XI 0 is 1-Nal, 2-Nal, Aic, Bip, (D)Cys, Cha, DMT, (D)Tyr, Glu, Phe, His, Trp, Thr, Tic, Tyr, 4- pyridylAla, Octgly a Phe analog or a Tyr analog, or a corresponding a-methyl amino acid form of any of the foregoing; XI 1 is 2-Nal, 1-Nal, 2,4-dimethylPhe, Bip, 4-phenylcyclohexyl, Glu(Bzl), 4- Phenylbenzylalanine, Tic, Phe[4-(2-aminoethoxy)], Phe(3,4-Cl2), Phe(3,4-F2), β!ιΡ1ιε(4-Ρ), Phe(4-OMe), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-MeTrp, 1,2,3,4 -tetrahydro- norharman, Phe(4-C02H), Phe(4-CONH2), Phe(3,4-Dimethoxy), Phe(4-CF3), Phe(2,3-Cl2), Phe(2,3-F2),Phe(4-F), 4-phenylcyclohexylalanine, a-MePhe, phNal, βhPhe, βhTyr, βhTrp, Bip, Nva(5-phenyl), Phe, His, hPhe, Tqa, Trp, Tyr, Phe(4-Me), Trp(2,5,7-tri-tertButyl), Phe(4- OAllyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino), Phe(4-OBzl), or Octgly, or a corresponding α-methyl amino acid form of any of the foregoing; X12 is a-MeLys, a-MeOrn, a-MeLeu, MeLeu, Aib, Ache, Acvc, Acpc, Acpc, THP, (D)Ala, (D)Asn, (D)Leu, (D)Asp, (D)Phe, (D)Thr, 3-Pal, Aib, β-Ala, phGlu, βΙιΑΚ βhLeu, βhVal, β- spiro-pip, Cha, Chg, Asp, Dab, Dap, a-DiethylGly, Glu, Phe, hLeu, hArg, hLeu, He, Lys, Leu, Asn, N-MeLeu, N-MeArg, Ogl, Orn, Pro, Gin, Arg, Ser, Thr or Tie, or a corresponding a-methyl amino acid form of any of the foregoing; XI 3 is Lys(Ac), (D)Asn, (D)Leu, (D)Thr, (D)Phe, Ala, Aib, a-MeLeu, βΑ1&, phGlu, βηΑΚ βϋευ, phVal, β-spiro-pip, Cha, Chg, Asp, Arg, Orn, Dab, Dap, a-DiethylGly, Glu, Phe, hLeu, Lys, Leu, Asn, Ogl, Pro, Gin, Asp, Arg, Ser, spiro-pip, Thr, Tba, Tic, Val or Tyr, or a corresponding α-methyl amino acid form of any of the foregoing; X14 is Asn, Glu, Phe, Gly, His, Lys, Leu, Met, Asn, Pro, Gin, Arg, Ser, Thr, Tic or Tyr, or a corresponding a-methyl amino acid form of any of the foregoing; XI 5 is Gly, (D)Ala, (D)Asn, (D)Asp, Asn, (D)Leu, (D)Phe, (D)Thr, Ala, AEA, Asp, Glu, Phe, Gly, Lys, Leu, Pro, Gin, Arg or Ser, or a corresponding a-methyl amino acid form of any of the foregoing; XI 6 is absent, Gly, Ala, Asp, Ser, Pro, Asn or Thr, or a corresponding α-methyl amino acid form of any of the foregoing; and XI 7 is absent, Glu, Ser, Gly or Gin, or a corresponding α-methyl amino acid form of any of the foregoing.",
+      "char_count": 2671
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "29. The peptide inhibitor of claim 28, wherein the peptide inhibitor is cyclized via an intramolecular bond between X4 and X9.",
+      "char_count": 126
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "30. The peptide inhibitor of claim 28 or claim 29, wherein one or more of XI , X2, and X3 are absent.",
+      "char_count": 101
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "31. The peptide inhibitor of any one of claims 28-30, wherein one or more of XI 7, XI 9 and X20 are absent.",
+      "char_count": 107
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "32. The peptide inhibitor of any one of claims 28-31, wherein one of X4 or X9 is Abu, and the other of X4 or X9 is not Abu.",
+      "char_count": 123
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "33. The peptide inhibitor of any one of claims 28-32, comprising one or more, two or more, three or more, or four of the following: X5 is Arg, Gin, Dap or Orn; X6 is Thr or Ser; X7 is Trp, 2-Nal, 1-Nal, Phe(4-OAllyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino), Phe(4-OBzl), Phe(4-Me), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, or a-MeTrp, 1 ,2,3,4 -tetrahydro- norharman; and X8 is Gin, Val, Phe, Glu or Lys.",
+      "char_count": 403
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "34. The peptide inhibitor of any one of claims 28-33, comprising one or more, two or more, three or more, four or more, five or more, six or more, or seven of the following: X10 is Tyr, Phe(4-OBzl), Phe(4-OMe), Phe(4-CONH2), Phe(3,4-Cl2), Phe(4-tBu), Phe(4-NH2), Phe(4-Br), Phe(4-CN), Phe(4-C02H), Phe(4-(2aminoethoxy)) or Phe(4-guanadino); XI 1 is Trp, 2-Nal, 1-Nal, Phe(4-OAllyl), Tyr(3-tBu), Phe(4-tBu), Phe(4-guanidino), Phe(Bzl) or Phe(4-Me), 5-Hydroxy-Trp, 6-Chloro-Trp, N-MeTrp, a-MeTrp or 1,2,3,4 -tetrahydro- norharman; X12 is Arg, hLeu, (D)Asn, Aib, a-MeLys, a-MeLeu, a-Me-Val, a-MeOrn, Ache, Acvc, Acpc, Acpc, or THP; XI 3 is Lys, Glu or Lys(Ac); XI 4 is Phe or Asn; XI 5 is Gly, Ser, Asn, PAla or Ala; and XI 6 is absent or AEA.",
+      "char_count": 740
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "35. The peptide inhibitor of any one of claims 1-34, wherein the peptide inhibitor comprises the structure of Formula I: or a pharmaceutically acceptable salt or solvate thereof, wherein R1 is a bond, hydrogen, a C1-C6 alkyl, a C6-C12 aryl, a C6-C12 aryl, a C1-C6 alkyl, a C1-C20 alkanoyl, and including PEGylated versions alone or as spacers of any of the foregoing; X is the amino acid sequence; and R2 is OH or NH2.",
+      "char_count": 418
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "36. A peptide dimer inhibitor of an interleukin-23 receptor, wherein the peptide dimer inhibitor comprises two peptide monomer subunits connected via one or more linker moieties, wherein each peptide monomer subunit has a sequence or structure set forth in any one of claims 1-35.",
+      "char_count": 280
+    },
+    {
+      "claim_number": 37,
+      "claim_text": "37. The peptide dimer inhibitor of claim 36, wherein one or both peptide monomer subunit is cyclized via an intramolecular bond between X4 and X9.",
+      "char_count": 146
+    },
+    {
+      "claim_number": 38,
+      "claim_text": "38. The peptide dimer inhibitor of claim 37, wherein one or both intramolecular bond is a disulfide bond, a thioether bond, a lactam bond, a selenoether, diselenide, or an olefin bond.",
+      "char_count": 184
+    },
+    {
+      "claim_number": 39,
+      "claim_text": "39. The peptide dimer inhibitor of any one of claims 36-38, wherein the linker moiety is a diethylene glycol linker, an iminodiacetic acid (IDA) linker, a β-Ala-iminodiaceticacid (β-Ala- IDA) linker, or a PEG linker.",
+      "char_count": 216
+    },
+    {
+      "claim_number": 40,
+      "claim_text": "40. The peptide dimer inhibitor of any one of claims 36-39, wherein the N-terminus of each peptide monomer subunit is connected by the linker moiety or wherein the C-terminus of each peptide monomer subunit is connected by the linker moiety.",
+      "char_count": 241
+    },
+    {
+      "claim_number": 41,
+      "claim_text": "41. The peptide dimer inhibitor of claim 36, wherein the peptide dimer inhibitor comprises one of the following amino acid sequences: [Ac-Cyclo-[[Abu]-QTWQC]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-ENG-NH2]2 DIG; [Ac-[Pen]-QTWQ-[Pen]-[Phe(4-OMe)]-[2-Nal]-[a-MeVal]-[Lys(Ac)]- -[D)Lys]2 DIG; [Ac-[Pen]-QTWQ-[Pen]-[Phe[4-(2-acetylaminoethoxy)]-[2-Nal]- [a-MeVal]-[Lys(Ac)]-NN- [D)Lys]]2 DIG; [ Ac- [Pen] -QT WQ [Pen] - [Phe [4-(2-acetylaminoethoxy)] ] - [2-Nal] - [a-Me Val] -K N-NH2]2 DIG; [Ac-[Pen]-QTWQ[Pen]-[Phe[4-(2-acetylaminoethoxy)]]-[2-Nal]-K-[Lys(Ac)]- -NH2]2 DIG; [Ac-[Pen]-QTWQ-[Pen]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]- -NH2]2 DIG; [Ac-Cyclo-[[Abu]-QTWQC]-[Phe(4-OMe)]-[2-Nal]-[a-MeLys]-ENG-NH2]2 DIG; or [Ac-[Pen]-QTWQ-[Pen]-[Phe(4-CONH2)]-[2-Nal]-[a-MeLys]-[Lys(Ac)]-NN-NH2]2 DIG.",
+      "char_count": 789
+    },
+    {
+      "claim_number": 42,
+      "claim_text": "42. A polynucleotide comprising a sequence encoding the peptide inhibitor of any one of claims 1-35 or one or both peptide monomer subunit of the peptide dimer inhibitor of any one of claims 36-41. A vector comprising the polynucelotide of claim 42.",
+      "char_count": 249
+    },
+    {
+      "claim_number": 44,
+      "claim_text": "44. A pharmaceutical composition comprising the peptide inhibitor of any one of claims 1-35 or the peptide dimer inhibitor of any one of claims 36-41 , and a pharmaceutically acceptable carrier, excipient, or diluent.",
+      "char_count": 217
+    },
+    {
+      "claim_number": 45,
+      "claim_text": "45. The pharmaceutical composition of claim 44, further comprising an enteric coating.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 46,
+      "claim_text": "46. The pharmaceutical composition of claim 45, wherein the enteric coating protects and releases the pharmaceutical composition within a subject's lower gastrointestinal system.",
+      "char_count": 178
+    },
+    {
+      "claim_number": 47,
+      "claim_text": "47. A method for treating an Inflammatory Bowel Disease (IBD), ulcerative colitis, Crohn's disease, Celiac disease {nontropical Sprue), enteropathy associated with seronegative arthropathies, microscopic colitis, collagenous colitis, eosinophilic gastroenteritis, colitis associated with radio- or chemo -therapy, colitis associated with disorders of innate immunity as in leukocyte adhesion deficiency- 1 , chronic granulomatous disease, glycogen storage disease type lb, Hermansky-Pudlak syndrome, Chediak-Higashi syndrome, and Wiskott-Aldrich Syndrome, pouchitis resulting after proctocolectomy and ileoanal anastomosis, gastrointestinal cancer, pancreatitis, insulin-dependent diabetes mellitus, mastitis, cholecystitis, cholangitis, pericholangitis, chronic bronchitis, chronic sinusitis, asthma, psoriasis, psoriatic arthritis, or graft versus host disease in a subject, comprising providing to the subject an effective amount of the pharmaceutical composition of any one of claims 44-46.",
+      "char_count": 994
+    },
+    {
+      "claim_number": 48,
+      "claim_text": "48. The method of claim 47, wherein the pharmaceutical composition is provided to the subject by an oral, parenteral, intravenous, peritoneal, intradermal, subcutaneous, intramuscular, intrathecal, inhalation, vaporization, nebulization, sublingual, buccal, parenteral, rectal, intraocular, inhalation, topically, vaginal, or topical route of administration.",
+      "char_count": 358
+    },
+    {
+      "claim_number": 49,
+      "claim_text": "49. The method of claim 47 for treating Inflammatory Bowel Disease (IBD), ulcerative colitis, Crohn's disease, wherein the pharmaceutical composition is provided to the subject orally.",
+      "char_count": 184
+    },
+    {
+      "claim_number": 50,
+      "claim_text": "50. The method of claim 47 for treating psoriasis, wherein the pharmaceutical composition is provided to the subject orally, topically, parenterally, intravenously, subcutaneously, peritonealy, or intravenously.",
+      "char_count": 211
+    },
+    {
+      "claim_number": 51,
+      "claim_text": "51. The method of any one claims 47-50, wherein the peptide inhibitor or the peptide dimer inhibitor inhibits binding of an interleukin-23 (IL-23) to the interleukin-23 receptor (IL-23R).",
+      "char_count": 187
+    },
+    {
+      "claim_number": 52,
+      "claim_text": "52. A method of assessing the ability of a candidate compound to inhibit or reduce an inflammatory disease or disorder, comprising: (a) providing to a rat an amount of dextran sulfate sodium (DSS) or 2,4,6- Trinitrobenzenesulfonic acid (TNBS) sufficient to induce an inflammatory bowel disease (IBD); (b) providing to the rat an amount of a candidate compound; and (c) measuring an amount of IBD symptoms present in the rat after being provided with the DSS and the candidate compound; wherein if the amount of IBD symptoms measured in (c) are significantly lower than the amount measured in a control rat provided with the amount of DSS or TNBS and either an amount of a control compound or no peptide (e.g., vehicle control), the candidate compound inhibits or reduces the inflammatory disease or disorder.",
+      "char_count": 808
+    },
+    {
+      "claim_number": 53,
+      "claim_text": "53. The method of claim 52, wherein an anti-IL-23pl 9 antibody is used as a positive control.",
+      "char_count": 93
+    },
+    {
+      "claim_number": 54,
+      "claim_text": "54. The method of claim 52, wherein the candidate compound inhibits or reduces the inflammatory disease or disorder in a human.",
+      "char_count": 127
+    }
+  ],
+  "claim_count": 52
+}

@@ -1,0 +1,411 @@
+{
+  "patent_id": "WO2024155552A1",
+  "source_url": "https://patents.google.com/patent/WO2024155552A1/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:35:59Z",
+  "meta": {
+    "title": "Formulations of lipidated peptide inhibitors of interleukin-23 receptor",
+    "priorityDate": "2023-01-16",
+    "filingDate": "2024-01-15",
+    "publicationDate": "2024-07-25",
+    "assignee": [
+      "Janssen Pharmaceutica NV"
+    ],
+    "anticipated_expiration": "2025-07-16",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 2,
+      "claim_text": "2. The oral pharmaceutical formulation of claim 1, wherein the lipidated peptide comprises the amino acid sequence of Formula (A): R1a-X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-3Pya-X16-X17-R2a (A), or a pharmaceutically acceptable salt thereof, wherein: R1a is an N-terminal capping group (e.g., MeCO), Zpeg, or Zlipid; X3 is any amino acid or absent; X4 is 4AminoPro, Abu, aG, aMeC, C, Dap, Pen, Pen(oXyl), Pen(mXyl), Pen(pXyl), or Pra; X5 is any amino acid; X6 is any amino acid; X7 is 7MeW, W, or absent; X8 is any amino acid; X9 is aMeC, aG, C, D, E, hE, Pen, Dap, or Dap(N3) X10 is AEF, TMAPF, AEF(d), TMAPF-Zlipid, APEG3F, or AEF-Zlipid; X11 is any amino acid; X12 is any amino acid; X13 is any amino acid; X14 is any amino acid; X16 is any amino acid; X17 is any amino acid or absent; R2a is a C-terminal capping group (e.g., CONH2), CONH-Zpeg, or CO-Zlipid; Zpeg, independently for each occurrence, is a polyethylene glycol chain; Zlipid, independently for each occurrence, is a lipophilic substituent; wherein the peptide comprises a linkage between the residues at X4 and X9; and wherein the polypeptide comprises at least one lipophilic substituent at a position selected from R1, X3, X5, X6, X8, X10, X12, X13, X14, X16, X17, or R2.",
+      "char_count": 1244
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The oral pharmaceutical formulation of claim 2, wherein: R1a is MeCO, Zpeg, Zlipid, succiniccarn, 5cpaCO, or AEEP-Zlipid; X3 is R, K-Zlipid, Dab-Zlipid, NMeK-Zlipid, or absent; X4 is 4AminoPro, Abu, aG, aMeC, C, Dap, Pen, Pen(oXyl), Pen(mXyl), Pen(pXyl), or Pra; X5 is N, N(NMe2), K(d), K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X6 is T, K-Zlipid, NMeK-Zlipid, or Dab-Zlipid; X7 is 7MeW, W, or absent; X8 is K(Ac), K(d), K(NMeAc), Q, K-Zlipid, K-Zpeg, NMeK-Zlipid, Dab-Zlipid, Dab(NMecarn), or Dab-Zpeg; X9 is aMeC, aG, C, D, E, hE, Pen, Dap, or Dap(N3); X10 is AEF, TMAPF, AEF(d), TMAPF-Zlipid, APEG3F, or AEF-Zlipid; X11 is a substituted or unsubstituted 2Nal or a substituted or unsubstituted 3Quin, X12 is THP, K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X13 is E, K(Ac), K(d), K-Zpeg, K(NMeAc), Dab(NMecarn), E(OAll), K-Zlipid, Dab- Zlipid, NMeK-Zlipid, or absent; X14 is N, K-Zlipid, NMeK-Zlipid, or Dab-Zlipid X16 is Sar, NMeK(d), K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X17 is K-Zlipid, Dab-Zlipid, NMeK-Zlipid, or absent; and R2 is CONH2, CONMe2, CONH-Zpeg, or CO-Zlipid.",
+      "char_count": 1071
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The oral pharmaceutical composition of claim 1, wherein the lipidated peptide comprises the amino acid sequence of Formula (B): R1a-X3-X4-X5-X6-X7-X8-X9-X10-X11-X12-X13-X14-3Pya-X16-X17-R2a (B), or a pharmaceutically acceptable salt thereof, wherein: R1a is an N-terminal capping group (e.g., MeCO), Zpeg, or Zlipid; X3 is any amino acid or absent; X4 is any amino acid; X5 is any amino acid; X6 is any amino acid; X7 is 7MeW or W; X8 is any amino acid; X9 is any amino acid; X10 is AEF, TMAPF, AEF(d), TMAPF-Zpeg, TMAPF-Zlipid, APEG3F, AEF-Zpeg, or AEF-Zlipid; X11 is any amino acid; X12 is any amino acid; X13 is any amino acid; X14 is any amino acid; X16 is any amino acid; X17 is any amino acid or absent; R2a is a C-terminal capping group (e.g., CONH2), CONH-Zpeg, or CO-Zlipid; Zpeg, independently for each occurrence, is a polyethylene glycol chain; Zlipid, independently for each occurrence, is a lipophilic substituent; wherein the polypeptide comprises at least one lipophilic substituent or polyethylene glycol chain at a position selected from R1a, X3, X4 X5, X6, X8, X9 X10, X11, X12, X13, X14, X16, X17, or R2a; and wherein the peptide is cyclized to form a first ring, wherein the first ring comprises 4- 14 amino acids.",
+      "char_count": 1238
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The oral pharmaceutical composition of claim 4, wherein the first ring comprises 4-9 or 11 amino acids.",
+      "char_count": 106
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The oral pharmaceutical composition of claim 4, wherein the first ring is formed between X4 and X9, X4 and X13, X5 and X10, X3 and X13, or X6 and X9.",
+      "char_count": 152
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The oral pharmaceutical composition of claim 4, wherein the first ring is formed between X4 and X9, X4 and X13, or X6 and X9.",
+      "char_count": 128
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The oral pharmaceutical composition of claim 7, wherein the first ring is formed between X4 and X9 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 248
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The peptide of claim 7, wherein the first ring is formed between X4 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 225
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The peptide of claim 7, wherein the first ring is formed between X6 and X9 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 225
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The peptide of any one of claims 4-10, wherein the peptide is further cyclized to form a second ring comprising 4-14 amino acids.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The peptide of claim 11, wherein the second ring comprises 4, 6, 10, or 11 amino acids.",
+      "char_count": 91
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The peptide of claim 8, wherein the peptide is further cyclized to form a second ring, wherein: the second ring is formed between X3 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; the second ring is formed between X5 and X10 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; the second ring is formed between X10 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; or the second ring is formed between X13 and the N-terminus of the peptide via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 898
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The peptide of claim 9, wherein the peptide is further cyclized to form a second ring, wherein: the second ring is formed between X5 and X10 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; or the second ring is formed between X6 and X9 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 485
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The peptide of claim 10, wherein the peptide is further cyclized to form a second ring, wherein: the second ring is formed between X3 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; the second ring is formed between X4 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; the second ring is formed between X5 and X10 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; the second ring is formed between X10 and X13 via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole; or the second ring is formed between X13 and the N-terminus of the peptide via a linker having one or more groups selected from the group consisting of a disulfide, thioether, amide, olefin, ether, alkylene, and triazole.",
+      "char_count": 1091
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The oral pharmaceutical composition of claim 4, or a pharmaceutically acceptable salt thereof, wherein: R1a is an N-terminal capping group (e.g., MeCO), Zpeg, or Zlipid; X3 is r, k(d), k-Zlipid, dab-Zlipid, NMek-Zlipid, or absent; X4 is 4AminoPro, Abu, aG, aMeC, C, Dap, Pen, Pen(oXyl), Pen(mXyl), Pen(pXyl), or Pra; X5 is E, N, N(NMe2), K(d), K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X6 is T, K-Zlipid, NMeK-Zlipid, or Dab-Zlipid; X7 is 7MeW or W; X8 is K(Ac), K(d), K(NMeAc), Q, K-Zlipid, K-Zpeg, NMeK-Zlipid, Dab-Zlipid, Dab(NMecarn), or Dab-Zpeg; X9 is aMeC, aG, C, D, E, hE, Pen, Dap, or Dap(N3); X10 is AEF, TMAPF, AEF(d), TMAPF-Zpeg, TMAPF-Zlipid, APEG3F, AEF-Zpeg, or AEF-Zlipid; X11 is 2Nal or 6OH2Nal; X12 is THP, K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X13 is E, K(Ac), K(d), K-Zpeg, K(NMeAc), Dab(NMecarn), E(OAll), K-Zlipid, Dab- Zlipid, NMeK-Zlipid; X14 is N, K-Zlipid, NMeK-Zlipid, or Dab-Zlipid; X16 is Sar, NMeK(d), K-Zlipid, Dab-Zlipid, NMeK-Zlipid, or absent; X17 is K-Zlipid, Dab-Zlipid, NMeK-Zlipid, or absent; R2a is a C-terminal capping group (e.g., CONH2), CONH-Zpeg, or CO-Zlipid; Zpeg, independently for each occurrence, is a polyethylene glycol chain; Zlipid, independently for each occurrence, is a lipophilic substituent; wherein the peptide comprises a linkage between the residues at X4 and X9; and wherein the polypeptide comprises at least one lipophilic substituent at a position selected from R1a, X3, X5, X6, X8, X10, X12, X13, X14, X16, X17, or R2a, or a polyethylene glycol chain at a position selected from R1a, X8, X10, X13, or R2a.",
+      "char_count": 1571
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The oral pharmaceutical composition of claim 4 or claim 16, wherein: R1a is an MeCO, Zpeg, Zlipid, or 5cpaCO; X3 is r, k(d), k-Zlipid, dab-Zlipid, NMek-Zlipid, or absent; X4 is Pen; X5 is E, N, N(NMe2), K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X6 is T; X7 is 7MeW; X8 is K(Ac), K(d), K(NMeAc), K-Zlipid, K-Zpeg, NMeK-Zlipid, Dab-Zlipid, or Dab-Zpeg; X9 is Pen; X10 is AEF, TMAPF, APEG3F, AEF-Zpeg, or AEF-Zlipid; X11 is 2Nal or 6OH2Nal; X12 is THP; X13 is E, K(Ac), K-Zpeg, K(NMeAc), K-Zlipid, Dab-Zlipid, or NMeK-Zlipid; X14 is N; X16 is Sar or NMeK-Zlipid; X17 is K-Zlipid, Dab-Zlipid, NMeK-Zlipid, or absent; R2a is CONH2, CONMe2, CONH-Zpeg, or CO-Zlipid; wherein the peptide comprises a disulfide linkage between the residues at X4 and X9; and wherein the polypeptide comprises at least one lipophilic substituent at a position selected from R1a, X3, X5, X8, X10, X13, X16, X17, or R2a, or a polyethylene glycol chain at a position selected from R1a, X8, X10, X13, or R2a.",
+      "char_count": 977
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The oral pharmaceutical formulation of claim 1, wherein the lipidated peptide is a compound having a formula of",
+      "char_count": 115
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The oral pharmaceutical formulation of claim 18, wherein the lipidated peptide is a compound having a formula of",
+      "char_count": 116
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The oral pharmaceutical formulation of claim 18, wherein the compound is a compound having a formula of",
+      "char_count": 107
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The oral pharmaceutical formulation of claim 18, wherein the compound is a compound having a formula of",
+      "char_count": 107
+    },
+    {
+      "claim_number": 22,
+      "claim_text": "22. The oral pharmaceutical formulation of claims 18-21, wherein each lipid moiety or lipophilic substituent is independently selected from a Z1 to Z5 group: Z1 is",
+      "char_count": 163
+    },
+    {
+      "claim_number": 23,
+      "claim_text": "23. The oral pharmaceutical formulation of claims 18-21, wherein each lipid moiety or lipophilic substituent is ,",
+      "char_count": 113
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "24. The oral pharmaceutical formulation of any one of claims 18-23, wherein R2 is methyl.",
+      "char_count": 89
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "25. The oral pharmaceutical formulation of any one of claims 18-24, wherein R3 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "26. The oral pharmaceutical formulation of any one of claims 18-25, wherein R4 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "27. The oral pharmaceutical formulation of any one of claims 18-26, wherein R5 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "28. The oral pharmaceutical formulation of any one of claims 18-27, wherein R8 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "29. The oral pharmaceutical formulation of any one of claims 18-28, wherein R4 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "30. The oral pharmaceutical formulation of any one of claims 18-29, wherein R9 is H.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "31. The oral pharmaceutical formulation of any one of claims 18-30, wherein R10 is -C(=O)CH3.",
+      "char_count": 93
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "32. The oral pharmaceutical formulation of any one of claims 18-23, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 153
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "33. The oral pharmaceutical formulation of claim 32, wherein R7 is -(CH2)qC(=O)NH)NH2.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "34. The oral pharmaceutical formulation of claim 33, wherein q is 3.",
+      "char_count": 68
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "35. The oral pharmaceutical formulation of claim 34, wherein the compound has a formula of",
+      "char_count": 90
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "36. The oral pharmaceutical formulation of claim 35, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 138
+    },
+    {
+      "claim_number": 37,
+      "claim_text": "37. The oral pharmaceutical formulation of claim 32, wherein R6 is -C(=O)CH3.",
+      "char_count": 77
+    },
+    {
+      "claim_number": 38,
+      "claim_text": "38. The oral pharmaceutical formulation of claim 37, wherein R7 is -(CH2)pNHR12.",
+      "char_count": 80
+    },
+    {
+      "claim_number": 39,
+      "claim_text": "39. The oral pharmaceutical formulation of claim 38, wherein p is 4.",
+      "char_count": 68
+    },
+    {
+      "claim_number": 40,
+      "claim_text": "40. The oral pharmaceutical formulation of claim 39, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 138
+    },
+    {
+      "claim_number": 41,
+      "claim_text": "41. The oral pharmaceutical formulation of claim 40, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 138
+    },
+    {
+      "claim_number": 42,
+      "claim_text": "42. The oral pharmaceutical formulation of any one of claims 18-23, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 153
+    },
+    {
+      "claim_number": 43,
+      "claim_text": "43. The oral pharmaceutical formulation of claim 42, wherein R1 is",
+      "char_count": 66
+    },
+    {
+      "claim_number": 44,
+      "claim_text": "44. The oral pharmaceutical formulation of claim 43, wherein m is 4.",
+      "char_count": 68
+    },
+    {
+      "claim_number": 45,
+      "claim_text": "45. The oral pharmaceutical formulation of claim 44, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 138
+    },
+    {
+      "claim_number": 46,
+      "claim_text": "46. The oral pharmaceutical formulation of claim 19, wherein the compound, or a pharmaceutically acceptable salt thereof, has a formula of",
+      "char_count": 138
+    },
+    {
+      "claim_number": 47,
+      "claim_text": "47. The oral pharmaceutical formulation of claim 1, wherein the lipidated peptide is selected from the group consisting of SEQ ID NOS: 1-40.",
+      "char_count": 140
+    },
+    {
+      "claim_number": 48,
+      "claim_text": "48. The oral pharmaceutical formulation of any one of claims 1-47, wherein the weight ratio (w/w) of the absorption enhancer to the lipidated peptide or a pharmaceutically acceptable salt or solvate form thereof is in a range from about 1 to about 200.",
+      "char_count": 252
+    },
+    {
+      "claim_number": 49,
+      "claim_text": "49. The oral pharmaceutical formulation of any one of claims 1-47, wherein the weight ratio (w/w) of the absorption enhancer to the lipidated peptide or a pharmaceutically acceptable salt or solvate form thereof is in a range from about 1 to about 100.",
+      "char_count": 252
+    },
+    {
+      "claim_number": 50,
+      "claim_text": "50. The oral pharmaceutical formulation of any one of claims 1-47, wherein the weight ratio (w/w) of the absorption enhancer to the lipidated peptide or a pharmaceutically acceptable salt or solvate form thereof is in a range from about 1 to about 20.",
+      "char_count": 251
+    },
+    {
+      "claim_number": 51,
+      "claim_text": "51. The oral pharmaceutical formulation of any one of claims 1-47, wherein the weight ratio (w/w) of the absorption enhancer to the lipidated peptide or a pharmaceutically acceptable salt or solvate form thereof is in an range from about 1 to about 10.",
+      "char_count": 252
+    },
+    {
+      "claim_number": 52,
+      "claim_text": "52. The oral pharmaceutical formulation of any one of claims 1-47, wherein the ratio of the absorption enhancer to the lipidated peptide is no less than 3:1 (w/w).",
+      "char_count": 163
+    },
+    {
+      "claim_number": 53,
+      "claim_text": "53. The oral pharmaceutical formulation of any one of claims 1-47, wherein the ratio of the absorption enhancer to the lipidated peptide is between 3:1 (w/w) and 30:1 (w/w).",
+      "char_count": 173
+    },
+    {
+      "claim_number": 54,
+      "claim_text": "54. The oral pharmaceutical formulation of claim 4 of any one of claims 1-47, wherein the ratio of the absorption enhancer to the lipidated peptide is between 5:1 (w/w) and 50:1 (w/w).",
+      "char_count": 184
+    },
+    {
+      "claim_number": 55,
+      "claim_text": "55. The oral pharmaceutical formulation of any one of claims 1-47, wherein the ratio of the absorption enhancer to the lipidated peptide is about 10:1 (w/w).",
+      "char_count": 157
+    },
+    {
+      "claim_number": 56,
+      "claim_text": "56. The oral pharmaceutical formulation of any one of claims 1-55, wherein the absorption enhancer is present in an amount greater than 250 mg.",
+      "char_count": 143
+    },
+    {
+      "claim_number": 57,
+      "claim_text": "57. The oral pharmaceutical formulation of any one of claims 1-56, wherein the absorption enhancer is present in an amount less than 700 mg.",
+      "char_count": 140
+    },
+    {
+      "claim_number": 58,
+      "claim_text": "58. The oral pharmaceutical formulation of any one of claims 1-57, wherein the absorption enhancer comprises one or more of sodium caprate, sodium caprylate, sodium palmitate, sodium stearate, sodium citrate, sodium salicylate, sodium salcaprozate (SNAC), a polyethylene glycol (PEG)-modified medium chain fatty acid triglyceride of capric and caprylic acid, sucrose laurate, sodium octanoate, labrasol, and lauroyl-L-carnitine (LC).",
+      "char_count": 433
+    },
+    {
+      "claim_number": 59,
+      "claim_text": "59. The oral pharmaceutical formulation of any one of claims 1-58, wherein the absorption enhancer comprises sodium salcaprozate (SNAC).",
+      "char_count": 136
+    },
+    {
+      "claim_number": 60,
+      "claim_text": "60. The oral pharmaceutical formulation of any one of claims 1-58, wherein the absorption enhancer comprises lauroyl-L-carnitine (LC).",
+      "char_count": 134
+    },
+    {
+      "claim_number": 61,
+      "claim_text": "61. The oral pharmaceutical formulation of any one of claims 1-58, wherein the absorption enhancer comprises sodium octanoate.",
+      "char_count": 126
+    },
+    {
+      "claim_number": 62,
+      "claim_text": "62. The oral pharmaceutical formulation of any one of claims 1-58, wherein the absorption enhancer comprises sodium labrasol.",
+      "char_count": 125
+    },
+    {
+      "claim_number": 63,
+      "claim_text": "63. The oral pharmaceutical formulation of any one of claims 1-58, wherein the absorption enhancer comprises sodium caprate.",
+      "char_count": 124
+    },
+    {
+      "claim_number": 64,
+      "claim_text": "64. The oral pharmaceutical formulation of any one of claims 63, wherein the sodium caprate has a purity of at least 98%.",
+      "char_count": 121
+    },
+    {
+      "claim_number": 65,
+      "claim_text": "65. The oral pharmaceutical formulation of any one of claims 1-64, wherein the oral pharmaceutical formulation further comprises one or more pharmaceutically acceptable excipients.",
+      "char_count": 180
+    },
+    {
+      "claim_number": 66,
+      "claim_text": "66. The oral pharmaceutical formulation of any one of claims 1-65, wherein the oral pharmaceutical formulation improves oral bioavailability of the compound.",
+      "char_count": 157
+    },
+    {
+      "claim_number": 67,
+      "claim_text": "67. The oral pharmaceutical formulation of any one of claims 1-65, wherein the oral pharmaceutical formulation improves oral bioavailability of the compound by about 2 to about 500 fold.",
+      "char_count": 186
+    },
+    {
+      "claim_number": 68,
+      "claim_text": "68. The oral pharmaceutical formulation of any one of claims 1-65, wherein the oral pharmaceutical formulation improves oral bioavailability of the compound by about 2 to about 250 fold.",
+      "char_count": 186
+    },
+    {
+      "claim_number": 69,
+      "claim_text": "69. A method of increasing the bioavailability of a lipidated peptide as described in any one of claims 1-47 in a subject comprising orally administering the compound, or a pharmaceutically acceptable salt or solvate form thereof, and an absorption enhancer.",
+      "char_count": 258
+    },
+    {
+      "claim_number": 70,
+      "claim_text": "70. The method of claim 69, wherein the absorption enhancer comprises one or more of sodium caprate, sodium caprylate, sodium palmitate, sodium stearate, sodium citrate, sodium salicylate, sodium salcaprozate (SNAC), a polyethylene glycol (PEG)- modified medium chain fatty acid triglyceride of capric and caprylic acid, sucrose laurate, sodium octanoate, labrasol, and lauroyl-L-carnitine (LC).",
+      "char_count": 395
+    },
+    {
+      "claim_number": 71,
+      "claim_text": "71. The method of claims 69 or 70, wherein the compound or a pharmaceutically acceptable salt or solvate form thereof, and the absorption enhancer are co- administered.",
+      "char_count": 168
+    },
+    {
+      "claim_number": 72,
+      "claim_text": "72. The method of any one of claims 69-71, wherein the compound or a pharmaceutically acceptable salt or solvate form thereof, and the enhancer are co-administered in a pharmaceutically acceptable formulation.",
+      "char_count": 209
+    },
+    {
+      "claim_number": 73,
+      "claim_text": "73. Use of an oral pharmaceutical formulation according to any of claims 1-68 for the preparation of a medicament for the treatment of an inflammatory disorder or autoimmune inflammatory disorder.",
+      "char_count": 196
+    },
+    {
+      "claim_number": 74,
+      "claim_text": "74. The use of claim 73 for the preparation of a medicament for the treatment of autoimmune inflammation and related diseases and disorders including, but not limited to: multiple sclerosis, asthma, rheumatoid arthritis, inflammation of the gut, inflammatory bowel diseases (IBDs), juvenile IBD, adolescent IBD, Crohn’ s disease, ulcerative colitis, Celiac disease (nontropical Sprue), microscopic colitis, collagenous colitis, eosinophilic gastroenteritis/esophagitis, colitis associated with radio- or chemo-therapy, colitis associated with disorders of innate immunity as in leukocyte adhesion deficiency-1, sarcoidosis, Systemic Lupus Erythematosus, ankylosing spondylitis (axial spondyloarthritis), psoriatic arthritis, psoriasis (e.g., plaque psoriasis, guttate psoriasis, inverse psoriasis, pustular psoriasis, Palmo-Plantar Pustulosis, psoriasis vulgaris, or erythrodermic psoriasis), atopic dermatitis, acne ectopica, enteropathy associated with seronegative arthropathies, chronic granulomatous disease, glycogen storage disease type 1b, Hermansky-Pudlak syndrome, Chediak-Higashi syndrome, Wiskott-Aldrich Syndrome, pouchitis, pouchitis resulting after proctocolectomy and ileoanal anastomosis, gastrointestinal cancer, pancreatitis, insulin-dependent diabetes mellitus, mastitis, cholecystitis, cholangitis, primary biliary cirrhosis, viral-associated enteropathy, pericholangitis, chronic bronchitis, chronic sinusitis, asthma, uveitis, or graft versus host disease.",
+      "char_count": 1479
+    },
+    {
+      "claim_number": 75,
+      "claim_text": "75. The use of claim 73 for the preparation of a medicament for the treatment of a disease or disorder selected from Inflammatory Bowel Disease (IBD), Ulcerative colitis (UC), Crohn’ s Disease (CD), psoriasis (PsO), and psoriatic arthritis (PsA).",
+      "char_count": 246
+    },
+    {
+      "claim_number": 76,
+      "claim_text": "76. A method for treating a disease or disorder associated with Interleukin 23 (IL- 23)/Interleukin 23 Receptor (IL-23R), which comprises administering an effective amount of a pharmaceutical formulation according to any of claims 1-68 to a patient in need thereof.",
+      "char_count": 265
+    },
+    {
+      "claim_number": 77,
+      "claim_text": "77. The method of claim 76, wherein the disease or disorder is associated with autoimmune inflammation.",
+      "char_count": 103
+    },
+    {
+      "claim_number": 78,
+      "claim_text": "78. The method of claim 77, wherein the disease or disorder is multiple sclerosis, asthma, rheumatoid arthritis, inflammation of the gut, inflammatory bowel diseases (IBDs), juvenile IBD, adolescent IBD, Crohn’ s disease, ulcerative colitis, Celiac disease (nontropical Sprue), microscopic colitis, collagenous colitis, eosinophilic gastroenteritis/esophagitis, colitis associated with radio- or chemo-therapy, colitis associated with disorders of innate immunity as in leukocyte adhesion deficiency-1, sarcoidosis, Systemic Lupus Erythematosus, ankylosing spondylitis (axial spondyloarthritis), psoriatic arthritis, psoriasis (e.g., plaque psoriasis, guttate psoriasis, inverse psoriasis, pustular psoriasis, Palmo-Plantar Pustulosis, psoriasis vulgaris, or erythrodermic psoriasis), atopic dermatitis, acne ectopica, enteropathy associated with seronegative arthropathies, chronic granulomatous disease, glycogen storage disease type 1b, Hermansky-Pudlak syndrome, Chediak-Higashi syndrome, Wiskott-Aldrich Syndrome, pouchitis, pouchitis resulting after proctocolectomy and ileoanal anastomosis, gastrointestinal cancer, pancreatitis, insulin-dependent diabetes mellitus, mastitis, cholecystitis, cholangitis, primary biliary cirrhosis, viral-associated enteropathy, pericholangitis, chronic bronchitis, chronic sinusitis, asthma, uveitis, or graft versus host disease.",
+      "char_count": 1371
+    },
+    {
+      "claim_number": 79,
+      "claim_text": "79. The method of claim 78, wherein the disease or disorder is associated with Ulcerative colitis (UC), Crohn’s Disease (CD), psoriasis (PsO), or psoriatic arthritis (PsA).",
+      "char_count": 172
+    }
+  ],
+  "claim_count": 78
+}

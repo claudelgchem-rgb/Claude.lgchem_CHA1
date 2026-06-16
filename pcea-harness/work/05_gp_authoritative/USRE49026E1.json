@@ -1,0 +1,201 @@
+{
+  "patent_id": "USRE49026E1",
+  "source_url": "https://patents.google.com/patent/USRE49026E1/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:36:22Z",
+  "meta": {
+    "title": "Polypeptides that bound to IL-23 receptor and inhibit binding of IL-23 and cell signaling thereof",
+    "priorityDate": "2011-06-14",
+    "filingDate": "2017-10-06",
+    "publicationDate": "2022-04-12",
+    "assignee": [
+      "Medical Diagnostic Laboratories LLC"
+    ],
+    "anticipated_expiration": "2032-06-14",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. An isolated cyclic polypeptide consisting of an amino acid sequence selected from the group consisting of SEQ ID NO: 177, SEQ ID NO: 178 and SEQ ID NO: 179, wherein said isolated cyclic polypeptide inhibits binding of IL-23 to IL-23 receptor and inhibits IL-23-mediated cell signaling.",
+      "char_count": 288
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 177.",
+      "char_count": 117
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 178.",
+      "char_count": 117
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The isolated cyclic polypeptide of claim 1, wherein said isolated cyclic polypeptide consisting of SEQ ID NO: 179.",
+      "char_count": 117
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. A method of inhibiting production of IL-17F in a Th17 cell in a human, comprising the steps of: a) providing a human Th17 cell in need of inhibiting production of IL-17F; and b) exposing said Th17 cell to said isolated cyclic polypeptide of claim 1.",
+      "char_count": 252
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The method of claim 5, wherein said IL-17F is IL-17F protein.",
+      "char_count": 64
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The method of claim 5, wherein said production of IL-17F is assayed by an ELISA.",
+      "char_count": 83
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. A method of inhibiting production of IL-17F in a splenocyte in a human, comprising the steps of: a) providing a human splenocyte in need of inhibiting production of IL-17F from said splenocyte; and b) exposing said splenocyte to said isolated cyclic polypeptide of claim 1.",
+      "char_count": 276
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The method of claim 8, wherein said IL-17F is IL-17F mRNA.",
+      "char_count": 61
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The method of claim 8, wherein said production of IL-17F is assayed by RT-PCR.",
+      "char_count": 82
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. A method of inhibiting production of IL-22 from a mononuclear cell in a human, comprising the steps of: a) providing a human mononuclear cell in need of inhibiting production of IL-22 from said mononuclear cell; and b) exposing said mononuclear cell to said isolated cyclic polypeptide of claim 1.",
+      "char_count": 301
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The method of claim 11, wherein said IL-22 is IL-22 protein.",
+      "char_count": 64
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The method of claim 11, wherein said production of IL-22 is assayed by an ELISA.",
+      "char_count": 84
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The method of claim 11, wherein said isolated cyclic polypeptide is SEQ ID NO: 177.",
+      "char_count": 87
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The method of claim 11, wherein said isolated cyclic polypeptide is SEQ ID NO: 178.",
+      "char_count": 87
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The method of claim 11, wherein said isolated cyclic polypeptide is SEQ ID NO: 179.",
+      "char_count": 87
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. A method of identifying a polypeptides that inhibits binding of IL-23 to IL-23 receptor on a cell, comprising screening a phage display library of phage displaying candidate polypeptides for ability to bind a protein comprising a fragment of Δ9 IL-23 receptor, wherein the fragment consists of an amino acid sequence selected from amino acids 1-250 of Δ9 IL-23 receptor and amino acids 24-250 of Δ9 IL-23 receptor sequence, selecting a candidate polypeptide that was determined to have an ability to bind the protein by said screening; and determining the ability of the candidate polypeptide from said selecting to inhibit binding of IL-23 to IL-23 receptor.",
+      "char_count": 663
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The method according to claim 17, wherein said candidate polypeptides comprise 12 to 18 amino acids.",
+      "char_count": 104
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The method according to claim 17, wherein said protein further comprises a Flag protein.",
+      "char_count": 92
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The method according to claim 19, wherein said Flag protein has the sequence of SEO ID NO: 175.",
+      "char_count": 99
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The method according to claim 19, wherein said method further comprises capturing the polypeptide that interacts with the protein with an anti-Flag affinity gel.",
+      "char_count": 165
+    },
+    {
+      "claim_number": 22,
+      "claim_text": "22. The method according to claim 17, wherein said protein further comprises an Fc chimera.",
+      "char_count": 91
+    },
+    {
+      "claim_number": 23,
+      "claim_text": "23. The method according to claim 22, wherein the Fc chimera comprises an Fc region of human IgG1.",
+      "char_count": 98
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "24. The method according to claim 22, wherein said method further comprises capturing the polypeptide that interacts with the protein with protein A Sepharose.",
+      "char_count": 159
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "25. The method according to claim 17, further comprising conducting a binding assay to detect binding between candidate polypeptides from said selecting to verify said candidate polypeptide binds the IL-23 receptor.",
+      "char_count": 215
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "26. The method according to claim 25, wherein said binding assay is by immunoprecipitation.",
+      "char_count": 91
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "27. The method according to claim 25, wherein said binding assay is an ELISA assay.",
+      "char_count": 83
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "28. The method according to claim 17, wherein said determining the ability of the candidate polypeptide from said selecting to inhibit the binding of IL-23 to IL-23 receptor is by competitive ELISA.",
+      "char_count": 198
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "29. The method according to claim 17, further comprising sequencing candidate polypeptide determined to inhibit the binding of IL-23 to IL-23 receptor.",
+      "char_count": 151
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "30. The method according to claim 17, wherein the binding of IL-23 is via the p19 subunit of IL-23 cytokine.",
+      "char_count": 108
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "31. The method of claim 5, wherein said isolated cyclic polypeptide is SEQ ID NO: 177.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "32. The method of claim 5, wherein said isolated cyclic polypeptide is SEQ ID NO: 178.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "33. The method of claim 5, wherein said isolated cyclic polypeptide is SEQ ID NO: 179.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "34. The method of claim 8, wherein said isolated cyclic polypeptide is SEQ ID NO: 177.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "35. The method of claim 8, wherein said isolated cyclic polypeptide is SEQ ID NO: 178.",
+      "char_count": 86
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "36. The method of claim 8, wherein said isolated cyclic polypeptide is SEQ ID NO: 179.",
+      "char_count": 86
+    }
+  ],
+  "claim_count": 36
+}

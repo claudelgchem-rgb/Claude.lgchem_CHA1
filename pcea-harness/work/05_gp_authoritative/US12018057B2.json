@@ -1,0 +1,72 @@
+{
+  "patent_id": "US12018057B2",
+  "source_url": "https://patents.google.com/patent/US12018057B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:35:40Z",
+  "meta": {
+    "title": "Peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory diseases",
+    "priorityDate": "2020-01-15",
+    "filingDate": "2021-01-14",
+    "publicationDate": "2024-06-25",
+    "assignee": [
+      "Janssen Biotech Inc",
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2041-01-14",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A peptide that is: (SEQ ID NO: 3) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N- [alpha-MePhe]-NH2; (SEQ ID NO: 4) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- [Phe(4-OMe)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 5) [3,3,3-Trifluoropropionic acid]-[(D)Arg]-[Pen]- Q-T-W-Q-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]- [THP]-E-N-[THP]-NH2; SEQ ID NO: 6) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]- [Lys(COCF3)]-N-[THP]-NH2; (SEQ ID NO: 7) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]- [Lys(COtBu)]-N-[THP]-NH2; (SEQ ID NO: 8) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N- [N-Me-beta-Ala]-NH2; (SEQ ID NO: 9) [Pentanoic acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N- [THP]-NH2; (SEQ ID NO: 10) [Propionic_acid]-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N- [THP]-NH2; (SEQ ID NO: 13) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 14) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[N-Me-beta- Ala]-NH2; (SEQ ID NO: 15) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-Q-N-[THP]-NH2; (SEQ ID NO: 18) [(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-[Phe(4-OMe)]- [2-Nal]-[THP]-E-N-[THP]-NH2; (SEQ ID NO: 26) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COtBu)]- N-F-NH2; (SEQ ID NO: 33) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(CO2Allyl)]- N-F-NH2; (SEQ ID NO: 51) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COcPr)]- N-[THP]-NH2; (SEQ ID NO: 52) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPr)]- N-[THP]-NH2; (SEQ ID NO: 53) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]-N-F-NH2; (SEQ ID NO: 54) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COEt)]- N-F-NH2; (SEQ ID NO: 55) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COcPr)]- N-F-NH2; (SEQ ID NO: 56) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(Ac)]- N-[THP]-NH2; (SEQ ID NO: 57) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COEt)]- N-[THP]-NH2; (SEQ ID NO: 58) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPr)]- N-F-NH2; (SEQ ID NO 59) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COPent)]- N-F-NH2; (SEQ ID NO: 60) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COCF3)- N-F-NH2; (SEQ ID NO: 61) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-[Lys(COiPr)]- N-F-NH2; (SEQ ID NO: 105) Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E- N-[THP]-NH2; (SEQ ID NO: 106) Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]- Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E- N-[alpha-MePhe]-NH2; (SEQ ID NO: 125) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N- Ph)Asn]-NH2; (SEQ ID NO: 126) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(2- aminophenyl))Asn]-NH2; (SEQ ID NO: 127) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N- Pip)Asn]-NH2; (SEQ ID NO: 128) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N- Pyr)Asn]-NH2; (SEQ ID NO: 129) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(4- aminophenyl))Asn]-NH2; (SEQ ID NO: 130) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(3- aminophenyl))Asn]-NH2; (SEQ ID NO: 131) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(4- Pyz))Asn]-NH2; (SEQ ID NO: 132) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(5- indolyl)Asn]-NH2; (SEQ ID NO: 133) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N-(3- Pyz))Asn]-NH2; (SEQ ID NO: 134) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-THP]-E-N-[THP]-NH2; (SEQ ID NO: 135) pr-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[(alpha- Me)-4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N- [THP]-NH2; (SEQ ID NO: 136) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N- propylamido)Asn]-NH2; or (SEQ ID NO: 137) Ac-[(D)Arg]-[Pen]-Q-T-W-Q-[Pen]-Phe[4-(2- aminoethoxy)]-[2-Nal]-[THP]-E-N-[(N- (imidazol-2-yl)methyl)Asn]-NH2; wherein the peptide is cyclized via a Pen-Pen disulfide bond; or a pharmaceutically acceptable salt thereof.",
+      "char_count": 4654
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The peptide of claim 1, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.",
+      "char_count": 204
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. A pharmaceutical composition comprising the peptide or a pharmaceutically acceptable salt thereof of claim 1 and a pharmaceutically acceptable carrier, excipient, or diluent.",
+      "char_count": 177
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The pharmaceutical composition of claim 3, wherein said peptide is Ac-[(D)Arg]-[Pen]-N-T-W-[Lys(Ac)]-[Pen]-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[THP]—NH2 (SEQ ID NO:105) or a pharmaceutically acceptable salt thereof.",
+      "char_count": 223
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. A method for treating an Inflammatory Bowel Disease (IBD), ulcerative colitis, Crohn's disease, Celiac disease (nontropical Sprue), enteropathy associated with seronegative arthropathies, microscopic colitis, collagenous colitis, eosinophilic gastroenteritis, colitis associated with radio- or chemo-therapy, colitis associated with disorders of innate immunity as in leukocyte adhesion deficiency-1, chronic granulomatous disease, glycogen storage disease type 1b, Hermansky-Pudlak syndrome, Chediak-Higashi syndrome, and Wiskott-Aldrich Syndrome, pouchitis resulting after proctocolectomy and ileoanal anastomosis, gastrointestinal cancer, pancreatitis, insulin-dependent diabetes mellitus, mastitis, cholecystitis, cholangitis, pericholangitis, chronic bronchitis, chronic sinusitis, asthma, psoriasis, psoriatic arthritis, or graft versus host disease in a subject in need thereof, comprising administering an effective amount of the peptide or a pharmaceutically acceptable salt thereof of claim 1 to the subject.",
+      "char_count": 1021
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The method of claim 5, wherein the method is for treating an Inflammatory Bowel Disease (IBD).",
+      "char_count": 97
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The method of claim 5, wherein the method is for treating ulcerative colitis.",
+      "char_count": 80
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The method of claim 5, wherein the method is for treating Crohn's disease.",
+      "char_count": 77
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The method of claim 5, wherein the method is for treating psoriasis.",
+      "char_count": 71
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The method of claim 5, wherein the method is for treating psoriatic arthritis.",
+      "char_count": 82
+    }
+  ],
+  "claim_count": 10
+}

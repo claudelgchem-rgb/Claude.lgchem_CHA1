@@ -1,0 +1,172 @@
+{
+  "patent_id": "US20240173309A1",
+  "source_url": "https://patents.google.com/patent/US20240173309A1/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:35:55Z",
+  "meta": {
+    "title": "Lipidated peptide inhibitors of interleukin-23 receptor",
+    "priorityDate": "2021-07-14",
+    "filingDate": "2023-10-26",
+    "publicationDate": "2024-05-30",
+    "assignee": [
+      "Janssen Biotech Inc",
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2042-07-14",
+    "expiration_label": "Anticipated expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 23,
+      "claim_text": "23. An interleukin-23 receptor inhibitor selected from the group consisting of: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 126
+    },
+    {
+      "claim_number": 24,
+      "claim_text": "24. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 25,
+      "claim_text": "25. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 26,
+      "claim_text": "26. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 27,
+      "claim_text": "27. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 28,
+      "claim_text": "28. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 29,
+      "claim_text": "29. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 30,
+      "claim_text": "30. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 31,
+      "claim_text": "31. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 32,
+      "claim_text": "32. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 33,
+      "claim_text": "33. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 34,
+      "claim_text": "34. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 35,
+      "claim_text": "35. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 36,
+      "claim_text": "36. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 37,
+      "claim_text": "37. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 38,
+      "claim_text": "38. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 39,
+      "claim_text": "39. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 40,
+      "claim_text": "40. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 41,
+      "claim_text": "41. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 42,
+      "claim_text": "42. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 43,
+      "claim_text": "43. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 44,
+      "claim_text": "44. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 45,
+      "claim_text": "45. The interleukin-23 receptor inhibitor of claim 23, having the following structure: or a pharmaceutically acceptable salt thereof.",
+      "char_count": 133
+    },
+    {
+      "claim_number": 46,
+      "claim_text": "46. A pharmaceutical composition comprising: (i) the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, and (ii) a pharmaceutically acceptable carrier, excipient, or diluent.",
+      "char_count": 217
+    },
+    {
+      "claim_number": 47,
+      "claim_text": "47. A method for treating a disease or disorder associated with interleukin 23 (IL-23)/interleukin 23 receptor (IL-23R), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 308
+    },
+    {
+      "claim_number": 48,
+      "claim_text": "48. A method for treating inflammatory bowel diseases (IBDs), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 249
+    },
+    {
+      "claim_number": 49,
+      "claim_text": "49. A method for treating ulcerative colitis (UC), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 238
+    },
+    {
+      "claim_number": 50,
+      "claim_text": "50. A method for treating Crohn's disease (CD), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 235
+    },
+    {
+      "claim_number": 51,
+      "claim_text": "51. A method for treating psoriasis (PsO), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 230
+    },
+    {
+      "claim_number": 52,
+      "claim_text": "52. A method for treating psoriatic arthritis (PsA), said method comprising administering an effective amount of the interleukin-23 receptor inhibitor of claim 23, or a pharmaceutically acceptable salt thereof, to a patient in need thereof.",
+      "char_count": 240
+    }
+  ],
+  "claim_count": 30
+}

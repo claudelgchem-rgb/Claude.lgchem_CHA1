@@ -1,0 +1,126 @@
+{
+  "patent_id": "US11884748B2",
+  "source_url": "https://patents.google.com/patent/US11884748B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-16T00:36:07Z",
+  "meta": {
+    "title": "Oral peptide inhibitors of interleukin-23 receptor and their use to treat inflammatory bowel diseases",
+    "priorityDate": "2014-07-17",
+    "filingDate": "2021-01-28",
+    "publicationDate": "2024-01-30",
+    "assignee": [
+      "Protagonist Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2035-07-15",
+    "expiration_label": "Adjusted expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A pharmaceutical composition comprising a peptide inhibitor of an interleukin-23 receptor, or a pharmaceutically acceptable salt thereof, and a pharmaceutically acceptable carrier, excipient, or diluent, wherein the peptide inhibitor of an interleukin-23 receptor is selected from the group consisting of: (SEQ ID NO: 702) Ac-[Abta]-QTWQC-[Phe(4-OMe)]-[2-Nal]-[α-Me-Lys]- ENG-NH2;  (SEQ ID NO: 704) Ac-[Abta]-QTWQCY-[2-Nal]-[α-Me-Lys]-ENG-NH2;  (SEQ ID NO: 782) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]-W- [α-Me-Lys]-ENG-NH2; (SEQ ID NO: 861) Ac-[Abta]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-Me-Lys]-[Lys(isovaleric acid)]-NG-NH2;  (SEQ ID NO: 877) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal] AiN-QNG-NH2; (SEQ ID NO: 880) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [AibMLys(Ac)]-NA-NH2;  (SEQ ID NO: 900) Ac-[Abu]-QTWQC-[Phe[4-(2-(acetyl-aminoethoxy)]]- [2-Nal]-[α-Me-Lys(Ac)]-[Lys(Ac)]-NG-NH2;  (SEQ ID NO: 911) Ac-[Abta]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-Me-Lys]-ENQ-NH2;  (SEQ ID NO: 912) Ac-[Abta]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-Me-Lys]-ENN-NH2;  (SEQ ID NO: 915) Ac-[Abta]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-MeVal]-[Lys(Ac)]-NG-NH2; (SEQ ID NO: 954) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-Me-Leu]-[Cit]-NN-NH2;  (SEQ ID NO: 970) Ac-[(D)Phe]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]- [2-Nal]-[α-Me-Lys]-ENN-NH2;  (SEQ ID NO: 972) Ac-T-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [α-Me-Lys]-ENN-NH2;  (SEQ ID NO: 976) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]- [2-Nal]-[acbc]-ENN-NH2; (SEQ ID NO: 980) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]- [2-Nal]-[4-amino-4-carboxy-tetrahydropyran]- ENN-NH2; (SEQ ID NO: 984) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [alphα-methyl-L-Leucine]-QN-[betaAla]-NH2; (SEQ ID NO: 992) Ac-(D)Phe-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]- [2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-  ENN-NH2; (SEQ ID NO: 993) Ac-[(D)Arg]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]- [2-Nal]-[4-amino-4-carboxy-tetrahydropyran]- ENN-NH2;  (SEQ ID NO: 1043)  Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]- [acpc]-ENN-NH2;  or (SEQ ID NO: 1047) Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal] achc]-ENN-NH2; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 2255
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe(4-OMe)]-[2-Nal]-[α-Me-Lys]-ENG-NH2 (SEQ ID NO:702) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 309
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQCY-[2-Nal]-[a-Me-Lys]-ENG-NH2 (SEQ ID NO:704) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 297
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]-W-[α-Me-Lys]-ENG-NH2 (SEQ ID NO:782) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 314
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-[Lys(isovaleric acid)]-NG-NH2 (SEQ ID NO:861) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 343
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-QNG-NH2 (SEQ ID NO:877) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 316
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[Aib]-[Lys(Ac)]-NA-NH2 (SEQ ID NO:880) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 325
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-(acetyl-aminoethoxy)]]-[2-Nal]-[α-Me-Lys(Ac)]-[Lys(Ac)]-NG-NH2 (SEQ ID NO:900) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 342
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENQ-NH2 (SEQ ID NO:911) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 321
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO:912) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 322
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-MeVal]-[Lys(Ac)]-NG-NH2 (SEQ ID NO:915) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 330
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-8 2-Nal]-[α-Me-Leu]-[Cit]-NN-NH2 (SEQ ID NO:954) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 328
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[(D)Phe]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO: 970) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 332
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-T-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[α-Me-Lys]-ENN-NH2 (SEQ ID NO:972) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 324
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]acbc]-ENN-NH2 (SEQ ID NO:976) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 316
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe [4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:980) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 348
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe [4-(2-aminoethoxy)]]-[2-Nal]-[alpha-methyl-L-Leucine]-QN-[betaAla]-NH2 (SEQ ID NO:984) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 346
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-(D)Phe-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:992) or a pharmaceutically acceptable salt thereof; wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 354
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[(D)Arg]-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]-[4-amino-4-carboxy-tetrahydropyran]-ENN-NH2 (SEQ ID NO:993) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 356
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]acpc]- ENN-NH2 (SEQ ID NO:1043) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 318
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The pharmaceutical composition of claim 1, wherein the peptide inhibitor of an interleukin-23 receptor is: Ac-[Abu]-QTWQC-[Phe[4-(2-aminoethoxy)]]-[2-Nal]achc]-ENN-NH2 (SEQ ID NO:1047) or a pharmaceutically acceptable salt thereof, wherein the peptide inhibitor is cyclized via a thioether bond between Abu and C.",
+      "char_count": 317
+    }
+  ],
+  "claim_count": 21
+}
