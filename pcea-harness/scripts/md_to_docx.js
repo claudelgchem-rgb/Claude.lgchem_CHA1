@@ -52,9 +52,30 @@ function parseInline(text, baseOpts = {}) {
 function makeTable(rows) {
   // rows: array of arrays of cell strings; first row is header
   const ncol = Math.max(...rows.map((r) => r.length));
-  const base = Math.floor(CONTENT_WIDTH / ncol);
-  const colWidths = Array(ncol).fill(base);
-  colWidths[ncol - 1] = CONTENT_WIDTH - base * (ncol - 1);
+  // proportional column widths based on max content length (so long cells get room)
+  const colMax = Array(ncol).fill(1);
+  for (const r of rows) {
+    for (let ci = 0; ci < ncol; ci++) {
+      const len = (r[ci] !== undefined ? r[ci] : "").length;
+      if (len > colMax[ci]) colMax[ci] = len;
+    }
+  }
+  // cap weight so one column can't fully starve others, but long text still dominates
+  const weights = colMax.map((l) => Math.min(l, 140) + 4);
+  const tot = weights.reduce((a, b) => a + b, 0);
+  let colWidths = weights.map((w) => Math.round((CONTENT_WIDTH * w) / tot));
+  const MIN = 760;
+  // enforce minimum width by borrowing from the widest column
+  let widest = colWidths.indexOf(Math.max(...colWidths));
+  for (let i = 0; i < ncol; i++) {
+    if (i !== widest && colWidths[i] < MIN) {
+      colWidths[widest] -= MIN - colWidths[i];
+      colWidths[i] = MIN;
+    }
+  }
+  // fix rounding so widths sum exactly to CONTENT_WIDTH
+  widest = colWidths.indexOf(Math.max(...colWidths));
+  colWidths[widest] += CONTENT_WIDTH - colWidths.reduce((a, b) => a + b, 0);
   const border = { style: BorderStyle.SINGLE, size: 1, color: "BBBBBB" };
   const borders = { top: border, bottom: border, left: border, right: border };
   const trows = rows.map((cells, ri) =>

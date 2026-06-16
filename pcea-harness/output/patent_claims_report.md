@@ -56,28 +56,28 @@
 
 ## 🔎 한눈에 보기 — 특허별 핵심 요약 (분석층, 원문 위에 부가)
 
-> 아래는 각 특허가 **무엇을 청구/보호하는지** 한 줄로 본 것이다. 청구항 원문은 각 특허 섹션의 `[VERBATIM]`에 변형 없이 그대로 있다. 만료일은 Google Patents anticipated expiration(출원일+20년, PTE/PTA 미반영, WO는 해당없음).
+> 각 특허가 **무엇을 청구/보호하는지** 요지를 정리한 것이다(생략 없음). 청구항 원문은 각 특허 섹션의 `[VERBATIM]`에 변형 없이 그대로 있다. 만료일=Google Patents anticipated expiration(출원일+20년, PTE/PTA 미반영; WO는 해당 없음).
 
-| # | 특허번호 | 유형 | 무엇을 청구/보호하는가 (요지) | 독립항 | 검증 | 추정만료 |
-|---|---|---|---|---|---|---|
-| 1 | **US11939361B2** | formulation, composition, use | icotrokinra(SEQ ID NO:1) 또는 그 염/용매화물을 조성물의 약 0.1~15%(또는 0.1~20%)(w/w)로 함유하는 의약조성물(제형) 자체와 그 염증질환 치료방법을 청구 | 1,11 | ✅교차검증 | 2041-11-19 |
-| 2 | **CA3202226A1** | formulation, composition, use | icotrokinra(SEQ ID NO:1)를 0.1~15%(w/w)로 함유하고 sodium caprate 흡수촉진제·내상/외상 구조·SMCC·장용코팅을 갖춘 경구 정제 조성물과 제조방법, 그리고 혈액·피부·연… | 1,20,66,67,68,76,77,80,81,94,95,104,109,118,123,132,137,146,151 | ⚠️단일소스(GP) | 2041-11-19 |
-| 3 | **WO2021146441A1** | compound, composition, use | IL-23 수용체에 결합하는 단환(monocyclic) 펩타이드 저해제 자체를 Formula (I) Markush 구조로 청구하고(X4-X9 디설파이드/티오에터 고리화), 그 펩타이드 이량체, 의약조성물, IB… | 1,36,44,47,52,183 | ☑️부분교차검증(차이75) | PCT(term N/A) |
-| 4 | **US20210261622A1** | compound | WO2021146441과 동일 계열의 단환 IL-23R 펩타이드 저해제를 Formula (I) Markush로 청구(공개 출원); X4-X9 디설파이드/티오에터 고리화 및 IL-23/IL-23R 결합 저해를 명시 | 1 | ☑️부분교차검증(차이14) | 2041-01-14 |
-| 5 | **US11845808B2** | compound, use | icotrokinra(SEQ ID NO:1)를 포함하는 좁은 단환 펩타이드 화학식(Formula I: X3-Pen-N-T-X7-Lys(Ac)-Pen-X10-2Nal-X12-E-N-X15-Sarc, X15=3Pa… | 1,5 | ☑️부분교차검증(차이4) | 2041-01-14 |
-| 6 | **US12018057B2** | compound, composition, use | Pen-Pen 디설파이드 고리화된 특정 IL-23R 펩타이드 화합물군(SEQ ID NO:3~137에서 열거된 개별 서열)을 청구하고, 그 의약조성물 및 IBD·UC·CD·건선·PsA 등 치료방법을 청구 | 1 | ✅교차검증 | 2041-01-14 |
-| 7 | **US12552836B2** | compound, composition | 8잔기 코어 Formula (II)(Pen-X5-T-W(alkyl)-X8-Pen-Phe(아미노에톡시)-Nal)로 정의되는 단환 IL-23R 펩타이드 저해제 자체와 그 의약조성물(장용코팅 포함)을 청구 | 1 | ✅교차검증 | 2039-07-12 |
-| 8 | **US11041000B2** | compound, composition | Formula (Z') 단환 IL-23R 펩타이드 저해제(X4=Pen, X5=Asn, X6=Thr, X7=alkyl 치환 Trp, X9=Pen, 두 Pen 간 디설파이드)와 그 의약조성물을 청구 | 1 | ☑️부분교차검증(차이9) | 2040-07-09 |
-| 9 | **US10787490B2** | compound, use | PEG화·지질화(Palm/Octanyl/isoGlu 등) 변형을 포함하는 특정 IL-23R 펩타이드 저해제(SEQ ID NO:1115~1206 열거)를 청구하고, IBD(UC/CD) 치료방법을 청구 | 1 | ☑️부분교차검증(차이4) | 2035-07-15 |
-| 10 | **US9624268B2** | compound, composition | IL-23R 단환 펩타이드 저해제를 20잔기 Formula Ir 및 Xa의 광범위 초기 Markush로 청구(X4-X9 고리화)하고, 다수 개별 SEQ 화합물과 의약조성물까지 청구(PTG-200 계열 기초 물질특허) | 1,11,19,24 | ⚠️단일소스(GP) | 2035-07-15 |
-| 11 | **US10023614B2** | compound, composition | Formula (Xa)로 좁혀진 IL-23R 단환 펩타이드 저해제(X4=Pen, X6=Thr, X7=Trp, X8=Gln, X9=Pen 디설파이드)와 일부 이량체(DIG 링커) 화합물 및 그 의약조성물을 청구 | 1,21 | ⚠️단일소스(GP) | 2035-07-15 |
-| 12 | **US10941183B2** | use, compound | X4=Abu·X9=Cys 티오에터 고리화 단환 IL-23R 펩타이드 저해제를 투여해 염증성 장질환(IBD)을 치료하는 방법을 청구(용도·치료방법 특허) | 1 | ⚠️단일소스(GP) | 2035-07-15 |
-| 13 | **WO2016011208A1** | compound, composition, use | IL-23R 단환 펩타이드 저해제를 20잔기 Formula (Xa)의 매우 광범위한 1세대 Markush(X4-X9 고리화)로 청구하고, 펩타이드 이량체·의약조성물·IBD/건선 등 치료방법·DSS/TNBS 평가… | 1,36,44,47,52 | ⚠️단일소스(GP) | PCT(term N/A) |
-| 14 | **US12478617B2** | compound, composition, use | 구조식 군에서 선택되는 특정 IL-23 수용체 저해제 화합물(claim 1) 자체와 그 의약조성물, IL-23/IL-23R 관련 질환·IBD·UC·CD·PsO·PsA 치료방법을 청구 | 1,24,25,26,27,28,29,30 | ✅교차검증 | 2042-07-14 |
-| 15 | **US20240173309A1** | compound, composition, use | 구조식 군에서 선택되는 특정 IL-23 수용체 저해제 화합물(claim 23) 자체와 그 의약조성물, 그리고 IL-23/IL-23R 관련 질환·IBD·UC·CD·PsO·PsA 각각의 치료방법을 청구 | 23,46,47,48,49,50,51,52 | ✅교차검증 | 2042-07-14 |
-| 16 | **WO2023288019A2** | compound, composition, use | Formula I~X의 광범위 Markush 및 Table 1·실시예로 정의되는 IL-23R 저해 펩타이드(7MeW 등 다양한 비천연 Trp 치환, AEF, THP, 3Pya, 지질/PEG 변형 포함)와 그 의… | 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,19 | ☑️부분교차검증(차이5) | PCT(term N/A) |
-| 17 | **WO2024155552A1** | formulation, compound, use | 지질화(lipidated) IL-23R 펩타이드와 흡수촉진제를 함유하는 경구 제형(claim 1) 및 그 펩타이드 구조(Formula A/B, 단일·이중고리, 3Pya 고정, PEG/지질 치환)와 흡수촉진제 비… | 1,69,73,76 | ☑️부분교차검증(차이19) | PCT(term N/A) |
-| 18 | **JP2023145581A** | formulation, composition, use | CA3202226과 동일 내용의 일본 출원으로, SEQ ID NO:1(icotrokinra)을 0.1~15%(w/w)로 함유하는 경구 제형(카프린산나트륨 흡수촉진제·SMCC·장용코팅)과 그 치료·IL-23R 억… | — | ⚠️부분(번호불확실) | 2043-07-24 |
+| 특허번호 | 유형 | 무엇을 청구/보호하는가 (요지, 전문) | 검증 | 추정만료 |
+|---|---|---|---|---|
+| **US11939361B2** | formulation, composition, use | icotrokinra(SEQ ID NO:1) 또는 그 염/용매화물을 조성물의 약 0.1~15%(또는 0.1~20%)(w/w)로 함유하는 의약조성물(제형) 자체와 그 염증질환 치료방법을 청구 | ✅교차검증 | 2041-11-19 |
+| **CA3202226A1** | formulation, composition, use | icotrokinra(SEQ ID NO:1)를 0.1~15%(w/w)로 함유하고 sodium caprate 흡수촉진제·내상/외상 구조·SMCC·장용코팅을 갖춘 경구 정제 조성물과 제조방법, 그리고 혈액·피부·연골·활막·소화관에서 IL-23R 차단 및 IL-17A/F·IL-22 억제 치료방법을 광범위 청구 | ⚠️단일소스(GP) | 2041-11-19 |
+| **WO2021146441A1** | compound, composition, use | IL-23 수용체에 결합하는 단환(monocyclic) 펩타이드 저해제 자체를 Formula (I) Markush 구조로 청구하고(X4-X9 디설파이드/티오에터 고리화), 그 펩타이드 이량체, 의약조성물, IBD·건선 등 치료방법 및 치료용도까지 포괄 청구 | ☑️부분교차검증(차이75) | PCT(N/A) |
+| **US20210261622A1** | compound | WO2021146441과 동일 계열의 단환 IL-23R 펩타이드 저해제를 Formula (I) Markush로 청구(공개 출원); X4-X9 디설파이드/티오에터 고리화 및 IL-23/IL-23R 결합 저해를 명시 | ☑️부분교차검증(차이14) | 2041-01-14 |
+| **US11845808B2** | compound, use | icotrokinra(SEQ ID NO:1)를 포함하는 좁은 단환 펩타이드 화학식(Formula I: X3-Pen-N-T-X7-Lys(Ac)-Pen-X10-2Nal-X12-E-N-X15-Sarc, X15=3Pal)과 개별 SEQ(104/158/247) 화합물 자체를 청구하고, 이를 이용한 IBD·UC·CD·PsO·PsA 경구 치료방법까지 청구 | ☑️부분교차검증(차이4) | 2041-01-14 |
+| **US12018057B2** | compound, composition, use | Pen-Pen 디설파이드 고리화된 특정 IL-23R 펩타이드 화합물군(SEQ ID NO:3~137에서 열거된 개별 서열)을 청구하고, 그 의약조성물 및 IBD·UC·CD·건선·PsA 등 치료방법을 청구 | ✅교차검증 | 2041-01-14 |
+| **US12552836B2** | compound, composition | 8잔기 코어 Formula (II)(Pen-X5-T-W(alkyl)-X8-Pen-Phe(아미노에톡시)-Nal)로 정의되는 단환 IL-23R 펩타이드 저해제 자체와 그 의약조성물(장용코팅 포함)을 청구 | ✅교차검증 | 2039-07-12 |
+| **US11041000B2** | compound, composition | Formula (Z') 단환 IL-23R 펩타이드 저해제(X4=Pen, X5=Asn, X6=Thr, X7=alkyl 치환 Trp, X9=Pen, 두 Pen 간 디설파이드)와 그 의약조성물을 청구 | ☑️부분교차검증(차이9) | 2040-07-09 |
+| **US10787490B2** | compound, use | PEG화·지질화(Palm/Octanyl/isoGlu 등) 변형을 포함하는 특정 IL-23R 펩타이드 저해제(SEQ ID NO:1115~1206 열거)를 청구하고, IBD(UC/CD) 치료방법을 청구 | ☑️부분교차검증(차이4) | 2035-07-15 |
+| **US9624268B2** | compound, composition | IL-23R 단환 펩타이드 저해제를 20잔기 Formula Ir 및 Xa의 광범위 초기 Markush로 청구(X4-X9 고리화)하고, 다수 개별 SEQ 화합물과 의약조성물까지 청구(PTG-200 계열 기초 물질특허) | ⚠️단일소스(GP) | 2035-07-15 |
+| **US10023614B2** | compound, composition | Formula (Xa)로 좁혀진 IL-23R 단환 펩타이드 저해제(X4=Pen, X6=Thr, X7=Trp, X8=Gln, X9=Pen 디설파이드)와 일부 이량체(DIG 링커) 화합물 및 그 의약조성물을 청구 | ⚠️단일소스(GP) | 2035-07-15 |
+| **US10941183B2** | use, compound | X4=Abu·X9=Cys 티오에터 고리화 단환 IL-23R 펩타이드 저해제를 투여해 염증성 장질환(IBD)을 치료하는 방법을 청구(용도·치료방법 특허) | ⚠️단일소스(GP) | 2035-07-15 |
+| **WO2016011208A1** | compound, composition, use | IL-23R 단환 펩타이드 저해제를 20잔기 Formula (Xa)의 매우 광범위한 1세대 Markush(X4-X9 고리화)로 청구하고, 펩타이드 이량체·의약조성물·IBD/건선 등 치료방법·DSS/TNBS 평가법까지 포괄(패밀리 시초 물질특허, PTG-200 기반) | ⚠️단일소스(GP) | PCT(N/A) |
+| **US12478617B2** | compound, composition, use | 구조식 군에서 선택되는 특정 IL-23 수용체 저해제 화합물(claim 1) 자체와 그 의약조성물, IL-23/IL-23R 관련 질환·IBD·UC·CD·PsO·PsA 치료방법을 청구 | ✅교차검증 | 2042-07-14 |
+| **US20240173309A1** | compound, composition, use | 구조식 군에서 선택되는 특정 IL-23 수용체 저해제 화합물(claim 23) 자체와 그 의약조성물, 그리고 IL-23/IL-23R 관련 질환·IBD·UC·CD·PsO·PsA 각각의 치료방법을 청구 | ✅교차검증 | 2042-07-14 |
+| **WO2023288019A2** | compound, composition, use | Formula I~X의 광범위 Markush 및 Table 1·실시예로 정의되는 IL-23R 저해 펩타이드(7MeW 등 다양한 비천연 Trp 치환, AEF, THP, 3Pya, 지질/PEG 변형 포함)와 그 의약조성물, 치료용도·치료방법을 청구(차세대 변형 확장) | ☑️부분교차검증(차이5) | PCT(N/A) |
+| **WO2024155552A1** | formulation, compound, use | 지질화(lipidated) IL-23R 펩타이드와 흡수촉진제를 함유하는 경구 제형(claim 1) 및 그 펩타이드 구조(Formula A/B, 단일·이중고리, 3Pya 고정, PEG/지질 치환)와 흡수촉진제 비율·생체이용률, 치료용도·치료방법을 청구 | ☑️부분교차검증(차이19) | PCT(N/A) |
+| **JP2023145581A** | formulation, composition, use | CA3202226과 동일 내용의 일본 출원으로, SEQ ID NO:1(icotrokinra)을 0.1~15%(w/w)로 함유하는 경구 제형(카프린산나트륨 흡수촉진제·SMCC·장용코팅)과 그 치료·IL-23R 억제 방법을 청구(원문은 일본어; GP 블록에 청구항 번호 없어 분절 불확실) | ⚠️부분(번호불확실) | 2043-07-24 |
 
 **패밀리 큰 그림:** 이 패밀리는 Protagonist/Janssen 계열의 경구 IL-23 수용체 길항 펩타이드(최종 후보 icotrokinra = JNJ-77242113 = SEQ ID NO:1, Ac-[Pen]*-N-T-[W(7-Me)]-[Lys(Ac)]-[Pen]*-Phe[4-(2-aminoethoxy)]-[2-Nal]-[THP]-E-N-[3-Pal]-Sarc-NH2)를 여러 층으로 둘러싸 보호한다. (1) 물질층: 초기 광범위 Markush(WO2016011208 = PTG-200 세대, US9624268/US10023614)부터 단환(monocyclic) IL-23R 펩타이드 화학종을 청구하고, 이후 WO2021146441/US20210261622로 3-Pal·Sarc 등 C-말단 한정을 도입해 icotrokinra 구조군으로 좁혀 들어간다. (2) 화학종 확정층: US11845808은 icotrokinra(SEQ ID NO:1)를 포함하는 좁은 단환 화학식과 개별 SEQ를 직접 청구하고, US12552836·US11041000·US10787490·US12018057·US12478617·US20240173309은 특정 SEQ/구조 화합물군을 청구한다. (3) 조성물·제형층: US11939361·CA3202226·JP2023145581은 SEQ ID NO:1을 0.1~15%(w/w)로 함유하고 sodium caprate 흡수촉진제·SMCC·장용코팅을 갖춘 경구 정제 제형(내상/외상 구조)을 청구한다. (4) 용도·치료방법층: 위 물질·조성물을 IBD·UC·CD·건선(PsO)·건선성관절염(PsA) 치료, 그리고 혈액·피부·연골·활막·소화관 조직에서 IL-23R 차단 및 IL-17A/F·IL-22 생성 억제에 사용하는 방법을 청구한다. (5) 차세대 확장층: WO2023288019·WO2024155552는 지질화(lipidated)·이중고리·PEG화 변형 펩타이드와 그 경구 제형으로 권리범위를 확장한다. 종합하면 동일 분자를 물질→화학종→염/형태(아세테이트·무정형)→제형→용도→차세대 변형 순으로 다단계 중첩 보호하는 전형적 패밀리이다.
 
