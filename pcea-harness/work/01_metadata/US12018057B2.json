@@ -25,7 +25,7 @@
     "US20210261622A1 / US11845808B2 (sibling app 17/149,509, same title)",
     "WO2021146441A1 (PCT/US2021/013463)"
   ],
-  "estimated_expiry": "추정 2040-01-15 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2041-01-14 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "Application 17/149,544 filed 2021-01-14; priority claim US Provisional 62/961,618 filed 2020-01-15 (note: a sibling provisional in the same Jan-2020 cluster as 62/961,624 cited by 17/149,509). IPC C07K14/47; A61K38/00. Inventors not surfaced by FPO. Expiry not source-confirmed (term + PTA) -> 확인불가.",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -36,5 +36,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }

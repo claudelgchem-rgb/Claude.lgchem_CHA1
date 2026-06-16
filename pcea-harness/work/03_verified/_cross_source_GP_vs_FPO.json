@@ -1,0 +1,146 @@
+{
+  "WO2021146441A1": {
+    "gp": 186,
+    "fpo": 167,
+    "both": 167,
+    "agree": 92,
+    "substantive_diff": 75,
+    "note": "GP full 186 vs FPO trunc 167"
+  },
+  "US20210261622A1": {
+    "gp": 50,
+    "fpo": 50,
+    "both": 50,
+    "agree": 36,
+    "substantive_diff": 14,
+    "note": ""
+  },
+  "US11845808B2": {
+    "gp": 30,
+    "fpo": 30,
+    "both": 30,
+    "agree": 26,
+    "substantive_diff": 4,
+    "note": ""
+  },
+  "US12018057B2": {
+    "gp": 10,
+    "fpo": 10,
+    "both": 10,
+    "agree": 10,
+    "substantive_diff": 0,
+    "note": ""
+  },
+  "US12552836B2": {
+    "gp": 21,
+    "fpo": 21,
+    "both": 21,
+    "agree": 21,
+    "substantive_diff": 0,
+    "note": ""
+  },
+  "US11041000B2": {
+    "gp": 26,
+    "fpo": 26,
+    "both": 26,
+    "agree": 17,
+    "substantive_diff": 9,
+    "note": ""
+  },
+  "US10787490B2": {
+    "gp": 18,
+    "fpo": 18,
+    "both": 18,
+    "agree": 14,
+    "substantive_diff": 4,
+    "note": ""
+  },
+  "US11939361B2": {
+    "gp": 16,
+    "fpo": 16,
+    "both": 16,
+    "agree": 16,
+    "substantive_diff": 0,
+    "note": ""
+  },
+  "CA3202226A1": {
+    "gp": 153,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "GP 153 vs FPO failed"
+  },
+  "WO2023288019A2": {
+    "gp": 22,
+    "fpo": 22,
+    "both": 22,
+    "agree": 17,
+    "substantive_diff": 5,
+    "note": ""
+  },
+  "US20240173309A1": {
+    "gp": 30,
+    "fpo": 52,
+    "both": 30,
+    "agree": 30,
+    "substantive_diff": 0,
+    "note": ""
+  },
+  "US12478617B2": {
+    "gp": 40,
+    "fpo": 40,
+    "both": 40,
+    "agree": 40,
+    "substantive_diff": 0,
+    "note": ""
+  },
+  "WO2024155552A1": {
+    "gp": 78,
+    "fpo": 79,
+    "both": 78,
+    "agree": 59,
+    "substantive_diff": 19,
+    "note": ""
+  },
+  "US9624268B2": {
+    "gp": 24,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "FPO missing"
+  },
+  "US10023614B2": {
+    "gp": 21,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "FPO missing"
+  },
+  "US10941183B2": {
+    "gp": 20,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "FPO missing"
+  },
+  "US11884748B2": {
+    "gp": 21,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "FPO missing"
+  },
+  "WO2016011208A1": {
+    "gp": 52,
+    "fpo": 0,
+    "both": 0,
+    "agree": 0,
+    "substantive_diff": 0,
+    "note": "FPO missing"
+  }
+}

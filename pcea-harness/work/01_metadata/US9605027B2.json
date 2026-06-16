@@ -24,7 +24,7 @@
     "US9169292 (parent)",
     "US8946150 (earlier parent)"
   ],
-  "estimated_expiry": "추정 2031-06-14 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2032-06-14 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "MISATTRIBUTED IN DISCOVERY — assignee is MEDICAL DIAGNOSTIC LABORATORIES, LLC, NOT Protagonist. This is a DIFFERENT party's IL-23R-binding polypeptide invention, unrelated to the icotrokinra/Protagonist program. App 14/922,630 filed 2015-10-26; CIP chain from 13/771,305 (2013-02-20, now US9169292) and 13/523,286 (2012-06-14, now US8946150); priority US provisional 61/520,710 (2011-06-14). FLAG FOR HUMAN REVIEW: not an icotrokinra family member; include only if competitor/landscape is in scope. Discovery's 'PTG-200 lineage / Protagonist' label is INCORRECT.",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -35,5 +35,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }

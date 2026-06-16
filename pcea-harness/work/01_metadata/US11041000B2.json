@@ -23,7 +23,7 @@
     "PCT/US2020/041409 (filed 2020-07-09, related international application)",
     "WO2021146441A1 (program PCT)"
   ],
-  "estimated_expiry": "추정 2039-07-10 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2040-07-09 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "Application 17/001,428 filed 2020-08-24. Priority: International App PCT/US2020/041409 (filed 2020-07-09); US Provisional 62/872,477 (filed 2019-07-10) = earliest priority. Assignee shown as Protagonist Therapeutics, Inc. on FPO. IPC C07K7/08; A61K38/00. Inventors not surfaced. Expiry not source-confirmed -> 확인불가.",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -34,5 +34,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }

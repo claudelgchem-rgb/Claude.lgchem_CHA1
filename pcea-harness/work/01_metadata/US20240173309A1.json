@@ -25,7 +25,7 @@
     "WO2023288019A2 (PCT/US2022/037205)",
     "US12478617B2 (granted from same app 18/495,457)"
   ],
-  "estimated_expiry": "추정 2041-07-14 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2042-07-14 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "PERIPHERAL (lipidated chemotype). App 18/495,457 filed 2023-10-26; benefit of PCT/US2022/037205 (2022-07-14) and US provisional 63/221,697 (2021-07-14). Same application later granted as US12478617B2. Inventors not surfaced.",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -36,5 +36,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }

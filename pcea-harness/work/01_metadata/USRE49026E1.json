@@ -24,7 +24,7 @@
     "US8946150",
     "US9605027B2 (related sibling, same assignee/program)"
   ],
-  "estimated_expiry": "추정 2031-06-14 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2032-06-14 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "MISATTRIBUTED IN DISCOVERY — assignee is MEDICAL DIAGNOSTIC LABORATORIES, LLC, NOT Protagonist. Reissue (app 15/727,360 filed 2017-10-06; reissued 2022-04-12) of US9169292 (lineage from 13/523,286 -> US8946150). Priority US provisional 61/520,710 (2011-06-14). Unrelated to icotrokinra/Protagonist program. FLAG FOR HUMAN REVIEW: not an icotrokinra family member. NOTE: this reissue derives from US9169292, which is a DIFFERENT original patent than US9605027B2 (also in this corpus) despite identical title; both are Medical Diagnostic Laboratories IL-23R polypeptide patents.",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -35,5 +35,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }

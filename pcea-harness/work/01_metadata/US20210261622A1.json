@@ -24,7 +24,7 @@
   "patent_family": [
     "WO2021146441A1 (PCT/US2021/013463; same title; international filing 2021-01-14)"
   ],
-  "estimated_expiry": "추정 2040-01-15 (우선일+20년; PTA/PTE 미반영)",
+  "estimated_expiry": "2041-01-14 (Google Patents anticipated expiration; 출원일+20년 기준, PTE/Hatch-Waxman 미반영)",
   "notes": "Priority claim per FPO front matter: US Provisional Application 62/961,624, filed 2020-01-15. Inventors not surfaced by FPO extraction (page lists assignees only). Cited related references on FPO page: US 11,041,000; 10,941,183; 10,196,424; 10,035,824; 9,624,268 (cross-references, not confirmed legal family). IPC C07K7/64. Attorney: Janssen BioPharma. Same application (17/149,509) later issued (see US11845808B2 sibling sharing app series).",
   "estimated_expiry_basis": {
     "method": "earliest priority/filing + 20y (US §154 utility term)",
@@ -35,5 +35,6 @@
       "PTE/Hatch-Waxman",
       "provisional-vs-nonprovisional distinction unverified"
     ]
-  }
+  },
+  "estimated_expiry_source": "google_patents (work/05_gp_authoritative)"
 }
