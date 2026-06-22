@@ -1,0 +1,127 @@
+{
+  "patent_id": "US11993776B2",
+  "source_url": "https://patents.google.com/patent/US11993776B2/en",
+  "source_type": "google_patents",
+  "retrieved_at": "2026-06-22T07:36:20Z",
+  "meta": {
+    "title": "Trans-splicing molecules",
+    "priorityDate": "2018-04-17",
+    "filingDate": "2019-04-17",
+    "publicationDate": "2024-05-28",
+    "assignee": [
+      "University of Pennsylvania Penn",
+      "Ascidian Therapeutics Inc"
+    ],
+    "anticipated_expiration": "2040-10-11",
+    "expiration_label": "Adjusted expiration",
+    "legal_status": ""
+  },
+  "claims": [
+    {
+      "claim_number": 1,
+      "claim_text": "1. A nucleic acid trans-splicing molecule comprising, operatively linked in a 3′-to-5′ direction: (a) a binding domain, wherein the binding domain comprises a sequence ranging from 50-300 nucleotides in length and is configured to bind ABCA4 intron 22 at a binding site within nucleotides 880 to 1,350 of SEQ ID NO: 28; (b) a splicing domain configured to mediate trans-splicing; and (c) a coding domain comprising functional ABCA4 exons 1-22; wherein the nucleic acid trans-splicing molecule is configured to trans-splice the coding domain to endogenous ABCA4 exon 23, thereby replacing endogenous ABCA4 exons 1-22 with the functional ABCA4 exons 1-22.",
+      "char_count": 653
+    },
+    {
+      "claim_number": 2,
+      "claim_text": "2. The nucleic acid trans-splicing molecule of claim 1, wherein the binding domain comprises a sequence ranging from 50-75 nucleotides in length, 75-100 nucleotides in length, 125-150 nucleotides in length, 150-175 nucleotides in length, 175-200 nucleotides in length, 200-250 nucleotides in length, 100-200 nucleotides in length, or 150 nucleotides in length.",
+      "char_count": 360
+    },
+    {
+      "claim_number": 3,
+      "claim_text": "3. The nucleic acid trans-splicing molecule of claim 1, wherein the binding domain comprises six or more consecutive nucleotides that are complementary to six or more nucleotides of the binding site.",
+      "char_count": 199
+    },
+    {
+      "claim_number": 4,
+      "claim_text": "4. The nucleic acid trans-splicing molecule of claim 1, wherein the binding domain comprises at least 10, at least 12, at least 15, at least 20, at least 25, at least 30, at least 40, at least 50, at least 60, at least 70, at least 80, at least 90, at least 100, at least 120, at least 150, or at least 200 consecutive nucleotides that are complementary to the binding site.",
+      "char_count": 374
+    },
+    {
+      "claim_number": 5,
+      "claim_text": "5. The nucleic acid trans-splicing molecule of claim 1, wherein the binding domain is 80% to 100% complementary to the binding site.",
+      "char_count": 132
+    },
+    {
+      "claim_number": 6,
+      "claim_text": "6. The nucleic acid trans-splicing molecule of claim 1, wherein the binding domain comprises six or more consecutive nucleotides that are complementary to six or more nucleotides of the binding site, wherein the binding domain is configured to bind ABCA4 intron 22 at a binding site comprising: (a) six or more of nucleotides 1041 to 1190 of SEQ ID NO: 28; (b) six or more of nucleotides 1171 to 1320 of SEQ ID NO: 28; or (c) six or more of nucleotides 1201 to 1350 of SEQ ID NO: 28.",
+      "char_count": 483
+    },
+    {
+      "claim_number": 7,
+      "claim_text": "7. The nucleic acid trans-splicing molecule of claim 1, wherein: (i) the coding domain is a cDNA sequence; (ii) the coding domain comprises a naturally-occurring sequence; (iii) the coding domain comprises a codon-optimized sequence; (iv) an artificial intron comprises a spacer sequence; (v) the trans-splicing molecule is from 3,000 to 4,000 nucleotides in length; (vi) the mutation in the ABCA4 gene is associated with Stargardt Disease; and/or (vii) the mutation is expressed in a photoreceptor cell.",
+      "char_count": 504
+    },
+    {
+      "claim_number": 8,
+      "claim_text": "8. A proviral plasmid comprising the nucleic acid trans-splicing molecule of claim 1.",
+      "char_count": 85
+    },
+    {
+      "claim_number": 9,
+      "claim_text": "9. An adeno-associated virus (AAV) comprising the nucleic acid molecule of claim 1.",
+      "char_count": 83
+    },
+    {
+      "claim_number": 10,
+      "claim_text": "10. The AAV of claim 9, wherein the AAV preferentially targets a photoreceptor cell and/or wherein the AAV comprises an AAV5 capsid protein, an AAV8 capsid protein, an AAV8(b) capsid protein, or an AAV9 capsid protein.",
+      "char_count": 218
+    },
+    {
+      "claim_number": 11,
+      "claim_text": "11. An adeno-associated virus (AAV) comprising an assembled capsid having packaged therein a vector genome comprising an AAV 5′ ITR, the nucleic acid molecule of claim 1 under the operative control of regulatory sequences and an AAV3′ ITR.",
+      "char_count": 239
+    },
+    {
+      "claim_number": 12,
+      "claim_text": "12. A method of correcting a mutation in any one or more of ABCA4 exons 1-22 in a subject in need thereof, the method comprising administering to the subject a pharmaceutical composition comprising the nucleic acid trans-splicing molecule of claim 1.",
+      "char_count": 250
+    },
+    {
+      "claim_number": 13,
+      "claim_text": "13. A method of treating a subject having a disorder associated with a mutation in any one or more of ABCA4 exons 1-22, the method comprising administering to the subject a pharmaceutical composition comprising the nucleic acid trans-splicing molecule of claim 1.",
+      "char_count": 263
+    },
+    {
+      "claim_number": 14,
+      "claim_text": "14. A pharmaceutical composition comprising the nucleic acid trans-splicing molecule claim 1, or a proviral plasmid or AAV plasmid thereof.",
+      "char_count": 139
+    },
+    {
+      "claim_number": 15,
+      "claim_text": "15. A method of treating a subject having a disorder associated with a mutation in ABCA4, the method comprising administering to the subject the pharmaceutical composition of claim 14.",
+      "char_count": 184
+    },
+    {
+      "claim_number": 16,
+      "claim_text": "16. A method of correcting a mutation in an ABCA4 gene in a target cell of a subject, the method comprising administering to the subject the pharmaceutical composition of claim 14.",
+      "char_count": 180
+    },
+    {
+      "claim_number": 17,
+      "claim_text": "17. The method of claim 16, wherein: (a) the subject has Stargardt Disease; (b) the composition is administered by subretinal injection, intravitreal injection, or intravenous injection; and/or (c) the subject exhibits at least 10% increase in ABCA4 protein expression after administration.",
+      "char_count": 290
+    },
+    {
+      "claim_number": 18,
+      "claim_text": "18. A nucleic acid trans-splicing molecule comprising, operatively linked in a 3′-to-5′ direction: (A) (a) a binding domain configured to bind ABCA4 intron 22 at a binding site comprising six or more of nucleotides 1041 to 1190 of SEQ ID NO: 28, wherein the binding domain comprises six or more consecutive nucleic acid residues that are complementary to the six or more nucleotides of the binding site; (b) a splicing domain; and (c) a coding domain comprising functional ABCA4 exons 1-22; wherein the nucleic acid trans-splicing molecule is configured to trans-splice the coding domain to endogenous ABCA4 exon 23, thereby replacing endogenous ABCA4 exons 1-22 with the functional ABCA4 exons 1-22; (B) (a) a binding domain configured to bind ABCA4 intron 22 at a binding site comprising six or more of nucleotides 1171 to 1320 of SEQ ID NO: 28, wherein the binding domain comprises six or more consecutive nucleic acid residues that are complementary to the six or more nucleotides of the binding site; (b) a splicing domain; and (c) a coding domain comprising functional ABCA4 exons 1-22; wherein the nucleic acid trans-splicing molecule is configured to trans-splice the coding domain to endogenous ABCA4 exon 23, thereby replacing endogenous ABCA4 exons 1-22 with the functional ABCA4 exons 1-22; or (C) (a) a binding domain configured to bind ABCA4 intron 22 at a binding site comprising six or more of nucleotides 1201 to 1350 of SEQ ID NO: 28, wherein the binding domain comprises six or more consecutive nucleic acid residues that are complementary to the six or more nucleotides of the binding site; (b) a splicing domain; and (c) a coding domain comprising functional ABCA4 exons 1-22; wherein the nucleic acid trans-splicing molecule is configured to trans-splice the coding domain to endogenous ABCA4 exon 23, thereby replacing endogenous ABCA4 exons 1-22 with the functional ABCA4 exons 1-22.",
+      "char_count": 1907
+    },
+    {
+      "claim_number": 19,
+      "claim_text": "19. The nucleic acid trans-splicing molecule of claim 18, wherein the binding domain comprises a sequence ranging from 50-75 nucleotides in length, 75-100 nucleotides in length, 125-150 nucleotides in length, or 150 nucleotides in length.",
+      "char_count": 238
+    },
+    {
+      "claim_number": 20,
+      "claim_text": "20. The nucleic acid trans-splicing molecule of claim 18, wherein the binding domain comprises at least 10, at least 12, at least 15, at least 20, at least 25, at least 30, at least 40, at least 50, at least 60, at least 70, at least 80, at least 90, at least 100, at least 120, at least 150, or at least 200 consecutive nucleotides that are complementary to the binding site.",
+      "char_count": 376
+    },
+    {
+      "claim_number": 21,
+      "claim_text": "21. The nucleic acid trans-splicing molecule of claim 19, wherein the binding domain is 80% to 100% complementary to the binding site.",
+      "char_count": 134
+    }
+  ],
+  "claim_count": 21
+}
