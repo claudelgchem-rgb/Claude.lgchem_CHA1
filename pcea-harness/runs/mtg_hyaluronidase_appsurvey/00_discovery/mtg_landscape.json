@@ -1,0 +1,208 @@
+{
+  "enzyme": "microbial transglutaminase",
+  "excluded_use": "ADC bioconjugation",
+  "retrieved_at": "2026-06-16",
+  "categories": [
+    {
+      "category": "Food",
+      "maturity": "established",
+      "confidence": "high",
+      "subareas": [
+        "cheese yield/whey",
+        "yogurt/fermented milk",
+        "meat & surimi restructuring",
+        "plant-based/alt-protein",
+        "tofu/vegan cheese",
+        "egg/gelatin gels, edible films & microcapsules",
+        "MPC"
+      ],
+      "representative_patents": [
+        "US5681598A",
+        "US6572901B2",
+        "US6093424A",
+        "EP1254601A1",
+        "US6224914B1",
+        "EP1749447B1",
+        "US20190021353A1",
+        "WO2022039281A1",
+        "US20120040053A1",
+        "DE69737580T2",
+        "US6908634B2",
+        "WO2023228575A1",
+        "WO2021119614A1",
+        "WO2014110540A1",
+        "US20090142449A1",
+        "WO2021138674A1",
+        "EP0963704A2",
+        "US5834232A",
+        "US6592916B2",
+        "KR20020008307A",
+        "DE10141166A1",
+        "US20140199436A1"
+      ],
+      "key_players": [
+        "Ajinomoto",
+        "Kraft",
+        "Solae/DuPont",
+        "Glanbia",
+        "Novozymes/Chr.Hansen",
+        "Maraxi/Impossible"
+      ]
+    },
+    {
+      "category": "Medical / biomaterials",
+      "maturity": "established(sealants) to emerging(bioinks)",
+      "confidence": "high(sealants),low(bioink/encapsulation)",
+      "subareas": [
+        "surgical sealant/hemostat (gelatin-mTG)",
+        "tissue engineering scaffold/implant",
+        "drug delivery crosslinked gel/depot",
+        "3D bioprinting bioink",
+        "cell encapsulation",
+        "wound/dermal/aesthetic"
+      ],
+      "representative_patents": [
+        "WO2008076407A2",
+        "US9636433B2",
+        "US8722039B2",
+        "US9655988B2",
+        "US8961544B2",
+        "US9295751B2",
+        "EP2037972B1",
+        "US20080305517A1",
+        "US6992172B1",
+        "US5834232A"
+      ],
+      "key_players": [
+        "Lifebond(Bard/BD)",
+        "Gelita/Tetec",
+        "Aston Univ",
+        "FibroGen",
+        "ZymoGenetics"
+      ]
+    },
+    {
+      "category": "Non-ADC bioconjugation",
+      "maturity": "established(PEGylation) to emerging",
+      "confidence": "high",
+      "subareas": [
+        "protein/peptide PEGylation & half-life extension",
+        "Q-tag site-specific labeling (fluorophore/biotin/chelator)",
+        "protein-protein/bispecific/vaccine conjugates",
+        "enzyme/protein immobilization & biocatalysis"
+      ],
+      "representative_patents": [
+        "CA2612794A1",
+        "US20100099610A1",
+        "WO2008102007A1",
+        "US7893019",
+        "US8580733",
+        "WO2000043492A2",
+        "US11130818B2",
+        "US11396649B2",
+        "EP3272864A1",
+        "WO2012059882A2",
+        "US12180465B2"
+      ],
+      "key_players": [
+        "Novo Nordisk",
+        "Bio-Ker",
+        "SmithKline",
+        "Merck",
+        "Paul Scherrer Institut",
+        "Pfizer/Rinat",
+        "IIT Delhi"
+      ]
+    },
+    {
+      "category": "Diagnostics / biosensors",
+      "maturity": "chemistry established, sensor-surface emerging",
+      "confidence": "high",
+      "representative_patents": [
+        "EP3272864A1",
+        "US11396649B2",
+        "WO2000043492A2",
+        "EP4201956A1",
+        "US11130818B2",
+        "US12180465B2"
+      ],
+      "key_players": [
+        "Paul Scherrer Institut",
+        "Roche(KalbTG)",
+        "Merck",
+        "SmithKline"
+      ]
+    },
+    {
+      "category": "Industrial / consumer",
+      "maturity": "niche to emerging",
+      "confidence": "high(textile/leather/cosmetics),low(paper/bioplastics)",
+      "subareas": [
+        "textile/wool/silk",
+        "leather casein finishing",
+        "cosmetics/hair",
+        "paper/adhesives/bioplastics (mostly academic)"
+      ],
+      "representative_patents": [
+        "US6051033A",
+        "US20030154555A1",
+        "US5531795A",
+        "EP0673441B1",
+        "US5490980A",
+        "US6399052B2",
+        "US9011828B2",
+        "WO2006040447A1",
+        "US5525336A"
+      ],
+      "key_players": [
+        "Novo Nordisk",
+        "Unilever/Conopco",
+        "Estee Lauder",
+        "L'Oreal"
+      ]
+    },
+    {
+      "category": "Pet food / animal feed",
+      "maturity": "niche to emerging",
+      "confidence": "medium",
+      "representative_patents": [
+        "US6528100B1",
+        "WO2021138674A1"
+      ],
+      "key_players": [
+        "Nutreco/Skretting",
+        "Fybraworks"
+      ]
+    },
+    {
+      "category": "Non-therapeutic oral/dental (WHITE SPACE)",
+      "maturity": "pre-commercial",
+      "confidence": "high(negative finding)",
+      "note": "No confirmed mTG product patent; salivary-pellicle crosslinking is mammalian TG2/TG3 literature.",
+      "representative_patents": [],
+      "key_players": [
+        "Unilever R&D (interest)"
+      ]
+    },
+    {
+      "category": "(enabling) enzyme platform IP",
+      "maturity": "established",
+      "confidence": "high",
+      "note": "foundational, not an application per se",
+      "representative_patents": [
+        "US5156956A",
+        "EP0379606B1",
+        "US5252469A",
+        "US7329521B2",
+        "US6190879B1",
+        "US6660510B2",
+        "US6030821A"
+      ],
+      "key_players": [
+        "Ajinomoto",
+        "Amano",
+        "Novozymes"
+      ]
+    }
+  ]
+}

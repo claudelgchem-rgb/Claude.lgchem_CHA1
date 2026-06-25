@@ -1,0 +1,199 @@
+{
+  "enzyme": "hyaluronidase",
+  "excluded_use": "SC formulation / co-administration delivery enhancement (ENHANZE)",
+  "retrieved_at": "2026-06-16",
+  "categories": [
+    {
+      "category": "Oncology — tumor stroma/ECM HA degradation",
+      "maturity": "established(PEGPH20) to emerging(cell/virus)",
+      "confidence": "high",
+      "subareas": [
+        "PEGPH20 systemic IV + chemo/IO",
+        "HAase-expressing CAR-T",
+        "oncolytic virus carrying PH20"
+      ],
+      "representative_patents": [
+        "US9913822B2",
+        "US11414489B2",
+        "US8846034B2",
+        "US9458442B2",
+        "US10328130B2",
+        "US7767429B2",
+        "WO2017201635A1",
+        "US10316065B2"
+      ],
+      "key_players": [
+        "Halozyme",
+        "VCN/IDIBELL"
+      ]
+    },
+    {
+      "category": "Aesthetic — HA filler dissolution & vascular-occlusion rescue",
+      "maturity": "practice large, IP niche",
+      "confidence": "high(Med Progress),med(filler-composition)",
+      "representative_patents": [
+        "US11890331B2",
+        "US11878051B2",
+        "US11672750B2",
+        "WO2019197608A1"
+      ],
+      "key_players": [
+        "Med Progress",
+        "Merz (filler reversibility)",
+        "off-label Hylenex/Vitrase/Amphadase/Hyalase"
+      ]
+    },
+    {
+      "category": "Ophthalmology — vitreolysis / vitreous hemorrhage",
+      "maturity": "niche",
+      "confidence": "high",
+      "representative_patents": [
+        "US6610292B2",
+        "US6551590B2",
+        "US6939542B2",
+        "WO1999040933A1",
+        "US7829081B2"
+      ],
+      "key_players": [
+        "ISTA/Bausch+Lomb (Vitrase)",
+        "Schepens",
+        "Halozyme"
+      ]
+    },
+    {
+      "category": "Local/regional anesthesia adjunct (spreading factor)",
+      "maturity": "clinical established, IP prior-art",
+      "confidence": "medium",
+      "representative_patents": [
+        "US7767429B2"
+      ],
+      "key_players": [
+        "Halozyme(Hylenex)",
+        "ISTA(Vitrase)",
+        "Amphastar(Amphadase)"
+      ]
+    },
+    {
+      "category": "Edema / lymphedema / fibrosis & scar",
+      "maturity": "emerging to niche",
+      "confidence": "high/med",
+      "subareas": [
+        "lymphedema",
+        "cerebral edema/ICP",
+        "keloid/hypertrophic scar",
+        "scar prevention",
+        "cellulite/fibrosis"
+      ],
+      "representative_patents": [
+        "US20140323930A1",
+        "US12042528B2",
+        "US8765685B2",
+        "WO2009128917A2",
+        "US10328130B2",
+        "WO2014179262A1",
+        "US20140328826A1",
+        "WO2009037566A2",
+        "US8288142B2",
+        "US4524065A",
+        "US9822351B2"
+      ],
+      "key_players": [
+        "Columbia Univ",
+        "Halozyme",
+        "Cole Research & Design",
+        "Bio-Specifics",
+        "Fidia"
+      ]
+    },
+    {
+      "category": "Cardiovascular — MI infarct salvage / thrombolysis adjunct",
+      "maturity": "niche/dormant",
+      "confidence": "high(MI patents),low(thrombolysis)",
+      "representative_patents": [
+        "US4410531A",
+        "EP1447090B1",
+        "US20080124316A1",
+        "WO2015023680A1"
+      ],
+      "key_players": [
+        "Biorex",
+        "Bungard/Cullmann",
+        "Stealth BioTherapeutics"
+      ]
+    },
+    {
+      "category": "Fertility / IVF / ICSI",
+      "maturity": "established practice",
+      "confidence": "high",
+      "subareas": [
+        "oocyte denudation (cumulus removal)",
+        "HA-binding sperm selection (PICSI/HBA)"
+      ],
+      "representative_patents": [
+        "US11723959B2",
+        "WO2010141320A1",
+        "WO2022081966A1",
+        "US5897988A",
+        "US4804537A"
+      ],
+      "key_players": [
+        "Halozyme(Cumulase)",
+        "Yale->Biocoat",
+        "Mariposa",
+        "Overture"
+      ]
+    },
+    {
+      "category": "Orthopedic / CNS / Urology / Veterinary / Diagnostics (niche cluster)",
+      "maturity": "niche",
+      "confidence": "high/med",
+      "subareas": [
+        "intervertebral disc chemonucleolysis",
+        "spinal arachnoiditis/cerebral edema",
+        "Peyronie's",
+        "bovine mastitis (vet)",
+        "HA assay reagent / companion Dx"
+      ],
+      "representative_patents": [
+        "US8740982B2",
+        "US9414930B2",
+        "US12042528B2",
+        "US20040146494A1",
+        "US10208300B2",
+        "US9458442B2"
+      ],
+      "key_players": [
+        "Medtronic/Kyphon",
+        "Columbia",
+        "Fidia",
+        "Halozyme"
+      ]
+    },
+    {
+      "category": "(enabling) enzyme composition/engineering platform",
+      "maturity": "established/emerging",
+      "confidence": "high",
+      "note": "foundational; Halozyme vs Alteogen variant IP dispute active",
+      "representative_patents": [
+        "US7767429B2",
+        "US8202517B2",
+        "US7871607B2",
+        "US9447401B2",
+        "US10865400B2",
+        "US12371683B2",
+        "CA3093885A1",
+        "US20210155913A1",
+        "US20230250408A1",
+        "WO2020197230A1",
+        "US12221638B2",
+        "US9822351B2",
+        "US10208300B2"
+      ],
+      "key_players": [
+        "Halozyme",
+        "Alteogen",
+        "Fidia"
+      ]
+    }
+  ]
+}
