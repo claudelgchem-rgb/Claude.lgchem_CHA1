@@ -1,0 +1,18 @@
+{
+  "harness": "mtg-research",
+  "spec": "input/research_spec.yaml",
+  "as_of": "2026-07-01",
+  "stages": {
+    "00_landscape": {"status": "pending", "note": "후보 가교제별 시판/규제/시장 근거 스캔"},
+    "01_evidence": {"status": "pending", "note": "Q1/Q2/Q3 claim 단위 근거 수집"},
+    "02_verified": {"status": "pending", "note": "핵심 claim 적대적 재검증"},
+    "03_synthesis": {"status": "pending", "note": "세 질문 결론 합성(answers.json)"},
+    "report": {"status": "pending", "note": "report/index.html 생성"}
+  },
+  "ledger": "ledger/claims.jsonl",
+  "gates": {
+    "gate1": "핵심 claim 은 verification.status != unverified 이어야 결론에 인용",
+    "gate2": "answers.json 결론은 Q1 랭킹 근거 + Q2 양면 + Q3 방면 커버 후에만 complete"
+  },
+  "counts": {"claims": 0, "confirmed": 0, "review_queue": 0}
+}

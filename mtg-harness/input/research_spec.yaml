@@ -1,0 +1,83 @@
+# mTG 리서치 하니스 입력 사양 (research_spec)
+# 실행: /run-mtg-research [이 파일 경로]  (생략 시 input/research_spec.yaml)
+
+meta:
+  title: "mTG(미생물 transglutaminase) 실런트·지혈재·조직접착제 가교제 리서치"
+  output_language: ko          # 분석 산문 언어. 제품명/규제명/화학명은 원어 병기.
+  as_of: "2026-07-01"
+
+config:
+  retry_limit: 2               # 검증 재수집 상한
+  min_sources_per_claim: 1     # claim 당 최소 출처 (high 신뢰도는 2+ 권장)
+  preferred_source_types:      # 근거 신뢰 가중치 순
+    - regulatory               # FDA 510(k)/PMA, CE, PMDA, 라벨
+    - systematic_review        # 메타분석/체계적 문헌고찰
+    - peer_reviewed            # 동료심사 논문
+    - market_report            # 시장조사(수치는 교차검증 필요)
+    - manufacturer             # 제조사 IFU/백서(편향 주의)
+    - news_secondary           # 2차 보도(최하 가중)
+
+# ── 리서치 목표: 세 질문이 곧 최종 산출물 ─────────────────────────
+questions:
+  Q1:
+    key: dominant_crosslinker
+    ask: >
+      실런트·지혈재·조직접착제 업계에서 가교제로 가장 많이 쓰이는 물질/화학은?
+      시판 제품·규제 승인·시장 점유 근거로 실제 1위를 규명한다.
+    method: >
+      후보별로 (a)대표 시판제품 (b)규제 승인(FDA/CE/PMDA) (c)적응증
+      (d)시장 규모/점유 근거 를 수집해 claim 화하고, 가교 화학축으로 랭킹한다.
+    candidates:                # 가설일 뿐 — 근거로 확정/확장
+      - id: fibrin
+        chem: "fibrinogen + thrombin (Factor XIIIa 매개 ε-(γ-glutamyl)lysine 가교)"
+        exemplars: ["Tisseel", "Evicel", "Evarrest", "Artiss"]
+      - id: gelatin_thrombin
+        chem: "gelatin matrix + thrombin (flowable hemostat)"
+        exemplars: ["Floseal", "Surgiflo"]
+      - id: peg_nhs
+        chem: "multi-arm PEG NHS-ester (아민 가교)"
+        exemplars: ["CoSeal", "DuraSeal", "Progel", "Adherus"]
+      - id: glutaraldehyde_albumin
+        chem: "BSA + glutaraldehyde (알데하이드-아민 가교)"
+        exemplars: ["BioGlue"]
+      - id: cyanoacrylate
+        chem: "n-butyl/2-octyl cyanoacrylate (음이온 중합)"
+        exemplars: ["Dermabond", "Histoacryl", "Omnex", "TissuGlu(urethane)"]
+      - id: grf_grfg
+        chem: "gelatin-resorcinol + formaldehyde(/glutaraldehyde)"
+        exemplars: ["GRF glue", "GRFG"]
+      - id: mtg_reference
+        chem: "microbial transglutaminase (mTG) — 본 리서치 대상, 비교 기준"
+        exemplars: ["연구단계/식품효소 유래"]
+
+  Q2:
+    key: mtg_vs_dominant
+    ask: >
+      Q1 대표 가교제(들) 대비 mTG의 장단점을 다축으로 분석.
+    axes:                      # 각 축마다 pro/con claim 생성
+      - gelation      # 겔화 조건·속도·트리거
+      - mechanical    # 인장/전단 접착강도, 파열압
+      - cytotoxicity  # 세포독성·생체적합성
+      - blood_dependency  # 혈액제제(피브리노겐/트롬빈) 의존성
+      - immunogenicity    # 면역원성 (조직 tTG 모방/항체 논쟁 포함)
+      - degradation   # 흡수·분해 거동
+      - gmp_supply    # GMP 원료 공급·순도·스케일업
+      - regulatory    # 규제 경로(효소=원료 이슈, food-grade vs medical-grade)
+      - cost          # 원가/제조비
+
+  Q3:
+    key: mtg_potential
+    ask: >
+      여러 기술 방면에서 mTG의 잠재력을 규명.
+    avenues:
+      - enzyme_engineering   # 저면역원성/위치특이성 변이체, zymogen, 재조합
+      - dual_crosslink       # GelMA-photo + mTG, PEG/mTG 등 병용 이중가교
+      - biomimetic_clotting  # FXIIIa 모방 응고 설계
+      - indication_fit       # 흡수성/국소/일시 vs 영구 적응증 적합성
+      - supply_scaleup       # 공급망/스케일업/원가경쟁력
+
+# ── 산출 ────────────────────────────────────────────────────────
+deliverables:
+  ledger: ledger/claims.jsonl        # claim 단위 근거 원장
+  synthesis: work/03_synthesis/answers.json
+  report: report/index.html          # 최종 HTML 보고서 (★목표 산출물)
