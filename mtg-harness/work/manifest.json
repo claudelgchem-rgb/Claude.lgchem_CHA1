@@ -55,6 +55,40 @@
       },
       "hair_growth_verdict": "refuted (성장); mTG 섬유강화/보수만 plausible",
       "as_of": "2026-07-02"
+    },
+    "tg_sectors_ext": {
+      "question": "조직접합/점착 유용 mTG 섹터 + 일반 TG 활용 영역 확장판 (ADC 제외, 최대 다양성)",
+      "ledger": "ledger/tg_sectors_ext.jsonl",
+      "report": "report/tg-sectors.html",
+      "synthesis": "work/09_ext_synth/recommendation.json",
+      "records": 150,
+      "domains": 10,
+      "adc_excluded": true,
+      "new_clusters": [
+        "veterinary_aesthetic",
+        "pharma_delivery",
+        "green_industrial",
+        "specialty_food"
+      ],
+      "confidence": {
+        "상": 55,
+        "중": 69,
+        "하": 26
+      },
+      "verification": {
+        "confirmed": 80,
+        "plausible": 55,
+        "unverified": 15
+      },
+      "standouts": [
+        "dysphagia/clinical-nutrition food",
+        "clean-label phosphate replacement",
+        "veterinary hemostat/dental GBR",
+        "live-cell-surface engineering (non-ADC)",
+        "glycoconjugate vaccine carrier conjugation"
+      ],
+      "notes": "EU meat-glue ban = myth (thrombin, not mTG); many industrial uses lose to cheaper crosslinkers (PAE/genipin); hair-growth refuted, fiber-strengthening plausible",
+      "as_of": "2026-07-02"
     }
   }
 }
