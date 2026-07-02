@@ -26,11 +26,13 @@ VER = {
     "refuted":    ("반증", "#d03b3b"),
     "unverified": ("미검", "#898781"),
 }
-REC = {  # 추천도 (ordinal state)
-    "strong":   ("강력 추천", "#2a78d6"),
-    "moderate": ("검토 권장", "#1baf7a"),
-    "watch":    ("관망", "#898781"),
+REC = {  # 추천도 (ordinal state) — 카드 칩(텍스트 라벨 동반)
+    "strong":   ("강력 추천", "#184f95"),
+    "moderate": ("검토 권장", "#256abf"),
+    "watch":    ("관망", "#6c6a65"),
 }
+# 도메인 분포 차트용 ordinal 청색 램프 (dark=strong→light=watch, validator PASS)
+REC_CHART = {"strong": "#184f95", "moderate": "#3987e5", "watch": "#86b6ef"}
 DOMAIN_KO = {
     "medical": "의료·임상 접착",
     "tissue_eng": "조직공학·바이오제작·바이오인터페이스",
@@ -138,14 +140,14 @@ def domain_chart(recs):
             if not c:
                 continue
             w = c / maxn * 100
-            col = REC[rk][1]
+            col = REC_CHART[rk]
             segs.append(f'<span class="seg" style="width:{w:.2f}%;background:{col}" '
                         f'title="{REC[rk][0]} {c}"></span>')
         rows.append(
             f'<div class="brow"><div class="blabel">{esc(DOMAIN_KO.get(dom, dom))}</div>'
             f'<div class="btrack">{"".join(segs)}<span class="bnum">{total}</span></div></div>')
     legend = "".join(
-        f'<span class="lg"><span class="sw" style="background:{REC[k][1]}"></span>{REC[k][0]}</span>'
+        f'<span class="lg"><span class="sw" style="background:{REC_CHART[k]}"></span>{REC[k][0]}</span>'
         for k in ("strong", "moderate", "watch"))
     return (f'<div class="chart"><div class="legend">{legend}</div>{"".join(rows)}</div>')
 

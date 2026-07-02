@@ -34,5 +34,27 @@
     "confirmed": 47,
     "review_queue": 0
   },
-  "q1_answer": "fibrin (규제·적응증 폭 1위; 시장점유 근소)"
+  "q1_answer": "fibrin (규제·적응증 폭 1위; 시장점유 근소)",
+  "campaigns": {
+    "tg_sectors": {
+      "question": "생체조직 접합/점착 유용 섹터 추천 + 일반 TG 활용 영역 (발모 가설 포함)",
+      "ledger": "ledger/tg_sectors.jsonl",
+      "report": "report/tg-sectors.html",
+      "synthesis": "work/06_sectors_synth/recommendation.json",
+      "records": 86,
+      "domains": 6,
+      "confidence": {
+        "상": 42,
+        "중": 41,
+        "하": 3
+      },
+      "verification": {
+        "confirmed": 52,
+        "plausible": 32,
+        "unverified": 2
+      },
+      "hair_growth_verdict": "refuted (성장); mTG 섬유강화/보수만 plausible",
+      "as_of": "2026-07-02"
+    }
+  }
 }
