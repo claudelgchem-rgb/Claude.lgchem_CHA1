@@ -38,8 +38,12 @@ DOMAIN_KO = {
     "tissue_eng": "조직공학·바이오제작·바이오인터페이스",
     "food_industrial": "식품·산업 바이오접착",
     "hair": "모발 (발모 가설 포함)",
-    "biotech": "바이오텍 툴 (ADC·표지·고정)",
+    "biotech": "바이오텍 툴 (표지·고정·비-ADC)",
     "therapeutic": "치료·진단 (TG2 억제 등)",
+    "veterinary_aesthetic": "수의·미용/피부·치과 바이오소재",
+    "pharma_delivery": "제약 전달·세포치료·진단/바이오센싱 (비-ADC)",
+    "green_industrial": "친환경·산업 소재·농업",
+    "specialty_food": "특수·미래식품·대체단백·임상영양",
 }
 SRC_LABEL = {"regulatory": "규제", "systematic_review": "메타분석", "peer_reviewed": "논문",
              "market_report": "시장", "manufacturer": "제조사", "patent": "특허",
